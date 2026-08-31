@@ -1,0 +1,314 @@
+[
+	{
+		"name": "Monastery Locations",
+		"children": [
+			{
+				"name": "First Shaft",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 672,
+						"y": 572
+					}
+				]
+			},
+			{
+				"name": "Lower Dead End",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 712,
+						"y": 512
+					}
+				]
+			},
+			{
+				"name": "Magnet Room Free",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 592,
+						"y": 512
+					}
+				]
+			},
+			{
+				"name": "Magnet Room Top Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 592,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Big Room Ledge",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 572,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Big Room Under Shelf",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 572,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Blocks Glyph",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 512,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Blocks Reward Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 532,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Central Freestanding",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 632,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Second Big Room Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 692,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Second Big Room Upper Ledge",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 712,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Hidden Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 652,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Final Shaft",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Chest"
+					},
+					{
+						"name": "Hidden Item"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 772,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Final Shaft Free Item",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 772,
+						"y": 432
+					}
+				]
+			},
+			{
+				"name": "Final Dead End",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 812,
+						"y": 412
+					}
+				]
+			},
+			{
+				"name": "Long Hall Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 712,
+						"y": 412
+					}
+				]
+			},
+			{
+				"name": "Pre-Boss Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 612,
+						"y": 412
+					}
+				]
+			},
+			{
+				"name": "Arthroverta No-Hit Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 632,
+						"y": 392
+					}
+				]
+			},
+			{
+				"name": "Albus Event",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Monastery",
+						"x": 652,
+						"y": 392
+					}
+				]
+			},
+		]
+	}
+]

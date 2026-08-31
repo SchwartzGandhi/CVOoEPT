@@ -1,0 +1,119 @@
+[
+	{
+		"name": "Large Cavern Locations",
+		"children": [
+			{
+				"name": "Rest Room 1",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Large Cavern",
+						"x": 572,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Rest Room 2",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Large Cavern",
+						"x": 672,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Rest Room 3",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Large Cavern",
+						"x": 572,
+						"y": 532
+					}
+				]
+			},
+			{
+				"name": "Rest Room 4",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Large Cavern",
+						"x": 672,
+						"y": 572
+					}
+				]
+			},
+			{
+				"name": "Jiang Shi No-Hit Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Large Cavern",
+						"x": 642,
+						"y": 572
+					}
+				]
+			},
+			{
+				"name": "Final Reward 1",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Large Cavern",
+						"x": 612,
+						"y": 572
+					}
+				]
+			},
+			{
+				"name": "Final Reward 2",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Large Cavern",
+						"x": 612,
+						"y": 592
+					}
+				]
+			}
+		]
+	}
+]

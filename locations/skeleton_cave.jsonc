@@ -1,0 +1,131 @@
+[
+	{
+		"name": "Skeleton Cave Locations",
+		"children": [
+			{
+				"name": "First Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Skeleton Cave",
+						"x": 792,
+						"y": 432
+					}
+				]
+			},
+			{
+				"name": "Second Hall Ledge",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Skeleton Cave",
+						"x": 692,
+						"y": 432
+					}
+				]
+			},
+			{
+				"name": "Dead End",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Upper"
+					},
+					{
+						"name": "Lower"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Skeleton Cave",
+						"x": 552,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Center Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Skeleton Cave",
+						"x": 672,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Bottom Corner",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "In Wall"
+					},
+					{
+						"name": "Near Chest"
+					},
+					{
+						"name": "Far Chest"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Skeleton Cave",
+						"x": 722,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Maneater No-Hit Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Skeleton Cave",
+						"x": 602,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Final Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Chest"
+					},
+					{
+						"name": "Pickup"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Skeleton Cave",
+						"x": 552,
+						"y": 492
+					}
+				]
+			},
+		]
+	}
+]

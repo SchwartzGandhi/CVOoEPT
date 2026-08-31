@@ -1,0 +1,268 @@
+[
+	{
+		"name": "Castle Entrance Locations", // Nightmare Gate
+		"children": [
+			{
+				"name": "Entry Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 332,
+						"y": 552
+					}
+				]
+			},
+			{
+				"name": "First Shaft Hidden Item",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 372,
+						"y": 532
+					}
+				]
+			},
+			{
+				"name": "Second Big Lower",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 332,
+						"y": 512
+					}
+				]
+			},
+			{
+				"name": "Second Big Hidden Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 352,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Paries Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 412,
+						"y": 512
+					}
+				]
+			},
+			{
+				"name": "Past Paries Big Room Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 472,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Near Basement Center",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 542,
+						"y": 532
+					}
+				]
+			},
+			{
+				"name": "Before Switch Wall",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 582,
+						"y": 532
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Library Locations", // Bloody Tomes
+		"children": [
+			{
+				"name": "First Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 332,
+						"y": 372
+					}
+				]
+			},
+			{
+				"name": "Pre-Boss Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 352,
+						"y": 292
+					}
+				]
+			},
+			{
+				"name": "Wallman No-Hit Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 392,
+						"y": 292
+					}
+				]
+			},
+			{
+				"name": "Past Wallman",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 412,
+						"y": 292
+					}
+				]
+			},
+			{
+				"name": "Hidden Room Free",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 432,
+						"y": 372
+					}
+				]
+			},
+			{
+				"name": "Hidden Room Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 412,
+						"y": 372
+					}
+				]
+			},
+			{
+				"name": "Near End Hidden Item",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 572,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Final Room Item",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 532,
+						"y": 492
+					}
+				]
+			},
+		]
+	}
+]

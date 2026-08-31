@@ -1,0 +1,135 @@
+[
+	{
+		"name": "Giant's Dwelling Locations",
+		"children": [
+			{
+				"name": "Entrance Hidden Item",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Giant's Dwelling",
+						"x": 532,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "First Main Room Top",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Giant's Dwelling",
+						"x": 562,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "First Corner",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Giant's Dwelling",
+						"x": 592,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Above Entrance",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Giant's Dwelling",
+						"x": 672,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Bottom Right Room Pickup",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Giant's Dwelling",
+						"x": 832,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Goliath No-Hit Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Giant's Dwelling",
+						"x": 742,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Albus 2",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Giant's Dwelling",
+						"x": 782,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Area Exit",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Giant's Dwelling",
+						"x": 812,
+						"y": 452
+					}
+				]
+			}
+		]
+	}
+]

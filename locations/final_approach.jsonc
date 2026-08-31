@@ -1,0 +1,243 @@
+[
+	{
+		"name": "Final Approach Locations", // Dust to Dust
+		"children": [
+			{
+				"name": "Lower Big Room Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 912,
+						"y": 272
+					}
+				]
+			},
+			{
+				"name": "Central Room Left Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 612,
+						"y": 272
+					}
+				]
+			},
+			{
+				"name": "Central Room Pickup",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 632,
+						"y": 272
+					}
+				]
+			},
+			{
+				"name": "Central Room Right Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 652,
+						"y": 272
+					}
+				]
+			},
+			{
+				"name": "Treasure Room Left",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Far Left"
+					},
+					{
+						"name": "Second From Left"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 622,
+						"y": 232
+					}
+				]
+			},
+			{
+				"name": "Treasure Room Right",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Far Right"
+					},
+					{
+						"name": "Second From Right"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 642,
+						"y": 232
+					}
+				]
+			},
+			{
+				"name": "Final Room Hidden Item",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 872,
+						"y": 202
+					}
+				]
+			},
+			{
+				"name": "Upper Isolated Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 812,
+						"y": 212
+					}
+				]
+			},
+			{
+				"name": "Upper Isolated Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 812,
+						"y": 212
+					}
+				]
+			},
+			{
+				"name": "Final Stash Left",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Far Left"
+					},
+					{
+						"name": "Second From Left"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 842,
+						"y": 172
+					}
+				]
+			},
+			{
+				"name": "Final Stash Right",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Far Right"
+					},
+					{
+						"name": "Second From Right"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 862,
+						"y": 172
+					}
+				]
+			},
+			{
+				"name": "Throne Right Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 792,
+						"y": 212
+					}
+				]
+			},
+			{
+				"name": "Throne Left Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 772,
+						"y": 212
+					}
+				]
+			},
+			{
+				"name": "Defeat Dracula",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 722,
+						"y": 172
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,454 @@
+[
+	{
+		"name": "Kalidus Channel Locations",
+		"children": [
+			{
+				"name": "First Room Underwater",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 472,
+						"y": 412
+					}
+				]
+			},
+			{
+				"name": "Second Room Underwater",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 512,
+						"y": 412
+					}
+				]
+			},
+			{
+				"name": "Third Room Underwater",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 592,
+						"y": 412
+					}
+				]
+			},
+			{
+				"name": "Hallway",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Item 1"
+					},
+					{
+						"name": "Item 2"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 632,
+						"y": 392
+					}
+				]
+			},
+			{
+				"name": "Right Side Hidden Item",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 692,
+						"y": 392
+					}
+				]
+			},
+			{
+				"name": "Right Side Underwater Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 712,
+						"y": 412
+					}
+				]
+			},
+			{
+				"name": "Right Exit Underwater Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 832,
+						"y": 412
+					}
+				]
+			},
+			{
+				"name": "Upper Exit",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 852,
+						"y": 392
+					}
+				]
+			},
+			{
+				"name": "Depths First Room Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 752,
+						"y": 552
+					}
+				]
+			},
+			{
+				"name": "Depths Right Left Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 732,
+						"y": 512
+					}
+				]
+			},
+			{
+				"name": "Depths Right Center Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 752,
+						"y": 512
+					}
+				]
+			},
+			{
+				"name": "Depths Right Right Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 772,
+						"y": 512
+					}
+				]
+			},
+			{
+				"name": "Depths Rightmost Shaft Freestanding",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 792,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Right Depths Dead End Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 732,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Depths Secret Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Left Chest"
+					},
+					{
+						"name": "Center Chest"
+					},
+					{
+						"name": "Right Chest"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 792,
+						"y": 432
+					}
+				]
+			},
+			{
+				"name": "Depths Right Shaft Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 712,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Depths Central",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 662,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Depths Left Tall Room Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 552,
+						"y": 432
+					}
+				]
+			},
+			{
+				"name": "Depths Left Tall Room Freestanding",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 572,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Depths Left Small Vertical Freestanding",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 592,
+						"y": 512
+					}
+				]
+			},
+			{
+				"name": "Depths Left Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 552,
+						"y": 512
+					}
+				]
+			},
+			{
+				"name": "Ship Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Upper Right"
+					},
+					{
+						"name": "Upper Left"
+					},
+					{
+						"name": "Center Left Chest"
+					},
+					{
+						"name": "Center Freestanding"
+					},
+					{
+						"name": "Center Right Chest"
+					},
+					{
+						"name": "Lower Center Chest"
+					},
+					{
+						"name": "Lower Left Chest"
+					},
+					{
+						"name": "Lower Right Chest"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 602,
+						"y": 562,
+						"size": 24
+					}
+				]
+			},
+			{
+				"name": "Ship Room Hidden Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 552,
+						"y": 572
+					}
+				]
+			},
+			{
+				"name": "Deepest Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 632,
+						"y": 572
+					}
+				]
+			},
+			{
+				"name": "Depths Lower Left",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 452,
+						"y": 512
+					}
+				]
+			},
+			{
+				"name": "Lower Exit",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Kalidus Channel",
+						"x": 432,
+						"y": 532
+					}
+				]
+			}
+		]
+	}
+]

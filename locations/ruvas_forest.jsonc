@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Ruvas Forest Locations",
+		"children": [
+			{
+				"name": "First Room Freestanding",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Ruvas Forest",
+						"x": 472,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Left Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Ruvas Forest",
+						"x": 632,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Right Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Ruvas Forest",
+						"x": 652,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Area Exit",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Ruvas Forest",
+						"x": 892,
+						"y": 472
+					}
+				]
+			}
+		]
+	}
+]

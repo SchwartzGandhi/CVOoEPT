@@ -1,0 +1,384 @@
+[
+	{
+		"name": "Minera Prison Island Locations",
+		"children": [
+			{
+				"name": "Giant Skeleton No-Hit Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 322,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Entrance Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 512,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Entrance Pickup",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 512,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Lower Spear Hall First Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 552,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Lower Spear Hall Later Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 572,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Lower Spear Hall Ending Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 592,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Upper Spear Hall",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 562,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Hidden Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 592,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Right Entry Shaft Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 612,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Shaft Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 652,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Top Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Chest"
+					},
+					{
+						"name": "Pickup"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 652,
+						"y": 372
+					}
+				]
+			},
+			{
+				"name": "Left Lower Hall",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 592,
+						"y": 532
+					}
+				]
+			},
+			{
+				"name": "Albus 1",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 662,
+						"y": 552
+					}
+				]
+			},
+			{
+				"name": "Room Past Albus",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 732,
+						"y": 552
+					}
+				]
+			},
+			{
+				"name": "Lowest Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 752,
+						"y": 552
+					}
+				]
+			},
+			{
+				"name": "Lower Right Hall",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 732,
+						"y": 532
+					}
+				]
+			},
+			{
+				"name": "Right Central Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 672,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Right Vertical",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Chest"
+					},
+					{
+						"name": "Hidden Item"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 712,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Right Spear Hall Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 762,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Shaft Near Exit",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 812,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Electric Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 732,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Tin Man Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 872,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Exit",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Chest"
+					},
+					{
+						"name": "Area Exit"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Minera Prison Island",
+						"x": 932,
+						"y": 472
+					}
+				]
+			},
+		]
+	}
+]

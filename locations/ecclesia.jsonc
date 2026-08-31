@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Ecclesia Locations",
+		"children": [
+			{
+				"name": "Center Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Ecclesia",
+						"x": 632,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Hidden Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Ecclesia",
+						"x": 632,
+						"y": 432
+					}
+				]
+			},
+			{
+				"name": "Training Hall Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Ecclesia",
+						"x": 522,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Barlowe",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Ecclesia",
+						"x": 662,
+						"y": 432
+					}
+				]
+			}
+		]
+	}
+]

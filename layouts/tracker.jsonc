@@ -35,173 +35,205 @@
 							}
 						},
 						{
-							"title": "Ecclesia",
+							"title": "Part I",
 							"content": {
-								"type": "map",
-								"maps": [
-									"Ecclesia"
+								"type": "tabbed",
+								"tabs": [
+									{
+										"title": "Ecclesia",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Ecclesia"
+											]
+										}
+									},
+									{
+										"title": "Monastery",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Monastery"
+											]
+										}
+									},
+									{
+										"title": "Wygol Village",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Wygol Village"
+											]
+										}
+									},
+									{
+										"title": "Ruvas Forest",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Ruvas Forest"
+											]
+										}
+									}
 								]
 							}
 						},
 						{
-							"title": "Monastery",
+							"title": "Part II",
 							"content": {
-								"type": "map",
-								"maps": [
-									"Monastery"
+								"type": "tabbed",
+								"tabs": [
+									{
+										"title": "Kalidus Channel",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Kalidus Channel"
+											]
+										}
+									},
+									{
+										"title": "Minera Prison Island",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Minera Prison Island"
+											]
+										}
+									},
+									{
+										"title": "Lighthouse",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Lighthouse"
+											]
+										}
+									},
+									{
+										"title": "Tymeo Mountains",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Tymeo Mountains"
+											]
+										}
+									},
+									{
+										"title": "Misty Forest Road",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Misty Forest Road"
+											]
+										}
+									},
+									{
+										"title": "Skeleton Cave",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Skeleton Cave"
+											]
+										}
+									}
 								]
 							}
 						},
 						{
-							"title": "Wygol Village",
+							"title": "Part III",
 							"content": {
-								"type": "map",
-								"maps": [
-									"Wygol Village"
+								"type": "tabbed",
+								"tabs": [
+									{
+										"title": "Somnus Reef",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Somnus Reef"
+											]
+										}
+									},
+									{
+										"title": "Giant's Dwelling",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Giant's Dwelling"
+											]
+										}
+									},
+									{
+										"title": "Tristis Pass",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Tristis Pass"
+											]
+										}
+									},
+									{
+										"title": "Oblivion Ridge",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Oblivion Ridge"
+											]
+										}
+									},
+									{
+										"title": "Argila Swamp",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Argila Swamp"
+											]
+										}
+									},
+									{
+										"title": "Mystery Manor",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Mystery Manor"
+											]
+										}
+									}
 								]
 							}
 						},
 						{
-							"title": "Ruvas Forest",
+							"title": "Part IV",
 							"content": {
-								"type": "map",
-								"maps": [
-									"Ruvas Forest"
-								]
-							}
-						},
-						{
-							"title": "Kalidus Channel",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Kalidus Channel"
-								]
-							}
-						},
-						{
-							"title": "Minera Prison Island",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Minera Prison Island"
-								]
-							}
-						},
-						{
-							"title": "Lighthouse",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Lighthouse"
-								]
-							}
-						},
-						{
-							"title": "Tymeo Mountains",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Tymeo Mountains"
-								]
-							}
-						},
-						{
-							"title": "Misty Forest Road",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Misty Forest Road"
-								]
-							}
-						},
-						{
-							"title": "Skeleton Cave",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Skeleton Cave"
-								]
-							}
-						},
-						{
-							"title": "Somnus Reef",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Somnus Reef"
-								]
-							}
-						},
-						{
-							"title": "Giant's Dwelling",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Giant's Dwelling"
-								]
-							}
-						},
-						{
-							"title": "Tristis Pass",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Tristis Pass"
-								]
-							}
-						},
-						{
-							"title": "Oblivion Ridge",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Oblivion Ridge"
-								]
-							}
-						},
-						{
-							"title": "Argila Swamp",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Argila Swamp"
-								]
-							}
-						},
-						{
-							"title": "Mystery Manor",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Mystery Manor"
-								]
-							}
-						},
-						{
-							"title": "Dracula's Castle",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Dracula's Castle"
-								]
-							}
-						},
-						{
-							"title": "Training Hall",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Training Hall"
-								]
-							}
-						},
-						{
-							"title": "Large Cavern",
-							"content": {
-								"type": "map",
-								"maps": [
-									"Large Cavern"
+								"type": "tabbed",
+								"tabs": [
+									{
+										"title": "Dracula's Castle",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Dracula's Castle"
+											]
+										}
+									},
+									{
+										"title": "Training Hall",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Training Hall"
+											]
+										}
+									},
+									{
+										"title": "Large Cavern",
+										"content": {
+											"type": "map",
+											"maps": [
+												"Large Cavern"
+											]
+										}
+									}
 								]
 							}
 						}

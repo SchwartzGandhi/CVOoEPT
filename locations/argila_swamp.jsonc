@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Argila Swamp Locations",
+		"children": [
+			{
+				"name": "Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Argila Swamp",
+						"x": 632,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Area Exit",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Argila Swamp",
+						"x": 432,
+						"y": 472
+					}
+				]
+			}
+		]
+	}
+]

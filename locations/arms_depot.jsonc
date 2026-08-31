@@ -1,0 +1,135 @@
+[
+	{
+		"name": "Arms Depot Locations", // Cry in the Night
+		"children": [
+			{
+				"name": "Left Room Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 932,
+						"y": 632
+					}
+				]
+			},
+			{
+				"name": "Near Dead End Pickup",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 1032,
+						"y": 672
+					}
+				]
+			},
+			{
+				"name": "Right Room Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 1052,
+						"y": 672
+					}
+				]
+			},
+			{
+				"name": "Upper Hall Item",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 952,
+						"y": 672
+					}
+				]
+			},
+			{
+				"name": "Second Hall Pickup",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 832,
+						"y": 672
+					}
+				]
+			},
+			{
+				"name": "Before Boss",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 932,
+						"y": 752
+					}
+				]
+			},
+			{
+				"name": "Eligor No-Hit Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 972,
+						"y": 742
+					}
+				]
+			},
+			{
+				"name": "Post-Boss Item",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Dracula's Castle",
+						"x": 1012,
+						"y": 732
+					}
+				]
+			}
+		]
+	}
+]

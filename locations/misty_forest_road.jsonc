@@ -1,0 +1,138 @@
+[
+	{
+		"name": "Misty Forest Road Locations",
+		"children": [
+			{
+				"name": "Right Big Room Pickup",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Misty Forest Road",
+						"x": 712,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Right Big Room Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Misty Forest Road",
+						"x": 692,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Right Big Room Ledge",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Misty Forest Road",
+						"x": 712,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Ledge Item",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Misty Forest Road",
+						"x": 572,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Left Big Room Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Misty Forest Road",
+						"x": 582,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Paries Room Pickup",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Misty Forest Road",
+						"x": 612,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Paries Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Chest"
+					},
+					{
+						"name": "Hidden Item"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Misty Forest Road",
+						"x": 672,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Area Exit",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Misty Forest Road",
+						"x": 472,
+						"y": 492
+					}
+				]
+			}
+		]
+	}
+]

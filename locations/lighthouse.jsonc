@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Lighthouse Locations",
+		"children": [
+			{
+				"name": "Brachyura No-Hit Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Lighthouse",
+						"x": 672,
+						"y": 592
+					}
+				]
+			},
+			{
+				"name": "Searchlight Glyph",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Lighthouse",
+						"x": 672,
+						"y": 312
+					}
+				]
+			},
+			{
+				"name": "Right Hall",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Lighthouse",
+						"x": 692,
+						"y": 612
+					}
+				]
+			},
+			{
+				"name": "Exit",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Chest"
+					},
+					{
+						"name": "Area Exit"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Lighthouse",
+						"x": 672,
+						"y": 612
+					}
+				]
+			}
+		]
+	}
+]

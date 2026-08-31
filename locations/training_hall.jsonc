@@ -1,0 +1,103 @@
+[
+	{
+		"name": "Training Hall Locations",
+		"children": [
+			{
+				"name": "Top Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Training Hall",
+						"x": 672,
+						"y": 372
+					}
+				]
+			},
+			{
+				"name": "First Way Down Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Training Hall",
+						"x": 672,
+						"y": 392
+					}
+				]
+			},
+			{
+				"name": "Second Way Down Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Training Hall",
+						"x": 672,
+						"y": 412
+					}
+				]
+			},
+			{
+				"name": "Freestanding",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Training Hall",
+						"x": 672,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Third Way Down Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Training Hall",
+						"x": 672,
+						"y": 472
+					}
+				]
+			},
+			{
+				"name": "Final Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Training Hall",
+						"x": 672,
+						"y": 572
+					}
+				]
+			}
+		]
+	}
+]

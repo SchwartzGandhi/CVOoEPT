@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Wygol Village Locations",
+		"children": [
+			{
+				"name": "Grounded Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 632,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Right Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 632,
+						"y": 432
+					}
+				]
+			},
+			{
+				"name": "Left Chest",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 522,
+						"y": 452
+					}
+				]
+			},
+			{
+				"name": "Chest in Right House",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 662,
+						"y": 432
+					}
+				]
+			}
+		]
+	}
+]
