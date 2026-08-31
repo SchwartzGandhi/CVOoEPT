@@ -1,104 +1,213 @@
 {
-  //sets the trackers layout
-  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#layouts
-  "tracker_default": {
-    "type": "container",
-    "background": "#000000",
-    "content": {
-      "type": "dock",
-      "dropshadow": true,
-      "content": [
-        {
-          "type": "dock",
-          "dock": "left",
-          "v_alignment": "stretch",
-          "content": [
-            {
-              "type": "group",
-              "header": "Items",
-              "dock": "top",
-              "content": {
-                "type": "layout",
-                "key": "shared_item_grid"
-              }
-            }
-          ]
-        },
-        {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "Map 1",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "map1"
-                ]
-              }
-            },
-            {
-              "title": "Map 2",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "map2"
-                ]
-              }
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "tracker_horizontal": {
-    "type": "container",
-    "background": "#000000",
-    "content": {
-      "type": "dock",
-      "dropshadow": true,
-      "content": [
-        {
-          "type": "dock",
-          "dock": "bottom",
-          "content": [
-            {
-              "type": "group",
-              "header": "Items",
-              "dock": "left",
-              "margin": "0,0,3,0",
-              "content": {
-                "type": "layout",
-                "h_alignment": "center",
-                "v_alignment": "center",
-                "key": "shared_item_grid"
-              }
-            }
-          ]
-        },
-        {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "Map 1",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "map1"
-                ]
-              }
-            },
-            {
-              "title": "Map 2",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "map2"
-                ]
-              }
-            }
-          ]
-        }
-      ]
-    }
-  }
+	"tracker_default": {
+		"type": "container",
+		"background": "#000000",
+		"content": {
+			"type": "dock",
+			"dropshadow": true,
+			"content": [
+				{
+					"type": "dock",
+					"dock": "left",
+					"v_alignment": "stretch",
+					"content": [
+						{
+							"type": "group",
+							"header": "Items",
+							"dock": "top",
+							"content": {
+								"type": "layout",
+								"key": "shared_item_grid"
+							}
+						}
+					]
+				},
+				{
+					"type": "tabbed",
+					"tabs": [
+						{
+							"title": "Overview",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Map"
+								]
+							}
+						},
+						{
+							"title": "Ecclesia",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Ecclesia"
+								]
+							}
+						},
+						{
+							"title": "Monastery",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Monastery"
+								]
+							}
+						},
+						{
+							"title": "Wygol Village",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Wygol Village"
+								]
+							}
+						},
+						{
+							"title": "Ruvas Forest",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Ruvas Forest"
+								]
+							}
+						},
+						{
+							"title": "Kalidus Channel",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Kalidus Channel"
+								]
+							}
+						},
+						{
+							"title": "Minera Prison Island",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Minera Prison Island"
+								]
+							}
+						},
+						{
+							"title": "Lighthouse",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Lighthouse"
+								]
+							}
+						},
+						{
+							"title": "Tymeo Mountains",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Tymeo Mountains"
+								]
+							}
+						},
+						{
+							"title": "Misty Forest Road",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Misty Forest Road"
+								]
+							}
+						},
+						{
+							"title": "Skeleton Cave",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Skeleton Cave"
+								]
+							}
+						},
+						{
+							"title": "Somnus Reef",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Somnus Reef"
+								]
+							}
+						},
+						{
+							"title": "Giant's Dwelling",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Giant's Dwelling"
+								]
+							}
+						},
+						{
+							"title": "Tristis Pass",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Tristis Pass"
+								]
+							}
+						},
+						{
+							"title": "Oblivion Ridge",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Oblivion Ridge"
+								]
+							}
+						},
+						{
+							"title": "Argila Swamp",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Argila Swamp"
+								]
+							}
+						},
+						{
+							"title": "Mystery Manor",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Mystery Manor"
+								]
+							}
+						},
+						{
+							"title": "Dracula's Castle",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Dracula's Castle"
+								]
+							}
+						},
+						{
+							"title": "Training Hall",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Training Hall"
+								]
+							}
+						},
+						{
+							"title": "Large Cavern",
+							"content": {
+								"type": "map",
+								"maps": [
+									"Large Cavern"
+								]
+							}
+						}
+					]
+				}
+			]
+		}
+	}
 }

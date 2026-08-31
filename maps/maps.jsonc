@@ -1,15 +1,122 @@
 [
-  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
-  {
-    "name": "map1",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/map.png"
-  },
-  {
-    "name": "map2",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/map_2.png"
-  }
+	{
+		"name": "Map",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/map.png"
+	},
+	{
+		"name": "Ecclesia",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/ecclesia.png"
+	},
+	{
+		"name": "Monastery",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/monastery.png"
+	},
+	{
+		"name": "Wygol Village",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/village.png"
+	},
+	{
+		"name": "Ruvas Forest",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/ruvas.png"
+	},
+	{
+		"name": "Kalidus Channel",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/kalidus.png"
+	},
+	{
+		"name": "Minera Prison Island",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/prison.png"
+	},
+	{
+		"name": "Lighthouse",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/lighthouse.png"
+	},
+	{
+		"name": "Tymeo Mountains",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/tymeo.png"
+	},
+	{
+		"name": "Misty Forest Road",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/misty.png"
+	},
+	{
+		"name": "Skeleton Cave",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/skeleton.png"
+	},
+	{
+		"name": "Somnus Reef",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/somnus.png"
+	},
+	{
+		"name": "Giant's Dwelling",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/giants.png"
+	},
+	{
+		"name": "Tristis Pass",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/tristis.png"
+	},
+	{
+		"name": "Oblivion Ridge",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/oblivion.png"
+	},
+	{
+		"name": "Argila Swamp",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/argila.png"
+	},
+	{
+		"name": "Mystery Manor",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/manor.png"
+	},
+	{
+		"name": "Dracula's Castle",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/castle.png"
+	},
+	{
+		"name": "Training Hall",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/training.png"
+	},
+	{
+		"name": "Large Cavern",
+		"location_size": 48,
+		"location_border_thickness": 4,
+		"img": "images/maps/cavern.png"
+	}
 ]
