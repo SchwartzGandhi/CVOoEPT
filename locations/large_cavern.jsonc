@@ -67,22 +67,6 @@
 				]
 			},
 			{
-				"name": "Jiang Shi No-Hit Chest",
-				"access_rules": [],
-				"sections": [
-					{
-						"name": ""
-					}
-				],
-				"map_locations": [
-					{
-						"map": "Large Cavern",
-						"x": 642,
-						"y": 572
-					}
-				]
-			},
-			{
 				"name": "Final Reward 1",
 				"access_rules": [],
 				"sections": [
