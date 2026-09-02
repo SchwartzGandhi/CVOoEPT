@@ -4,7 +4,7 @@
 	"package_version": "0.0",
 	"package_uid": "cvooe_pack",
 	"platform": "nds",
-	"author": "Cyb3R",
+	"author": "Schwartz Gandhi",
 	"min_poptracker_version": "0.25.9",
 	"target_poptracker_version": "0.35.4",
 	"variants": {
@@ -20,5 +20,6 @@
 				"ap"
 			]
 		}
-	}
+	},
+	"versions_url": "https://raw.githubusercontent.com/SchwartzGandhi/CVOoEPT/refs/heads/main/versions.json"
 }

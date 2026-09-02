@@ -1,0 +1,12 @@
+{
+    "versions": [
+        {
+            "package_version": "0.0",
+            "download_url": "https://github.com/SchwartzGandhi/CVOoEPT/releases/download/0.0/CVOoEPT.zip",
+            "sha256": "",
+            "changelog": [
+                "Initial Release"
+            ]
+        }
+    ]
+}

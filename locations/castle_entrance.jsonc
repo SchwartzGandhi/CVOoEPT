@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Castle Entrance Locations", // Nightmare Gate
+		"name": "Castle Entrance Locations",
 		"children": [
 			{
 				"name": "Entry Chest",
