@@ -1,9 +1,13 @@
 [
 	{
 		"name": "Barracks Locations",
+		"chest_unopened_img": "images/chests/brown.png",
+		"chest_opened_img": "images/chests/brown_o.png",
 		"children": [
 			{
 				"name": "Basement Entrance Pickup",
+				"chest_unopened_img": "images/chests/statue.png",
+				"chest_opened_img": "images/chests/statue_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -13,6 +17,8 @@
 			},
 			{
 				"name": "Lower Ramparts Hidden Chest",
+				"chest_unopened_img": "images/chests/blue.png",
+				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -97,6 +103,8 @@
 			},
 			{
 				"name": "Connector Hidden Chest",
+				"chest_unopened_img": "images/chests/blue.png",
+				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [],
 				"sections": [
 					{

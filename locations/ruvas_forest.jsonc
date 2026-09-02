@@ -1,9 +1,13 @@
 [
 	{
 		"name": "Ruvas Forest Locations",
+		"chest_unopened_img": "images/chests/brown.png",
+		"chest_opened_img": "images/chests/brown_o.png",
 		"children": [
 			{
 				"name": "First Room Freestanding",
+				"chest_unopened_img": "images/chests/statue.png",
+				"chest_opened_img": "images/chests/statue_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -52,6 +56,8 @@
 			},
 			{
 				"name": "Area Exit",
+				"chest_unopened_img": "images/chests/arrow_right.png",
+				"chest_opened_img": "images/chests/arrow_right_bw.png",
 				"access_rules": [],
 				"sections": [
 					{

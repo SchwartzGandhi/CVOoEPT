@@ -1,6 +1,8 @@
 [
 	{
 		"name": "Giant's Dwelling Locations",
+		"chest_unopened_img": "images/chests/brown.png",
+		"chest_opened_img": "images/chests/brown_o.png",
 		"children": [
 			{
 				"name": "Entrance Hidden Item",
@@ -68,6 +70,8 @@
 			},
 			{
 				"name": "Bottom Right Room Pickup",
+				"chest_unopened_img": "images/chests/statue.png",
+				"chest_opened_img": "images/chests/statue_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -84,6 +88,8 @@
 			},
 			{
 				"name": "Goliath No-Hit Chest",
+				"chest_unopened_img": "images/chests/blue.png",
+				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -116,6 +122,8 @@
 			},
 			{
 				"name": "Area Exit",
+				"chest_unopened_img": "images/chests/arrow_right.png",
+				"chest_opened_img": "images/chests/arrow_right_bw.png",
 				"access_rules": [],
 				"sections": [
 					{

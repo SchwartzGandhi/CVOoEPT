@@ -1,9 +1,13 @@
 [
 	{
 		"name": "Misty Forest Road Locations",
+		"chest_unopened_img": "images/chests/brown.png",
+		"chest_opened_img": "images/chests/brown_o.png",
 		"children": [
 			{
 				"name": "Right Big Room Pickup",
+				"chest_unopened_img": "images/chests/statue.png",
+				"chest_opened_img": "images/chests/statue_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -119,6 +123,8 @@
 			},
 			{
 				"name": "Area Exit",
+				"chest_unopened_img": "images/chests/arrow_left.png",
+				"chest_opened_img": "images/chests/arrow_left_bw.png",
 				"access_rules": [],
 				"sections": [
 					{

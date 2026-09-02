@@ -1,9 +1,13 @@
 [
 	{
 		"name": "Lighthouse Locations",
+		"chest_unopened_img": "images/chests/brown.png",
+		"chest_opened_img": "images/chests/brown_o.png",
 		"children": [
 			{
 				"name": "Brachyura No-Hit Chest",
+				"chest_unopened_img": "images/chests/blue.png",
+				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -58,7 +62,9 @@
 						"name": "Chest"
 					},
 					{
-						"name": "Area Exit"
+						"name": "Area Exit",
+						"chest_unopened_img": "images/chests/arrow_left.png",
+						"chest_opened_img": "images/chests/arrow_left_bw.png"
 					}
 				],
 				"map_locations": [

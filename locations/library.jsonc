@@ -1,6 +1,8 @@
 [
 	{
 		"name": "Library Locations",
+		"chest_unopened_img": "images/chests/brown.png",
+		"chest_opened_img": "images/chests/brown_o.png",
 		"children": [
 			{
 				"name": "First Chest",
@@ -28,12 +30,16 @@
 						"name": "Glyph"
 					},
 					{
-						"name": "No-Hit Chest"
+						"name": "No-Hit Chest",
+						"chest_unopened_img": "images/chests/blue.png",
+						"chest_opened_img": "images/chests/blue_o.png"
 					}
 				]
 			},
 			{
 				"name": "Past Wallman",
+				"chest_unopened_img": "images/chests/statue.png",
+				"chest_opened_img": "images/chests/statue_bw.png",
 				"access_rules": [],
 				"sections": [
 					{

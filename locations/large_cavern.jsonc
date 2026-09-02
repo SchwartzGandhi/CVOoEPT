@@ -1,6 +1,8 @@
 [
 	{
 		"name": "Large Cavern Locations",
+		"chest_unopened_img": "images/chests/brown.png",
+		"chest_opened_img": "images/chests/brown_o.png",
 		"children": [
 			{
 				"name": "Rest Room 1",

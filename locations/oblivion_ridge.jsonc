@@ -1,6 +1,8 @@
 [
 	{
 		"name": "Oblivion Ridge Locations",
+		"chest_unopened_img": "images/chests/brown.png",
+		"chest_opened_img": "images/chests/brown_o.png",
 		"children": [
 			{
 				"name": "Pre-Boss Ledge",
@@ -20,6 +22,8 @@
 			},
 			{
 				"name": "Gravedorcus No-Hit Chest",
+				"chest_unopened_img": "images/chests/blue.png",
+				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [],
 				"sections": [
 					{

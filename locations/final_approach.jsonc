@@ -1,6 +1,8 @@
 [
 	{
 		"name": "Final Approach Locations",
+		"chest_unopened_img": "images/chests/brown.png",
+		"chest_opened_img": "images/chests/brown_o.png",
 		"children": [
 			{
 				"name": "Lower Big Room Chest",

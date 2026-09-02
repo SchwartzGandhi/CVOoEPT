@@ -1,6 +1,8 @@
 [
 	{
 		"name": "Arms Depot Locations",
+		"chest_unopened_img": "images/chests/brown.png",
+		"chest_opened_img": "images/chests/brown_o.png",
 		"children": [
 			{
 				"name": "Left Room Chest",
@@ -58,6 +60,8 @@
 			},
 			{
 				"name": "Eligor No-Hit Chest",
+				"chest_unopened_img": "images/chests/blue.png",
+				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [],
 				"sections": [
 					{

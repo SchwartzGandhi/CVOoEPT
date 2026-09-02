@@ -1,6 +1,8 @@
 [
 	{
 		"name": "Skeleton Cave Locations",
+		"chest_unopened_img": "images/chests/brown.png",
+		"chest_opened_img": "images/chests/brown_o.png",
 		"children": [
 			{
 				"name": "First Room",
@@ -93,6 +95,8 @@
 			},
 			{
 				"name": "Maneater No-Hit Chest",
+				"chest_unopened_img": "images/chests/blue.png",
+				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [],
 				"sections": [
 					{

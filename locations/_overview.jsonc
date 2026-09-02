@@ -195,7 +195,7 @@
 					},
 					{
 						"name": "Barlowe No-Hit Chest",
-						"ref": "Ecclesia Locations/Barlowe No-Hit Chest/"
+						"ref": "Ecclesia Locations/Barlowe/No-Hit Chest"
 					}
 				],
 				"map_locations": [
@@ -550,8 +550,12 @@
 						"ref": "Library Locations/Pre-Boss Chest/"
 					},
 					{
+						"name": "Wallman Glyph",
+						"ref": "Library Locations/Wallman/Glyph"
+					},
+					{
 						"name": "Wallman No-Hit Chest",
-						"ref": "Library Locations/Wallman No-Hit Chest/"
+						"ref": "Library Locations/Wallman/No-Hit Chest"
 					},
 					{
 						"name": "Past Wallman",

@@ -1,6 +1,8 @@
 [
 	{
 		"name": "Mystery Manor Locations",
+		"chest_unopened_img": "images/chests/brown.png",
+		"chest_opened_img": "images/chests/brown_o.png",
 		"children": [
 			{
 				"name": "Top Right Free Item",
@@ -61,7 +63,9 @@
 						"name": "Glyph"
 					},
 					{
-						"name": "Chest"
+						"name": "Chest",
+						"chest_unopened_img": "images/chests/blue.png",
+						"chest_opened_img": "images/chests/blue_o.png"
 					}
 				],
 				"map_locations": [
@@ -77,7 +81,9 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "No-Hit Chest"
+						"name": "No-Hit Chest",
+						"chest_unopened_img": "images/chests/blue.png",
+						"chest_opened_img": "images/chests/blue_o.png"
 					},
 					{
 						"name": "Albus 3"

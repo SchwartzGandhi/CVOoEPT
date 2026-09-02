@@ -1,6 +1,8 @@
 [
 	{
 		"name": "Tymeo Mountains Locations",
+		"chest_unopened_img": "images/chests/brown.png",
+		"chest_opened_img": "images/chests/brown_o.png",
 		"children": [
 			{
 				"name": "First Room Hidden Chest",
@@ -103,7 +105,9 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Pickup"
+						"name": "Pickup",
+						"chest_unopened_img": "images/chests/statue.png",
+						"chest_opened_img": "images/chests/statue_bw.png"
 					},
 					{
 						"name": "Chest"
@@ -119,6 +123,8 @@
 			},
 			{
 				"name": "Left Exit",
+				"chest_unopened_img": "images/chests/arrow_left.png",
+				"chest_opened_img": "images/chests/arrow_left_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -135,6 +141,8 @@
 			},
 			{
 				"name": "Right Hill Alcove Chest",
+				"chest_unopened_img": "images/chests/blue.png",
+				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -320,7 +328,9 @@
 						"name": "Item"
 					},
 					{
-						"name": "Exit"
+						"name": "Exit",
+						"chest_unopened_img": "images/chests/arrow_right.png",
+						"chest_opened_img": "images/chests/arrow_right_bw.png"
 					}
 				],
 				"map_locations": [
