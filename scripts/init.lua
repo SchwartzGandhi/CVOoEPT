@@ -54,7 +54,7 @@ if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     Tracker:AddLocations("locations/arms_depot.jsonc")
     Tracker:AddLocations("locations/forsaken_cloister.jsonc")
     Tracker:AddLocations("locations/final_approach.jsonc")
-    -- Tracker:AddLocations("locations/draculas_castle.jsonc")
+    Tracker:AddLocations("locations/draculas_castle.jsonc")
     Tracker:AddLocations("locations/training_hall.jsonc")
     Tracker:AddLocations("locations/large_cavern.jsonc")
 end

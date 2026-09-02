@@ -9,13 +9,6 @@
 					{
 						"name": ""
 					}
-				],
-				"map_locations": [
-					{
-						"map": "Dracula's Castle",
-						"x": 932,
-						"y": 632
-					}
 				]
 			},
 			{
@@ -24,13 +17,6 @@
 				"sections": [
 					{
 						"name": ""
-					}
-				],
-				"map_locations": [
-					{
-						"map": "Dracula's Castle",
-						"x": 1032,
-						"y": 672
 					}
 				]
 			},
@@ -41,13 +27,6 @@
 					{
 						"name": ""
 					}
-				],
-				"map_locations": [
-					{
-						"map": "Dracula's Castle",
-						"x": 1052,
-						"y": 672
-					}
 				]
 			},
 			{
@@ -56,13 +35,6 @@
 				"sections": [
 					{
 						"name": ""
-					}
-				],
-				"map_locations": [
-					{
-						"map": "Dracula's Castle",
-						"x": 952,
-						"y": 672
 					}
 				]
 			},
@@ -73,13 +45,6 @@
 					{
 						"name": ""
 					}
-				],
-				"map_locations": [
-					{
-						"map": "Dracula's Castle",
-						"x": 832,
-						"y": 672
-					}
 				]
 			},
 			{
@@ -88,13 +53,6 @@
 				"sections": [
 					{
 						"name": ""
-					}
-				],
-				"map_locations": [
-					{
-						"map": "Dracula's Castle",
-						"x": 932,
-						"y": 752
 					}
 				]
 			},
@@ -105,13 +63,6 @@
 					{
 						"name": ""
 					}
-				],
-				"map_locations": [
-					{
-						"map": "Dracula's Castle",
-						"x": 972,
-						"y": 742
-					}
 				]
 			},
 			{
@@ -120,13 +71,6 @@
 				"sections": [
 					{
 						"name": ""
-					}
-				],
-				"map_locations": [
-					{
-						"map": "Dracula's Castle",
-						"x": 1012,
-						"y": 732
 					}
 				]
 			}
