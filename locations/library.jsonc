@@ -21,11 +21,14 @@
 				]
 			},
 			{
-				"name": "Wallman No-Hit Chest",
+				"name": "Wallman",
 				"access_rules": [],
 				"sections": [
 					{
-						"name": ""
+						"name": "Glyph"
+					},
+					{
+						"name": "No-Hit Chest"
 					}
 				]
 			},

@@ -51,11 +51,15 @@
 				]
 			},
 			{
-				"name": "Barlowe No-Hit Chest",
+				"name": "Barlowe",
 				"access_rules": [],
 				"sections": [
 					{
-						"name": ""
+						"name": "No-Hit Chest"
+					},
+					{
+						"name": "Glyph",
+						"ref": "Glyphsanity/Stolen Glyphs/Barlowe Glyph"
 					}
 				],
 				"map_locations": [

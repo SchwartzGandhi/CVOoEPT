@@ -1,23 +1,137 @@
 [
 	{
-		"name": "Glyphsanity Locations",
+		"name": "Glyphsanity",
 		"children": [
 			{
-				"name": "Jiang Shi Glyph",
-				"access_rules": [],
+				"name": "Stolen Glyphs",
 				"sections": [
 					{
-						"name": ""
-					}
-				],
-				"map_locations": [
+						"name": "Necromancer Glyph",
+						"access_rules": []
+					},
 					{
-						"map": "Large Cavern",
-						"x": 642,
-						"y": 572
+						"name": "Sea Demon Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Fire Demon Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Black Fomor Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Thunder Demon Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "White Fomor Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Nova Skeleton Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Albus Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Barlowe Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Demon Lord Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Jiang Shi Glyph",
+						"access_rules": []
 					}
 				]
 			},
+			{
+				"name": "Dropped Glyphs",
+				"sections": [
+					{
+						"name": "Bone Scimitar Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Axe Knight Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Bone Archer Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Spear Guard Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Werebat Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Skull Spider Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Owl Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Spectral Sword Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Automaton ZX27 Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Gorgon Head Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Black Panther Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Polkir Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Red Smasher Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Hammer Shaker Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Great Knight Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Winged Skeleton Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Dullahan Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Miss Murder Glyph",
+						"access_rules": []
+					},
+					{
+						"name": "Lizardman Glyph",
+						"access_rules": []
+					}
+				]
+			}
 		]
 	}
 ]
