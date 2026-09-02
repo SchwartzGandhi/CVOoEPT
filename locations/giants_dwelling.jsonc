@@ -22,6 +22,8 @@
 			},
 			{
 				"name": "First Main Room Top",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -54,6 +56,8 @@
 			},
 			{
 				"name": "Above Entrance",
+				"chest_unopened_img": "images/chests/blue.png",
+				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [],
 				"sections": [
 					{

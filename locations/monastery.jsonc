@@ -22,6 +22,8 @@
 			},
 			{
 				"name": "Lower Dead End",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -54,6 +56,8 @@
 			},
 			{
 				"name": "Magnet Room Top Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -70,6 +74,8 @@
 			},
 			{
 				"name": "Big Room Ledge",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -86,6 +92,8 @@
 			},
 			{
 				"name": "Big Room Under Shelf",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -118,6 +126,8 @@
 			},
 			{
 				"name": "Blocks Reward Chest",
+				"chest_unopened_img": "images/chests/blue.png",
+				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -152,6 +162,8 @@
 			},
 			{
 				"name": "Second Big Room Chest",
+				"chest_unopened_img": "images/chests/gold.png",
+				"chest_opened_img": "images/chests/gold_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -184,6 +196,8 @@
 			},
 			{
 				"name": "Hidden Room",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -206,7 +220,9 @@
 						"name": "Chest"
 					},
 					{
-						"name": "Hidden Item"
+						"name": "Hidden Item",
+						"chest_unopened_img": "images/chests/ap.png",
+						"chest_opened_img": "images/chests/ap_bw.png"
 					}
 				],
 				"map_locations": [
@@ -219,6 +235,8 @@
 			},
 			{
 				"name": "Final Shaft Free Item",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -267,6 +285,8 @@
 			},
 			{
 				"name": "Pre-Boss Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{

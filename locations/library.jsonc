@@ -6,6 +6,8 @@
 		"children": [
 			{
 				"name": "First Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -15,6 +17,8 @@
 			},
 			{
 				"name": "Pre-Boss Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -58,6 +62,8 @@
 			},
 			{
 				"name": "Hidden Room Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -67,6 +73,8 @@
 			},
 			{
 				"name": "Near End Hidden Item",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{

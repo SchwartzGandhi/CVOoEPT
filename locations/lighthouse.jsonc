@@ -59,7 +59,9 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Chest"
+						"name": "Chest",
+						"chest_unopened_img": "images/chests/gold.png",
+						"chest_opened_img": "images/chests/gold_o.png"
 					},
 					{
 						"name": "Area Exit",

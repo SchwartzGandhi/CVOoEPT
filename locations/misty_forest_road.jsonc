@@ -40,6 +40,8 @@
 			},
 			{
 				"name": "Right Big Room Ledge",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -56,6 +58,8 @@
 			},
 			{
 				"name": "Ledge Item",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -107,10 +111,14 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Chest"
+						"name": "Chest",
+						"chest_unopened_img": "images/chests/red.png",
+						"chest_opened_img": "images/chests/red_o.png"
 					},
 					{
-						"name": "Hidden Item"
+						"name": "Hidden Item",
+						"chest_unopened_img": "images/chests/ap.png",
+						"chest_opened_img": "images/chests/ap_bw.png"
 					}
 				],
 				"map_locations": [

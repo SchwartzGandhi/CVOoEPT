@@ -24,6 +24,8 @@
 			},
 			{
 				"name": "Central Room Pickup",
+				"chest_unopened_img": "images/chests/statue.png",
+				"chest_opened_img": "images/chests/statue_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -33,6 +35,8 @@
 			},
 			{
 				"name": "Central Room Right Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -42,6 +46,8 @@
 			},
 			{
 				"name": "Treasure Room Left",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -54,6 +60,8 @@
 			},
 			{
 				"name": "Treasure Room Right",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -66,6 +74,8 @@
 			},
 			{
 				"name": "Final Room Hidden Item",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -75,6 +85,8 @@
 			},
 			{
 				"name": "Upper Isolated Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -84,6 +96,8 @@
 			},
 			{
 				"name": "Final Stash Left",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -96,6 +110,8 @@
 			},
 			{
 				"name": "Final Stash Right",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -108,6 +124,8 @@
 			},
 			{
 				"name": "Throne Right Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -117,6 +135,8 @@
 			},
 			{
 				"name": "Throne Left Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{

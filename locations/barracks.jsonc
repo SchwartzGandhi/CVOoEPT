@@ -34,12 +34,16 @@
 						"name": "Chest"
 					},
 					{
-						"name": "Pickup"
+						"name": "Pickup",
+						"chest_unopened_img": "images/chests/ap.png",
+						"chest_opened_img": "images/chests/ap_bw.png"
 					}
 				]
 			},
 			{
 				"name": "Left Corner",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -49,6 +53,8 @@
 			},
 			{
 				"name": "Upper Ramparts Left",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -58,6 +64,8 @@
 			},
 			{
 				"name": "Upper Ramparts Right",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -67,6 +75,8 @@
 			},
 			{
 				"name": "Left Secret Room",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -76,6 +86,8 @@
 			},
 			{
 				"name": "Top Right Square Hidden Item",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -85,6 +97,8 @@
 			},
 			{
 				"name": "Lower Right Square Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -114,6 +128,8 @@
 			},
 			{
 				"name": "Lowest Room",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -123,6 +139,8 @@
 			},
 			{
 				"name": "Right Secret Room",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{

@@ -41,6 +41,8 @@
 			},
 			{
 				"name": "Dead End Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{

@@ -6,6 +6,8 @@
 		"children": [
 			{
 				"name": "First Room Underwater",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -22,6 +24,8 @@
 			},
 			{
 				"name": "Second Room Underwater",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -60,7 +64,9 @@
 						"name": "Item 1"
 					},
 					{
-						"name": "Item 2"
+						"name": "Item 2",
+						"chest_unopened_img": "images/chests/ap.png",
+						"chest_opened_img": "images/chests/ap_bw.png"
 					}
 				],
 				"map_locations": [
@@ -73,6 +79,8 @@
 			},
 			{
 				"name": "Right Side Hidden Item",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -89,6 +97,8 @@
 			},
 			{
 				"name": "Right Side Underwater Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -105,6 +115,8 @@
 			},
 			{
 				"name": "Right Exit Underwater Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -139,6 +151,8 @@
 			},
 			{
 				"name": "Depths First Room Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -155,6 +169,8 @@
 			},
 			{
 				"name": "Depths Right Left Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -187,6 +203,8 @@
 			},
 			{
 				"name": "Depths Right Right Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -203,6 +221,8 @@
 			},
 			{
 				"name": "Depths Rightmost Shaft Freestanding",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -219,6 +239,8 @@
 			},
 			{
 				"name": "Right Depths Dead End Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -235,6 +257,8 @@
 			},
 			{
 				"name": "Depths Secret Room",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -356,19 +380,29 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Upper Right"
+						"name": "Upper Right",
+						"chest_unopened_img": "images/chests/ap.png",
+						"chest_opened_img": "images/chests/ap_bw.png"
 					},
 					{
-						"name": "Upper Left"
+						"name": "Upper Left",
+						"chest_unopened_img": "images/chests/ap.png",
+						"chest_opened_img": "images/chests/ap_bw.png"
 					},
 					{
-						"name": "Center Left Chest"
+						"name": "Center Left Chest",
+						"chest_unopened_img": "images/chests/red.png",
+						"chest_opened_img": "images/chests/red_o.png"
 					},
 					{
-						"name": "Center Freestanding"
+						"name": "Center Freestanding",
+						"chest_unopened_img": "images/chests/ap.png",
+						"chest_opened_img": "images/chests/ap_bw.png"
 					},
 					{
-						"name": "Center Right Chest"
+						"name": "Center Right Chest",
+						"chest_unopened_img": "images/chests/red.png",
+						"chest_opened_img": "images/chests/red_o.png"
 					},
 					{
 						"name": "Lower Center Chest"
@@ -425,6 +459,8 @@
 			},
 			{
 				"name": "Depths Lower Left",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{

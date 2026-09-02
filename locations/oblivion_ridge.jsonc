@@ -1,8 +1,8 @@
 [
 	{
 		"name": "Oblivion Ridge Locations",
-		"chest_unopened_img": "images/chests/brown.png",
-		"chest_opened_img": "images/chests/brown_o.png",
+		"chest_unopened_img": "images/chests/ap.png",
+		"chest_opened_img": "images/chests/ap_bw.png",
 		"children": [
 			{
 				"name": "Pre-Boss Ledge",

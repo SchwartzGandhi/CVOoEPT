@@ -6,6 +6,8 @@
 		"children": [
 			{
 				"name": "First Room Hidden Chest",
+				"chest_unopened_img": "images/chests/blue.png",
+				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -38,6 +40,8 @@
 			},
 			{
 				"name": "Cavern Near Breakable Wall",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -54,6 +58,8 @@
 			},
 			{
 				"name": "Hidden Room",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -110,7 +116,9 @@
 						"chest_opened_img": "images/chests/statue_bw.png"
 					},
 					{
-						"name": "Chest"
+						"name": "Chest",
+						"chest_unopened_img": "images/chests/red.png",
+						"chest_opened_img": "images/chests/red_o.png"
 					}
 				],
 				"map_locations": [
@@ -141,8 +149,6 @@
 			},
 			{
 				"name": "Right Hill Alcove Chest",
-				"chest_unopened_img": "images/chests/blue.png",
-				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -159,6 +165,8 @@
 			},
 			{
 				"name": "Lower Mountain Free Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -175,6 +183,8 @@
 			},
 			{
 				"name": "Lower Mountain Upper Paries Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -191,6 +201,8 @@
 			},
 			{
 				"name": "Lower Mountain Lower Paries Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -207,6 +219,8 @@
 			},
 			{
 				"name": "Upper Hill Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -255,6 +269,8 @@
 			},
 			{
 				"name": "Upper Mountain Hidden Chest",
+				"chest_unopened_img": "images/chests/blue.png",
+				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -306,10 +322,14 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Chest"
+						"name": "Chest",
+						"chest_unopened_img": "images/chests/red.png",
+						"chest_opened_img": "images/chests/red_o.png"
 					},
 					{
-						"name": "Hidden Item"
+						"name": "Hidden Item",
+						"chest_unopened_img": "images/chests/ap.png",
+						"chest_opened_img": "images/chests/ap_bw.png"
 					}
 				],
 				"map_locations": [

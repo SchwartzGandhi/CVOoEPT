@@ -56,6 +56,8 @@
 			},
 			{
 				"name": "Lower Spear Hall First Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -88,6 +90,8 @@
 			},
 			{
 				"name": "Lower Spear Hall Ending Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -120,6 +124,8 @@
 			},
 			{
 				"name": "Hidden Room",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -152,6 +158,8 @@
 			},
 			{
 				"name": "Shaft Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -171,7 +179,9 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Chest"
+						"name": "Chest",
+						"chest_unopened_img": "images/chests/red.png",
+						"chest_opened_img": "images/chests/red_o.png"
 					},
 					{
 						"name": "Pickup"
@@ -187,6 +197,8 @@
 			},
 			{
 				"name": "Left Lower Hall",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -219,6 +231,8 @@
 			},
 			{
 				"name": "Room Past Albus",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -286,10 +300,14 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Chest"
+						"name": "Chest",
+						"chest_unopened_img": "images/chests/red.png",
+						"chest_opened_img": "images/chests/red_o.png"
 					},
 					{
-						"name": "Hidden Item"
+						"name": "Hidden Item",
+						"chest_unopened_img": "images/chests/ap.png",
+						"chest_opened_img": "images/chests/ap_bw.png"
 					}
 				],
 				"map_locations": [
@@ -373,7 +391,9 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Chest"
+						"name": "Chest",
+						"chest_unopened_img": "images/chests/gold.png",
+						"chest_opened_img": "images/chests/gold_o.png"
 					},
 					{
 						"name": "Area Exit",

@@ -6,6 +6,8 @@
 		"children": [
 			{
 				"name": "First Room",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -41,7 +43,9 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Upper"
+						"name": "Upper",
+						"chest_unopened_img": "images/chests/red.png",
+						"chest_opened_img": "images/chests/red_o.png"
 					},
 					{
 						"name": "Lower"
@@ -76,13 +80,17 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "In Wall"
+						"name": "In Wall",
+						"chest_unopened_img": "images/chests/ap.png",
+						"chest_opened_img": "images/chests/ap_bw.png"
 					},
 					{
 						"name": "Near Chest"
 					},
 					{
-						"name": "Far Chest"
+						"name": "Far Chest",
+						"chest_unopened_img": "images/chests/red.png",
+						"chest_opened_img": "images/chests/red_o.png"
 					}
 				],
 				"map_locations": [
@@ -116,7 +124,9 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Chest"
+						"name": "Chest",
+						"chest_unopened_img": "images/chests/gold.png",
+						"chest_opened_img": "images/chests/gold_o.png"
 					},
 					{
 						"name": "Pickup"

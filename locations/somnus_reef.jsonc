@@ -22,6 +22,8 @@
 			},
 			{
 				"name": "First Shaft Freestanding",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -70,6 +72,8 @@
 			},
 			{
 				"name": "Left Open Room Lower Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -86,6 +90,8 @@
 			},
 			{
 				"name": "Left Big Room Freestanding",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -102,6 +108,8 @@
 			},
 			{
 				"name": "Left Big Room Right Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -182,6 +190,8 @@
 			},
 			{
 				"name": "Lower Left Right Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -248,6 +258,8 @@
 			},
 			{
 				"name": "Right Side Isolated Room",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -302,7 +314,9 @@
 						"name": "Item"
 					},
 					{
-						"name": "Hidden Item"
+						"name": "Hidden Item",
+						"chest_unopened_img": "images/chests/ap.png",
+						"chest_opened_img": "images/chests/ap_bw.png"
 					}
 				],
 				"map_locations": [
