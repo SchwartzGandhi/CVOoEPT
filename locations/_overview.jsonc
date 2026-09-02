@@ -1,0 +1,1523 @@
+[
+	{
+		"name": "Overworld Map",
+		"children": [
+			{
+				"name": "Argila Swamp",
+				"sections": [
+					{
+						"name": "Chest",
+						"ref": "Argila Swamp Locations/Chest/"
+					},
+					{
+						"name": "Area Exit",
+						"ref": "Argila Swamp Locations/Area Exit/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 532,
+						"y": 92
+					}
+				]
+			},
+			{
+				"name": "Arms Depot",
+				"sections": [
+					{
+						"name": "Left Room Chest",
+						"ref": "Arms Depot Locations/Left Room Chest/"
+					},
+					{
+						"name": "Near Dead End Pickup",
+						"ref": "Arms Depot Locations/Near Dead End Pickup/"
+					},
+					{
+						"name": "Right Room Chest",
+						"ref": "Arms Depot Locations/Right Room Chest/"
+					},
+					{
+						"name": "Upper Hall Item",
+						"ref": "Arms Depot Locations/Upper Hall Item/"
+					},
+					{
+						"name": "Second Hall Pickup",
+						"ref": "Arms Depot Locations/Second Hall Pickup/"
+					},
+					{
+						"name": "Before Boss",
+						"ref": "Arms Depot Locations/Before Boss/"
+					},
+					{
+						"name": "Eligor No-Hit Chest",
+						"ref": "Arms Depot Locations/Eligor No-Hit Chest/"
+					},
+					{
+						"name": "Post-Boss Item",
+						"ref": "Arms Depot Locations/Post-Boss Item/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 452,
+						"y": 292
+					}
+				]
+			},
+			{
+				"name": "Barracks",
+				"sections": [
+					{
+						"name": "Basement Entrance Pickup",
+						"ref": "Barracks Locations/Basement Entrance Pickup/"
+					},
+					{
+						"name": "Lower Ramparts Hidden Chest",
+						"ref": "Barracks Locations/Lower Ramparts Hidden Chest/"
+					},
+					{
+						"name": "Lower Ramparts Chest",
+						"ref": "Barracks Locations/Lower Ramparts/Chest"
+					},
+					{
+						"name": "Lower Ramparts Pickup",
+						"ref": "Barracks Locations/Lower Ramparts/Pickup"
+					},
+					{
+						"name": "Left Corner",
+						"ref": "Barracks Locations/Left Corner/"
+					},
+					{
+						"name": "Upper Ramparts Left",
+						"ref": "Barracks Locations/Upper Ramparts Left/"
+					},
+					{
+						"name": "Upper Ramparts Right",
+						"ref": "Barracks Locations/Upper Ramparts Right/"
+					},
+					{
+						"name": "Left Secret Room",
+						"ref": "Barracks Locations/Left Secret Room/"
+					},
+					{
+						"name": "Top Right Square Hidden Item",
+						"ref": "Barracks Locations/Top Right Square Hidden Item/"
+					},
+					{
+						"name": "Lower Right Square Chest",
+						"ref": "Barracks Locations/Lower Right Square Chest/"
+					},
+					{
+						"name": "Connector Chest",
+						"ref": "Barracks Locations/Connector Chest/"
+					},
+					{
+						"name": "Connector Hidden Chest",
+						"ref": "Barracks Locations/Connector Hidden Chest/"
+					},
+					{
+						"name": "Lowest Room",
+						"ref": "Barracks Locations/Lowest Room/"
+					},
+					{
+						"name": "Right Secret Room",
+						"ref": "Barracks Locations/Right Secret Room/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 382,
+						"y": 292
+					}
+				]
+			},
+			{
+				"name": "Castle Entrance",
+				"sections": [
+					{
+						"name": "Entry Chest",
+						"ref": "Castle Entrance Locations/Entry Chest/"
+					},
+					{
+						"name": "First Shaft Hidden Item",
+						"ref": "Castle Entrance Locations/First Shaft Hidden Item/"
+					},
+					{
+						"name": "Second Big Lower",
+						"ref": "Castle Entrance Locations/Second Big Lower/"
+					},
+					{
+						"name": "Second Big Hidden Chest",
+						"ref": "Castle Entrance Locations/Second Big Hidden Chest/"
+					},
+					{
+						"name": "Paries Wall",
+						"ref": "Castle Entrance Locations/Paries Wall/"
+					},
+					{
+						"name": "Past Paries Big Room Chest",
+						"ref": "Castle Entrance Locations/Past Paries Big Room Chest/"
+					},
+					{
+						"name": "Near Basement Center",
+						"ref": "Castle Entrance Locations/Near Basement Center/"
+					},
+					{
+						"name": "Before Switch Wall",
+						"ref": "Castle Entrance Locations/Before Switch Wall/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 382,
+						"y": 362
+					}
+				]
+			},
+			{
+				"name": "Ecclesia",
+				"sections": [
+					{
+						"name": "Center Chest",
+						"ref": "Ecclesia Locations/Center Chest/"
+					},
+					{
+						"name": "Hidden Chest",
+						"ref": "Ecclesia Locations/Hidden Chest/"
+					},
+					{
+						"name": "Training Hall Chest",
+						"ref": "Ecclesia Locations/Training Hall Chest/"
+					},
+					{
+						"name": "Barlowe No-Hit Chest",
+						"ref": "Ecclesia Locations/Barlowe No-Hit Chest/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 302,
+						"y": 552
+					}
+				]
+			},
+			{
+				"name": "Final Approach",
+				"sections": [
+					{
+						"name": "Lower Big Room Chest",
+						"ref": "Final Approach Locations/Lower Big Room Chest/"
+					},
+					{
+						"name": "Central Room Left Chest",
+						"ref": "Final Approach Locations/Central Room Left Chest/"
+					},
+					{
+						"name": "Central Room Pickup",
+						"ref": "Final Approach Locations/Central Room Pickup/"
+					},
+					{
+						"name": "Central Room Right Chest",
+						"ref": "Final Approach Locations/Central Room Right Chest/"
+					},
+					{
+						"name": "Treasure Room Left Far Left",
+						"ref": "Final Approach Locations/Treasure Room Left/Far Left"
+					},
+					{
+						"name": "Treasure Room Left Second From Left",
+						"ref": "Final Approach Locations/Treasure Room Left/Second From Left"
+					},
+					{
+						"name": "Treasure Room Right Far Right",
+						"ref": "Final Approach Locations/Treasure Room Right/Far Right"
+					},
+					{
+						"name": "Treasure Room Right Second From Right",
+						"ref": "Final Approach Locations/Treasure Room Right/Second From Right"
+					},
+					{
+						"name": "Final Room Hidden Item",
+						"ref": "Final Approach Locations/Final Room Hidden Item/"
+					},
+					{
+						"name": "Upper Isolated Chest",
+						"ref": "Final Approach Locations/Upper Isolated Chest/"
+					},
+					{
+						"name": "Final Stash Left Far Left",
+						"ref": "Final Approach Locations/Final Stash Left/Far Left"
+					},
+					{
+						"name": "Final Stash Left Second From Left",
+						"ref": "Final Approach Locations/Final Stash Left/Second From Left"
+					},
+					{
+						"name": "Final Stash Right Far Right",
+						"ref": "Final Approach Locations/Final Stash Right/Far Right"
+					},
+					{
+						"name": "Final Stash Right Second From Right",
+						"ref": "Final Approach Locations/Final Stash Right/Second From Right"
+					},
+					{
+						"name": "Throne Right Chest",
+						"ref": "Final Approach Locations/Throne Right Chest/"
+					},
+					{
+						"name": "Throne Left Chest",
+						"ref": "Final Approach Locations/Throne Left Chest/"
+					},
+					{
+						"name": "Defeat Dracula",
+						"ref": "Final Approach Locations/Defeat Dracula/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 382,
+						"y": 112
+					}
+				]
+			},
+			{
+				"name": "Forsaken Cloister",
+				"sections": [
+					{
+						"name": "Central Shaft Hidden Item",
+						"ref": "Forsaken Cloister Locations/Central Shaft Hidden Item/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 382,
+						"y": 172
+					}
+				]
+			},
+			{
+				"name": "Giant's Dwelling",
+				"sections": [
+					{
+						"name": "Entrance Hidden Item",
+						"ref": "Giant's Dwelling Locations/Entrance Hidden Item/"
+					},
+					{
+						"name": "First Main Room Top",
+						"ref": "Giant's Dwelling Locations/First Main Room Top/"
+					},
+					{
+						"name": "First Corner",
+						"ref": "Giant's Dwelling Locations/First Corner/"
+					},
+					{
+						"name": "Above Entrance",
+						"ref": "Giant's Dwelling Locations/Above Entrance/"
+					},
+					{
+						"name": "Bottom Right Room Pickup",
+						"ref": "Giant's Dwelling Locations/Bottom Right Room Pickup/"
+					},
+					{
+						"name": "Goliath No-Hit Chest",
+						"ref": "Giant's Dwelling Locations/Goliath No-Hit Chest/"
+					},
+					{
+						"name": "Albus 2",
+						"ref": "Giant's Dwelling Locations/Albus 2/"
+					},
+					{
+						"name": "Area Exit",
+						"ref": "Giant's Dwelling Locations/Area Exit/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 1172,
+						"y": 272
+					}
+				]
+			},
+			{
+				"name": "Kalidus Channel",
+				"sections": [
+					{
+						"name": "First Room Underwater",
+						"ref": "Kalidus Channel Locations/First Room Underwater/"
+					},
+					{
+						"name": "Second Room Underwater",
+						"ref": "Kalidus Channel Locations/Second Room Underwater/"
+					},
+					{
+						"name": "Third Room Underwater",
+						"ref": "Kalidus Channel Locations/Third Room Underwater/"
+					},
+					{
+						"name": "Hallway Item 1",
+						"ref": "Kalidus Channel Locations/Hallway/Item 1"
+					},
+					{
+						"name": "Hallway Item 2",
+						"ref": "Kalidus Channel Locations/Hallway/Item 2"
+					},
+					{
+						"name": "Right Side Hidden Item",
+						"ref": "Kalidus Channel Locations/Right Side Hidden Item/"
+					},
+					{
+						"name": "Right Side Underwater Chest",
+						"ref": "Kalidus Channel Locations/Right Side Underwater Chest/"
+					},
+					{
+						"name": "Right Exit Underwater Chest",
+						"ref": "Kalidus Channel Locations/Right Exit Underwater Chest/"
+					},
+					{
+						"name": "Upper Exit",
+						"ref": "Kalidus Channel Locations/Upper Exit/"
+					},
+					{
+						"name": "Depths First Room Chest",
+						"ref": "Kalidus Channel Locations/Depths First Room Chest/"
+					},
+					{
+						"name": "Depths Right Left Chest",
+						"ref": "Kalidus Channel Locations/Depths Right Left Chest/"
+					},
+					{
+						"name": "Depths Right Center Chest",
+						"ref": "Kalidus Channel Locations/Depths Right Center Chest/"
+					},
+					{
+						"name": "Depths Right Right Chest",
+						"ref": "Kalidus Channel Locations/Depths Right Right Chest/"
+					},
+					{
+						"name": "Depths Rightmost Shaft Freestanding",
+						"ref": "Kalidus Channel Locations/Depths Rightmost Shaft Freestanding/"
+					},
+					{
+						"name": "Right Depths Dead End Chest",
+						"ref": "Kalidus Channel Locations/Right Depths Dead End Chest/"
+					},
+					{
+						"name": "Depths Secret Room Left Chest",
+						"ref": "Kalidus Channel Locations/Depths Secret Room/Left Chest"
+					},
+					{
+						"name": "Depths Secret Room Center Chest",
+						"ref": "Kalidus Channel Locations/Depths Secret Room/Center Chest"
+					},
+					{
+						"name": "Depths Secret Room Right Chest",
+						"ref": "Kalidus Channel Locations/Depths Secret Room/Right Chest"
+					},
+					{
+						"name": "Depths Right Shaft Chest",
+						"ref": "Kalidus Channel Locations/Depths Right Shaft Chest/"
+					},
+					{
+						"name": "Depths Central",
+						"ref": "Kalidus Channel Locations/Depths Central/"
+					},
+					{
+						"name": "Depths Left Tall Room Chest",
+						"ref": "Kalidus Channel Locations/Depths Left Tall Room Chest/"
+					},
+					{
+						"name": "Depths Left Tall Room Freestanding",
+						"ref": "Kalidus Channel Locations/Depths Left Tall Room Freestanding/"
+					},
+					{
+						"name": "Depths Left Small Vertical Freestanding",
+						"ref": "Kalidus Channel Locations/Depths Left Small Vertical Freestanding/"
+					},
+					{
+						"name": "Depths Left Chest",
+						"ref": "Kalidus Channel Locations/Depths Left Chest/"
+					},
+					{
+						"name": "Ship Room Upper Right",
+						"ref": "Kalidus Channel Locations/Ship Room/Upper Right"
+					},
+					{
+						"name": "Ship Room Upper Left",
+						"ref": "Kalidus Channel Locations/Ship Room/Upper Left"
+					},
+					{
+						"name": "Ship Room Center Left Chest",
+						"ref": "Kalidus Channel Locations/Ship Room/Center Left Chest"
+					},
+					{
+						"name": "Ship Room Center Freestanding",
+						"ref": "Kalidus Channel Locations/Ship Room/Center Freestanding"
+					},
+					{
+						"name": "Ship Room Center Right Chest",
+						"ref": "Kalidus Channel Locations/Ship Room/Center Right Chest"
+					},
+					{
+						"name": "Ship Room Lower Center Chest",
+						"ref": "Kalidus Channel Locations/Ship Room/Lower Center Chest"
+					},
+					{
+						"name": "Ship Room Lower Left Chest",
+						"ref": "Kalidus Channel Locations/Ship Room/Lower Left Chest"
+					},
+					{
+						"name": "Ship Room Lower Right Chest",
+						"ref": "Kalidus Channel Locations/Ship Room/Lower Right Chest"
+					},
+					{
+						"name": "Ship Room Hidden Chest",
+						"ref": "Kalidus Channel Locations/Ship Room Hidden Chest/"
+					},
+					{
+						"name": "Deepest Room",
+						"ref": "Kalidus Channel Locations/Deepest Room/"
+					},
+					{
+						"name": "Depths Lower Left",
+						"ref": "Kalidus Channel Locations/Depths Lower Left/"
+					},
+					{
+						"name": "Lower Exit",
+						"ref": "Kalidus Channel Locations/Lower Exit/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 882,
+						"y": 772
+					}
+				]
+			},
+			{
+				"name": "Large Cavern",
+				"sections": [
+					{
+						"name": "Rest Room 1",
+						"ref": "Large Cavern Locations/Rest Room 1/"
+					},
+					{
+						"name": "Rest Room 2",
+						"ref": "Large Cavern Locations/Rest Room 2/"
+					},
+					{
+						"name": "Rest Room 3",
+						"ref": "Large Cavern Locations/Rest Room 3/"
+					},
+					{
+						"name": "Rest Room 4",
+						"ref": "Large Cavern Locations/Rest Room 4/"
+					},
+					{
+						"name": "Final Reward 1",
+						"ref": "Large Cavern Locations/Final Reward 1/"
+					},
+					{
+						"name": "Final Reward 2",
+						"ref": "Large Cavern Locations/Final Reward 2/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 562,
+						"y": 242
+					}
+				]
+			},
+			{
+				"name": "Library",
+				"sections": [
+					{
+						"name": "First Chest",
+						"ref": "Library Locations/First Chest/"
+					},
+					{
+						"name": "Pre-Boss Chest",
+						"ref": "Library Locations/Pre-Boss Chest/"
+					},
+					{
+						"name": "Wallman No-Hit Chest",
+						"ref": "Library Locations/Wallman No-Hit Chest/"
+					},
+					{
+						"name": "Past Wallman",
+						"ref": "Library Locations/Past Wallman/"
+					},
+					{
+						"name": "Hidden Room Free",
+						"ref": "Library Locations/Hidden Room Free/"
+					},
+					{
+						"name": "Hidden Room Chest",
+						"ref": "Library Locations/Hidden Room Chest/"
+					},
+					{
+						"name": "Near End Hidden Item",
+						"ref": "Library Locations/Near End Hidden Item/"
+					},
+					{
+						"name": "Final Room Item",
+						"ref": "Library Locations/Final Room Item/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 322,
+						"y": 282
+					}
+				]
+			},
+			{
+				"name": "Lighthouse",
+				"sections": [
+					{
+						"name": "Brachyura No-Hit Chest",
+						"ref": "Lighthouse Locations/Brachyura No-Hit Chest/"
+					},
+					{
+						"name": "Searchlight Glyph",
+						"ref": "Lighthouse Locations/Searchlight Glyph/"
+					},
+					{
+						"name": "Right Hall",
+						"ref": "Lighthouse Locations/Right Hall/"
+					},
+					{
+						"name": "Exit Chest",
+						"ref": "Lighthouse Locations/Exit/Chest"
+					},
+					{
+						"name": "Exit Area Exit",
+						"ref": "Lighthouse Locations/Exit/Area Exit"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 1172,
+						"y": 712
+					}
+				]
+			},
+			{
+				"name": "Mechanical Tower",
+				"sections": [
+					{
+						"name": "Outer Item",
+						"ref": "Mechanical Tower Locations/Outer Item/"
+					},
+					{
+						"name": "Center Room Chest",
+						"ref": "Mechanical Tower Locations/Center Room Chest/"
+					},
+					{
+						"name": "Upper Magnets Wall Item",
+						"ref": "Mechanical Tower Locations/Upper Magnets Wall Item/"
+					},
+					{
+						"name": "Upper Magnets Chest",
+						"ref": "Mechanical Tower Locations/Upper Magnets Chest/"
+					},
+					{
+						"name": "Hidden Room",
+						"ref": "Mechanical Tower Locations/Hidden Room/"
+					},
+					{
+						"name": "Death No-Hit Chest",
+						"ref": "Mechanical Tower Locations/Death No-Hit Chest/"
+					},
+					{
+						"name": "Post-Boss",
+						"ref": "Mechanical Tower Locations/Post-Boss/"
+					},
+					{
+						"name": "Generator Puzzle",
+						"ref": "Mechanical Tower Locations/Generator Puzzle/"
+					},
+					{
+						"name": "Low Shaft Chest",
+						"ref": "Mechanical Tower Locations/Low Shaft Chest/"
+					},
+					{
+						"name": "First Gears Room Chest",
+						"ref": "Mechanical Tower Locations/First Gears Room Chest/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 412,
+						"y": 232
+					}
+				]
+			},
+			{
+				"name": "Minera Prison Island",
+				"sections": [
+					{
+						"name": "Giant Skeleton No-Hit Chest",
+						"ref": "Minera Prison Island Locations/Giant Skeleton No-Hit Chest/"
+					},
+					{
+						"name": "Entrance Chest",
+						"ref": "Minera Prison Island Locations/Entrance Chest/"
+					},
+					{
+						"name": "Entrance Pickup",
+						"ref": "Minera Prison Island Locations/Entrance Pickup/"
+					},
+					{
+						"name": "Lower Spear Hall First Chest",
+						"ref": "Minera Prison Island Locations/Lower Spear Hall First Chest/"
+					},
+					{
+						"name": "Lower Spear Hall Later Chest",
+						"ref": "Minera Prison Island Locations/Lower Spear Hall Later Chest/"
+					},
+					{
+						"name": "Lower Spear Hall Ending Chest",
+						"ref": "Minera Prison Island Locations/Lower Spear Hall Ending Chest/"
+					},
+					{
+						"name": "Upper Spear Hall",
+						"ref": "Minera Prison Island Locations/Upper Spear Hall/"
+					},
+					{
+						"name": "Hidden Room",
+						"ref": "Minera Prison Island Locations/Hidden Room/"
+					},
+					{
+						"name": "Right Entry Shaft Chest",
+						"ref": "Minera Prison Island Locations/Right Entry Shaft Chest/"
+					},
+					{
+						"name": "Shaft Chest",
+						"ref": "Minera Prison Island Locations/Shaft Chest/"
+					},
+					{
+						"name": "Top Room Chest",
+						"ref": "Minera Prison Island Locations/Top Room/Chest"
+					},
+					{
+						"name": "Top Room Pickup",
+						"ref": "Minera Prison Island Locations/Top Room/Pickup"
+					},
+					{
+						"name": "Left Lower Hall",
+						"ref": "Minera Prison Island Locations/Left Lower Hall/"
+					},
+					{
+						"name": "Albus 1",
+						"ref": "Minera Prison Island Locations/Albus 1/"
+					},
+					{
+						"name": "Room Past Albus",
+						"ref": "Minera Prison Island Locations/Room Past Albus/"
+					},
+					{
+						"name": "Lowest Room",
+						"ref": "Minera Prison Island Locations/Lowest Room/"
+					},
+					{
+						"name": "Lower Right Hall",
+						"ref": "Minera Prison Island Locations/Lower Right Hall/"
+					},
+					{
+						"name": "Right Central Room",
+						"ref": "Minera Prison Island Locations/Right Central Room/"
+					},
+					{
+						"name": "Right Vertical Chest",
+						"ref": "Minera Prison Island Locations/Right Vertical/Chest"
+					},
+					{
+						"name": "Right Vertical Hidden Item",
+						"ref": "Minera Prison Island Locations/Right Vertical/Hidden Item"
+					},
+					{
+						"name": "Right Spear Hall Chest",
+						"ref": "Minera Prison Island Locations/Right Spear Hall Chest/"
+					},
+					{
+						"name": "Shaft Near Exit",
+						"ref": "Minera Prison Island Locations/Shaft Near Exit/"
+					},
+					{
+						"name": "Electric Room",
+						"ref": "Minera Prison Island Locations/Electric Room/"
+					},
+					{
+						"name": "Tin Man Chest",
+						"ref": "Minera Prison Island Locations/Tin Man Chest/"
+					},
+					{
+						"name": "Exit Chest",
+						"ref": "Minera Prison Island Locations/Exit/Chest"
+					},
+					{
+						"name": "Exit Area Exit",
+						"ref": "Minera Prison Island Locations/Exit/Area Exit"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 1072,
+						"y": 612
+					}
+				]
+			},
+			{
+				"name": "Misty Forest Road",
+				"sections": [
+					{
+						"name": "Right Big Room Pickup",
+						"ref": "Misty Forest Road Locations/Right Big Room Pickup/"
+					},
+					{
+						"name": "Right Big Room Chest",
+						"ref": "Misty Forest Road Locations/Right Big Room Chest/"
+					},
+					{
+						"name": "Right Big Room Ledge",
+						"ref": "Misty Forest Road Locations/Right Big Room Ledge/"
+					},
+					{
+						"name": "Ledge Item",
+						"ref": "Misty Forest Road Locations/Ledge Item/"
+					},
+					{
+						"name": "Left Big Room Chest",
+						"ref": "Misty Forest Road Locations/Left Big Room Chest/"
+					},
+					{
+						"name": "Paries Room Pickup",
+						"ref": "Misty Forest Road Locations/Paries Room Pickup/"
+					},
+					{
+						"name": "Paries Room Chest",
+						"ref": "Misty Forest Road Locations/Paries Room/Chest"
+					},
+					{
+						"name": "Paries Room Hidden Item",
+						"ref": "Misty Forest Road Locations/Paries Room/Hidden Item"
+					},
+					{
+						"name": "Area Exit",
+						"ref": "Misty Forest Road Locations/Area Exit/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 362,
+						"y": 732
+					}
+				]
+			},
+			{
+				"name": "Monastery",
+				"sections": [
+					{
+						"name": "First Shaft",
+						"ref": "Monastery Locations/First Shaft/"
+					},
+					{
+						"name": "Lower Dead End",
+						"ref": "Monastery Locations/Lower Dead End/"
+					},
+					{
+						"name": "Magnet Room Free",
+						"ref": "Monastery Locations/Magnet Room Free/"
+					},
+					{
+						"name": "Magnet Room Top Chest",
+						"ref": "Monastery Locations/Magnet Room Top Chest/"
+					},
+					{
+						"name": "Big Room Ledge",
+						"ref": "Monastery Locations/Big Room Ledge/"
+					},
+					{
+						"name": "Big Room Under Shelf",
+						"ref": "Monastery Locations/Big Room Under Shelf/"
+					},
+					{
+						"name": "Blocks Glyph",
+						"ref": "Monastery Locations/Blocks Glyph/"
+					},
+					{
+						"name": "Blocks Reward Chest",
+						"ref": "Monastery Locations/Blocks Reward Chest/"
+					},
+					{
+						"name": "Central Freestanding",
+						"ref": "Monastery Locations/Central Freestanding/"
+					},
+					{
+						"name": "Second Big Room Chest",
+						"ref": "Monastery Locations/Second Big Room Chest/"
+					},
+					{
+						"name": "Second Big Room Upper Ledge",
+						"ref": "Monastery Locations/Second Big Room Upper Ledge/"
+					},
+					{
+						"name": "Hidden Room",
+						"ref": "Monastery Locations/Hidden Room/"
+					},
+					{
+						"name": "Final Shaft Chest",
+						"ref": "Monastery Locations/Final Shaft/Chest"
+					},
+					{
+						"name": "Final Shaft Hidden Item",
+						"ref": "Monastery Locations/Final Shaft/Hidden Item"
+					},
+					{
+						"name": "Final Shaft Free Item",
+						"ref": "Monastery Locations/Final Shaft Free Item/"
+					},
+					{
+						"name": "Final Dead End",
+						"ref": "Monastery Locations/Final Dead End/"
+					},
+					{
+						"name": "Long Hall Chest",
+						"ref": "Monastery Locations/Long Hall Chest/"
+					},
+					{
+						"name": "Pre-Boss Chest",
+						"ref": "Monastery Locations/Pre-Boss Chest/"
+					},
+					{
+						"name": "Arthroverta No-Hit Chest",
+						"ref": "Monastery Locations/Arthroverta No-Hit Chest/"
+					},
+					{
+						"name": "Albus Event",
+						"ref": "Monastery Locations/Albus Event/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 682,
+						"y": 362
+					}
+				]
+			},
+			{
+				"name": "Mystery Manor",
+				"sections": [
+					{
+						"name": "Top Right Free Item",
+						"ref": "Mystery Manor Locations/Top Right Free Item/"
+					},
+					{
+						"name": "Top Left Free Item",
+						"ref": "Mystery Manor Locations/Top Left/Free Item"
+					},
+					{
+						"name": "Top Left Hidden Item",
+						"ref": "Mystery Manor Locations/Top Left/Hidden Item"
+					},
+					{
+						"name": "Dead End Chest",
+						"ref": "Mystery Manor Locations/Dead End Chest/"
+					},
+					{
+						"name": "Dark Room Glyph",
+						"ref": "Mystery Manor Locations/Dark Room/Glyph"
+					},
+					{
+						"name": "Dark Room Chest",
+						"ref": "Mystery Manor Locations/Dark Room/Chest"
+					},
+					{
+						"name": "Albus No-Hit Chest",
+						"ref": "Mystery Manor Locations/Albus/No-Hit Chest"
+					},
+					{
+						"name": "Albus Albus 3",
+						"ref": "Mystery Manor Locations/Albus/Albus 3"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 212,
+						"y": 102
+					}
+				]
+			},
+			{
+				"name": "Oblivion Ridge",
+				"sections": [
+					{
+						"name": "Pre-Boss Ledge",
+						"ref": "Oblivion Ridge Locations/Pre-Boss Ledge/"
+					},
+					{
+						"name": "Gravedorcus No-Hit Chest",
+						"ref": "Oblivion Ridge Locations/Gravedorcus No-Hit Chest/"
+					},
+					{
+						"name": "Post-Boss Wall Item",
+						"ref": "Oblivion Ridge Locations/Post-Boss Wall Item/"
+					},
+					{
+						"name": "Post-Boss Ledge Item",
+						"ref": "Oblivion Ridge Locations/Post-Boss Ledge Item/"
+					},
+					{
+						"name": "Final Room In Wall",
+						"ref": "Oblivion Ridge Locations/Final Room In Wall/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 782,
+						"y": 102
+					}
+				]
+			},
+			{
+				"name": "Ruvas Forest",
+				"sections": [
+					{
+						"name": "First Room Freestanding",
+						"ref": "Ruvas Forest Locations/First Room Freestanding/"
+					},
+					{
+						"name": "Left Chest",
+						"ref": "Ruvas Forest Locations/Left Chest/"
+					},
+					{
+						"name": "Right Chest",
+						"ref": "Ruvas Forest Locations/Right Chest/"
+					},
+					{
+						"name": "Area Exit",
+						"ref": "Ruvas Forest Locations/Area Exit/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 692,
+						"y": 612
+					}
+				]
+			},
+			{
+				"name": "Skeleton Cave",
+				"sections": [
+					{
+						"name": "First Room",
+						"ref": "Skeleton Cave Locations/First Room/"
+					},
+					{
+						"name": "Second Hall Ledge",
+						"ref": "Skeleton Cave Locations/Second Hall Ledge/"
+					},
+					{
+						"name": "Dead End Upper",
+						"ref": "Skeleton Cave Locations/Dead End/Upper"
+					},
+					{
+						"name": "Dead End Lower",
+						"ref": "Skeleton Cave Locations/Dead End/Lower"
+					},
+					{
+						"name": "Center Chest",
+						"ref": "Skeleton Cave Locations/Center Chest/"
+					},
+					{
+						"name": "Bottom Corner In Wall",
+						"ref": "Skeleton Cave Locations/Bottom Corner/In Wall"
+					},
+					{
+						"name": "Bottom Corner Near Chest",
+						"ref": "Skeleton Cave Locations/Bottom Corner/Near Chest"
+					},
+					{
+						"name": "Bottom Corner Far Chest",
+						"ref": "Skeleton Cave Locations/Bottom Corner/Far Chest"
+					},
+					{
+						"name": "Maneater No-Hit Chest",
+						"ref": "Skeleton Cave Locations/Maneater No-Hit Chest/"
+					},
+					{
+						"name": "Final Room Chest",
+						"ref": "Skeleton Cave Locations/Final Room/Chest"
+					},
+					{
+						"name": "Final Room Pickup",
+						"ref": "Skeleton Cave Locations/Final Room/Pickup"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 132,
+						"y": 712
+					}
+				]
+			},
+			{
+				"name": "Somnus Reef",
+				"sections": [
+					{
+						"name": "First Shaft Chest",
+						"ref": "Somnus Reef Locations/First Shaft Chest/"
+					},
+					{
+						"name": "First Shaft Freestanding",
+						"ref": "Somnus Reef Locations/First Shaft Freestanding/"
+					},
+					{
+						"name": "First Big Room Chest",
+						"ref": "Somnus Reef Locations/First Big Room Chest/"
+					},
+					{
+						"name": "Left Big Room Upper Chest",
+						"ref": "Somnus Reef Locations/Left Big Room Upper Chest/"
+					},
+					{
+						"name": "Left Open Room Lower Chest",
+						"ref": "Somnus Reef Locations/Left Open Room Lower Chest/"
+					},
+					{
+						"name": "Left Big Room Freestanding",
+						"ref": "Somnus Reef Locations/Left Big Room Freestanding/"
+					},
+					{
+						"name": "Left Big Room Right Chest",
+						"ref": "Somnus Reef Locations/Left Big Room Right Chest/"
+					},
+					{
+						"name": "Left Big Room Center Chest",
+						"ref": "Somnus Reef Locations/Left Big Room Center Chest/"
+					},
+					{
+						"name": "Left Big Room Left Chest",
+						"ref": "Somnus Reef Locations/Left Big Room Left Chest/"
+					},
+					{
+						"name": "Hidden Room",
+						"ref": "Somnus Reef Locations/Hidden Room/"
+					},
+					{
+						"name": "Lower Left Left Chest",
+						"ref": "Somnus Reef Locations/Lower Left Left Chest/"
+					},
+					{
+						"name": "Lower Left Right Chest",
+						"ref": "Somnus Reef Locations/Lower Left Right Chest/"
+					},
+					{
+						"name": "Rusalka No-Hit Chest",
+						"ref": "Somnus Reef Locations/Rusalka No-Hit Chest/"
+					},
+					{
+						"name": "Lower Right Left Chest",
+						"ref": "Somnus Reef Locations/Lower Right Left Chest/"
+					},
+					{
+						"name": "Lower Right Right Chest",
+						"ref": "Somnus Reef Locations/Lower Right Right Chest/"
+					},
+					{
+						"name": "Right Side Isolated Room",
+						"ref": "Somnus Reef Locations/Right Side Isolated Room/"
+					},
+					{
+						"name": "Right Shaft",
+						"ref": "Somnus Reef Locations/Right Shaft/"
+					},
+					{
+						"name": "Exit Shaft Chest",
+						"ref": "Somnus Reef Locations/Exit Shaft Chest/"
+					},
+					{
+						"name": "Right Side Cave Item",
+						"ref": "Somnus Reef Locations/Right Side Cave/Item"
+					},
+					{
+						"name": "Right Side Cave Hidden Item",
+						"ref": "Somnus Reef Locations/Right Side Cave/Hidden Item"
+					},
+					{
+						"name": "East Entrance Item",
+						"ref": "Somnus Reef Locations/East Entrance Item/"
+					},
+					{
+						"name": "Area Exit",
+						"ref": "Somnus Reef Locations/Area Exit/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 1012,
+						"y": 432
+					}
+				]
+			},
+			{
+				"name": "Training Hall",
+				"sections": [
+					{
+						"name": "Top Chest",
+						"ref": "Training Hall Locations/Top Chest/"
+					},
+					{
+						"name": "First Way Down Chest",
+						"ref": "Training Hall Locations/First Way Down Chest/"
+					},
+					{
+						"name": "Second Way Down Chest",
+						"ref": "Training Hall Locations/Second Way Down Chest/"
+					},
+					{
+						"name": "Freestanding",
+						"ref": "Training Hall Locations/Freestanding/"
+					},
+					{
+						"name": "Third Way Down Chest",
+						"ref": "Training Hall Locations/Third Way Down Chest/"
+					},
+					{
+						"name": "Final Chest",
+						"ref": "Training Hall Locations/Final Chest/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 132,
+						"y": 402
+					}
+				]
+			},
+			{
+				"name": "Tristis Pass",
+				"sections": [
+					{
+						"name": "First Alcove",
+						"ref": "Tristis Pass Locations/First Alcove/"
+					},
+					{
+						"name": "Waterfall Glyph",
+						"ref": "Tristis Pass Locations/Waterfall Glyph/"
+					},
+					{
+						"name": "Waterfall Upper",
+						"ref": "Tristis Pass Locations/Waterfall Upper/"
+					},
+					{
+						"name": "Waterfall Center",
+						"ref": "Tristis Pass Locations/Waterfall Center/"
+					},
+					{
+						"name": "Waterfall Lower",
+						"ref": "Tristis Pass Locations/Waterfall Lower/"
+					},
+					{
+						"name": "Waterfall Hidden Chest",
+						"ref": "Tristis Pass Locations/Waterfall Hidden Chest/"
+					},
+					{
+						"name": "Behind Waterfall",
+						"ref": "Tristis Pass Locations/Behind Waterfall/"
+					},
+					{
+						"name": "Ice Cave Chest",
+						"ref": "Tristis Pass Locations/Ice Cave Chest/"
+					},
+					{
+						"name": "Ice Exit Hidden Item",
+						"ref": "Tristis Pass Locations/Ice Exit Hidden Item/"
+					},
+					{
+						"name": "Bridge Chest",
+						"ref": "Tristis Pass Locations/Bridge Chest/"
+					},
+					{
+						"name": "Lower Hill Left",
+						"ref": "Tristis Pass Locations/Lower Hill/Left"
+					},
+					{
+						"name": "Lower Hill Right",
+						"ref": "Tristis Pass Locations/Lower Hill/Right"
+					},
+					{
+						"name": "Second Hill Pickup",
+						"ref": "Tristis Pass Locations/Second Hill Pickup/"
+					},
+					{
+						"name": "Second Hill Upper Chest",
+						"ref": "Tristis Pass Locations/Second Hill Upper Chest/"
+					},
+					{
+						"name": "Second Hill Lower Left",
+						"ref": "Tristis Pass Locations/Second Hill Lower Left/"
+					},
+					{
+						"name": "Second Hill Lowest Chest",
+						"ref": "Tristis Pass Locations/Second Hill Lowest Chest/"
+					},
+					{
+						"name": "Third Hill Left",
+						"ref": "Tristis Pass Locations/Third Hill/Left"
+					},
+					{
+						"name": "Third Hill Right",
+						"ref": "Tristis Pass Locations/Third Hill/Right"
+					},
+					{
+						"name": "Final Hill Underground Pickup",
+						"ref": "Tristis Pass Locations/Final Hill Underground Pickup/"
+					},
+					{
+						"name": "Final Hill Underground Chest",
+						"ref": "Tristis Pass Locations/Final Hill Underground Chest/"
+					},
+					{
+						"name": "Final Hill Alcove",
+						"ref": "Tristis Pass Locations/Final Hill Alcove/"
+					},
+					{
+						"name": "Final Hill Tree Chest",
+						"ref": "Tristis Pass Locations/Final Hill Tree Chest/"
+					},
+					{
+						"name": "Area Exit",
+						"ref": "Tristis Pass Locations/Area Exit/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 1042,
+						"y": 112
+					}
+				]
+			},
+			{
+				"name": "Tymeo Mountains",
+				"sections": [
+					{
+						"name": "First Room Hidden Chest",
+						"ref": "Tymeo Mountains Locations/First Room Hidden Chest/"
+					},
+					{
+						"name": "Cavern Chest",
+						"ref": "Tymeo Mountains Locations/Cavern Chest/"
+					},
+					{
+						"name": "Cavern Near Breakable Wall",
+						"ref": "Tymeo Mountains Locations/Cavern Near Breakable Wall/"
+					},
+					{
+						"name": "Hidden Room",
+						"ref": "Tymeo Mountains Locations/Hidden Room/"
+					},
+					{
+						"name": "Bridge Chest",
+						"ref": "Tymeo Mountains Locations/Bridge Chest/"
+					},
+					{
+						"name": "Side Room",
+						"ref": "Tymeo Mountains Locations/Side Room/"
+					},
+					{
+						"name": "Left Hill Alcove Pickup",
+						"ref": "Tymeo Mountains Locations/Left Hill Alcove/Pickup"
+					},
+					{
+						"name": "Left Hill Alcove Chest",
+						"ref": "Tymeo Mountains Locations/Left Hill Alcove/Chest"
+					},
+					{
+						"name": "Left Exit",
+						"ref": "Tymeo Mountains Locations/Left Exit/"
+					},
+					{
+						"name": "Right Hill Alcove Chest",
+						"ref": "Tymeo Mountains Locations/Right Hill Alcove Chest/"
+					},
+					{
+						"name": "Lower Mountain Free Chest",
+						"ref": "Tymeo Mountains Locations/Lower Mountain Free Chest/"
+					},
+					{
+						"name": "Lower Mountain Upper Paries Chest",
+						"ref": "Tymeo Mountains Locations/Lower Mountain Upper Paries Chest/"
+					},
+					{
+						"name": "Lower Mountain Lower Paries Chest",
+						"ref": "Tymeo Mountains Locations/Lower Mountain Lower Paries Chest/"
+					},
+					{
+						"name": "Upper Hill Chest",
+						"ref": "Tymeo Mountains Locations/Upper Hill Chest/"
+					},
+					{
+						"name": "Upper Mountain Left Chest",
+						"ref": "Tymeo Mountains Locations/Upper Mountain Left Chest/"
+					},
+					{
+						"name": "Upper Mountain Right Chest",
+						"ref": "Tymeo Mountains Locations/Upper Mountain Right Chest/"
+					},
+					{
+						"name": "Upper Mountain Hidden Chest",
+						"ref": "Tymeo Mountains Locations/Upper Mountain Hidden Chest/"
+					},
+					{
+						"name": "Wind Glyph",
+						"ref": "Tymeo Mountains Locations/Wind Glyph/"
+					},
+					{
+						"name": "Right Shaft Lower",
+						"ref": "Tymeo Mountains Locations/Right Shaft Lower/"
+					},
+					{
+						"name": "Right Shaft Upper Chest",
+						"ref": "Tymeo Mountains Locations/Right Shaft Upper/Chest"
+					},
+					{
+						"name": "Right Shaft Upper Hidden Item",
+						"ref": "Tymeo Mountains Locations/Right Shaft Upper/Hidden Item"
+					},
+					{
+						"name": "Right Exit Item",
+						"ref": "Tymeo Mountains Locations/Right Exit/Item"
+					},
+					{
+						"name": "Right Exit Exit",
+						"ref": "Tymeo Mountains Locations/Right Exit/Exit"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 612,
+						"y": 792
+					}
+				]
+			},
+			{
+				"name": "Underground Labyrinth",
+				"sections": [
+					{
+						"name": "First Shadow Room",
+						"ref": "Underground Labyrinth Locations/First Shadow Room/"
+					},
+					{
+						"name": "Fire Room",
+						"ref": "Underground Labyrinth Locations/Fire Room/"
+					},
+					{
+						"name": "Second Shadow Room",
+						"ref": "Underground Labyrinth Locations/Second Shadow Room/"
+					},
+					{
+						"name": "Detour Chest",
+						"ref": "Underground Labyrinth Locations/Detour Chest/"
+					},
+					{
+						"name": "Blackmore No-Hit Chest",
+						"ref": "Underground Labyrinth Locations/Blackmore No-Hit Chest/"
+					},
+					{
+						"name": "Boulder Room Hidden Chest",
+						"ref": "Underground Labyrinth Locations/Boulder Room Hidden Chest/"
+					},
+					{
+						"name": "Boulder Room Glyph",
+						"ref": "Underground Labyrinth Locations/Boulder Room Glyph/"
+					},
+					{
+						"name": "Connector Shaft Bottom Hidden",
+						"ref": "Underground Labyrinth Locations/Connector Shaft Bottom Hidden/"
+					},
+					{
+						"name": "Dead End Chest",
+						"ref": "Underground Labyrinth Locations/Dead End Chest/"
+					},
+					{
+						"name": "Hidden Room Chest",
+						"ref": "Underground Labyrinth Locations/Hidden Room Chest/"
+					},
+					{
+						"name": "Secret Passage Pickup",
+						"ref": "Underground Labyrinth Locations/Secret Passage Pickup/"
+					},
+					{
+						"name": "Exit Item",
+						"ref": "Underground Labyrinth Locations/Exit/Item"
+					},
+					{
+						"name": "Exit Area Exit",
+						"ref": "Underground Labyrinth Locations/Exit/Area Exit"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 452,
+						"y": 362
+					}
+				]
+			},
+			{
+				"name": "Wygol Village",
+				"sections": [
+					{
+						"name": "Grounded Chest",
+						"ref": "Wygol Village Locations/Grounded Chest/"
+					},
+					{
+						"name": "Right Chest",
+						"ref": "Wygol Village Locations/Right Chest/"
+					},
+					{
+						"name": "Left Chest",
+						"ref": "Wygol Village Locations/Left Chest/"
+					},
+					{
+						"name": "Chest in Right House",
+						"ref": "Wygol Village Locations/Chest in Right House/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 542,
+						"y": 532
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Map",
-		"location_size": 12,
+		"location_size": 36,
 		"location_border_thickness": 2,
 		"img": "images/maps/map.png"
 	},
@@ -19,7 +19,7 @@
 	},
 	{
 		"name": "Wygol Village",
-		"location_size": 12,
+		"location_size": 24,
 		"location_border_thickness": 2,
 		"img": "images/maps/village.png"
 	},

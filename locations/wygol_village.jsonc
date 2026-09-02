@@ -13,8 +13,8 @@
 				"map_locations": [
 					{
 						"map": "Wygol Village",
-						"x": 632,
-						"y": 452
+						"x": 772,
+						"y": 552
 					}
 				]
 			},
@@ -29,8 +29,8 @@
 				"map_locations": [
 					{
 						"map": "Wygol Village",
-						"x": 632,
-						"y": 432
+						"x": 932,
+						"y": 512
 					}
 				]
 			},
@@ -45,8 +45,8 @@
 				"map_locations": [
 					{
 						"map": "Wygol Village",
-						"x": 522,
-						"y": 452
+						"x": 332,
+						"y": 512
 					}
 				]
 			},
@@ -61,8 +61,8 @@
 				"map_locations": [
 					{
 						"map": "Wygol Village",
-						"x": 662,
-						"y": 432
+						"x": 872,
+						"y": 482
 					}
 				]
 			}
