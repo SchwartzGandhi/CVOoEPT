@@ -497,8 +497,8 @@
 				"map_locations": [
 					{
 						"map": "Map",
-						"x": 882,
-						"y": 772
+						"x": 892,
+						"y": 762
 					}
 				]
 			},
@@ -609,7 +609,7 @@
 				"map_locations": [
 					{
 						"map": "Map",
-						"x": 1172,
+						"x": 1182,
 						"y": 712
 					}
 				]
@@ -1515,6 +1515,152 @@
 						"map": "Map",
 						"x": 542,
 						"y": 532
+					}
+				]
+			},
+			{
+				"name": "Glyphsanity - Stolen",
+				"sections": [
+					{
+						"name": "Necromancer",
+						"ref": "Glyphsanity/Stolen Glyphs/Necromancer Glyph"
+					},
+					{
+						"name": "Sea Demon",
+						"ref": "Glyphsanity/Stolen Glyphs/Sea Demon Glyph"
+					},
+					{
+						"name": "Fire Demon",
+						"ref": "Glyphsanity/Stolen Glyphs/Fire Demon Glyph"
+					},
+					{
+						"name": "Black Fomor",
+						"ref": "Glyphsanity/Stolen Glyphs/Black Fomor Glyph"
+					},
+					{
+						"name": "Thunder Demon",
+						"ref": "Glyphsanity/Stolen Glyphs/Thunder Demon Glyph"
+					},
+					{
+						"name": "White Fomor",
+						"ref": "Glyphsanity/Stolen Glyphs/White Fomor Glyph"
+					},
+					{
+						"name": "Nova Skeleton",
+						"ref": "Glyphsanity/Stolen Glyphs/Nova Skeleton Glyph"
+					},
+					{
+						"name": "Albus",
+						"ref": "Glyphsanity/Stolen Glyphs/Albus Glyph"
+					},
+					{
+						"name": "Barlowe",
+						"ref": "Glyphsanity/Stolen Glyphs/Barlowe Glyph"
+					},
+					{
+						"name": "Demon Lord",
+						"ref": "Glyphsanity/Stolen Glyphs/Demon Lord Glyph"
+					},
+					{
+						"name": "Jiang Shi",
+						"ref": "Glyphsanity/Stolen Glyphs/Jiang Shi Glyph"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 1152,
+						"y": 892,
+						"size": 42
+					}
+				]
+			},
+			{
+				"name": "Glyphsanity - Dropped",
+				"sections": [
+					{
+						"name": "Bone Scimitar",
+						"ref": "Glyphsanity/Dropped Glyphs/Bone Scimitar Glyph"
+					},
+					{
+						"name": "Axe Knight",
+						"ref": "Glyphsanity/Dropped Glyphs/Axe Knight Glyph"
+					},
+					{
+						"name": "Bone Archer",
+						"ref": "Glyphsanity/Dropped Glyphs/Bone Archer Glyph"
+					},
+					{
+						"name": "Spear Guard",
+						"ref": "Glyphsanity/Dropped Glyphs/Spear Guard Glyph"
+					},
+					{
+						"name": "Werebat",
+						"ref": "Glyphsanity/Dropped Glyphs/Werebat Glyph"
+					},
+					{
+						"name": "Skull Spider",
+						"ref": "Glyphsanity/Dropped Glyphs/Skull Spider Glyph"
+					},
+					{
+						"name": "Owl",
+						"ref": "Glyphsanity/Dropped Glyphs/Owl Glyph"
+					},
+					{
+						"name": "Spectral Sword",
+						"ref": "Glyphsanity/Dropped Glyphs/Spectral Sword Glyph"
+					},
+					{
+						"name": "Automaton ZX27",
+						"ref": "Glyphsanity/Dropped Glyphs/Automaton ZX27 Glyph"
+					},
+					{
+						"name": "Gorgon Head",
+						"ref": "Glyphsanity/Dropped Glyphs/Gorgon Head Glyph"
+					},
+					{
+						"name": "Black Panther",
+						"ref": "Glyphsanity/Dropped Glyphs/Black Panther Glyph"
+					},
+					{
+						"name": "Polkir",
+						"ref": "Glyphsanity/Dropped Glyphs/Polkir Glyph"
+					},
+					{
+						"name": "Red Smasher",
+						"ref": "Glyphsanity/Dropped Glyphs/Red Smasher Glyph"
+					},
+					{
+						"name": "Hammer Shaker",
+						"ref": "Glyphsanity/Dropped Glyphs/Hammer Shaker Glyph"
+					},
+					{
+						"name": "Great Knight",
+						"ref": "Glyphsanity/Dropped Glyphs/Great Knight Glyph"
+					},
+					{
+						"name": "Winged Skeleton",
+						"ref": "Glyphsanity/Dropped Glyphs/Winged Skeleton Glyph"
+					},
+					{
+						"name": "Dullahan",
+						"ref": "Glyphsanity/Dropped Glyphs/Dullahan Glyph"
+					},
+					{
+						"name": "Miss Murder",
+						"ref": "Glyphsanity/Dropped Glyphs/Miss Murder Glyph"
+					},
+					{
+						"name": "Lizardman",
+						"ref": "Glyphsanity/Dropped Glyphs/Lizardman Glyph"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 1212,
+						"y": 892,
+						"size": 42
 					}
 				]
 			}
