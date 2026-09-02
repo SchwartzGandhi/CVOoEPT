@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Mechanical Tower", // Styx Passage
+		"name": "Mechanical Tower Locations", // Styx Passage
 		"children": [
 			{
 				"name": "Outer Item",
