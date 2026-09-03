@@ -1,5 +1,17 @@
 [
 	{
+		"name": "Ecclesia",
+		"type": "static",
+		"img": "images/items/map_icons/ecclesia.png",
+		"codes": "ecclesia"
+	},
+	{
+		"name": "Wygol Village",
+		"type": "static",
+		"img": "images/items/map_icons/village.png",
+		"codes": "wygol"
+	},
+	{
 		"name": "Monastery",
 		"type": "toggle",
 		"img": "images/items/map_icons/monastery.png",

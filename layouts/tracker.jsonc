@@ -12,13 +12,23 @@
 					"v_alignment": "stretch",
 					"content": [
 						{
-							"type": "group",
-							"header": "Items",
-							"dock": "top",
-							"content": {
-								"type": "layout",
-								"key": "shared_item_grid"
-							}
+							"type": "tabbed",
+							"tabs": [
+								{
+									"title": "Items",
+									"content": {
+										"type": "layout",
+										"key": "shared_item_grid"
+									}
+								},
+								{
+									"title": "Glyphs",
+									"content": {
+										"type": "layout",
+										"key": "shared_glyph_grid"
+									}
+								}
+							]
 						}
 					]
 				},

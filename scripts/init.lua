@@ -24,7 +24,10 @@ ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlus.lua")
 ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlusWrapper.lua")
 
 -- Items
-Tracker:AddItems("items/items.jsonc")
+Tracker:AddItems("items/relics.jsonc")
+Tracker:AddItems("items/glyphs.jsonc")
+Tracker:AddItems("items/villagers.jsonc")
+Tracker:AddItems("items/map.jsonc")
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Maps

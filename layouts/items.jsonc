@@ -7,26 +7,207 @@
 		"margin": "0,0",
 		"content": [
 			{
-				"type": "array",
-				"orientation": "horizontal",
-				"margin": "0,0",
-				"content": [
-					{
-						"type": "itemgrid",
-						"item_margin": "10, 10",
-						"h_alignment": "left",
-						"rows": [
-							[
-								"toggle",
-								"progressive"
-							],
-							[
-								"consumable",
-								"progressive_toggle"
-							]
+				"type": "group",
+				"header": "Relics",
+				"dock": "top",
+				"content": {
+					"type": "itemgrid",
+					"item_margin": "4, 4",
+					"item_size": 64,
+					"h_alignment": "center",
+					"rows": [
+						[
+							"slide", "djump", "dive", "special", "jewelbox", "names"
 						]
-					}
-				]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "Important Glyphs",
+				"dock": "top",
+				"content": {
+					"type": "array",
+					"orientation": "horizontal",
+					"margin": "0,0",
+					"content": [
+						{
+							"type": "itemgrid",
+							"item_margin": "2, 2",
+							"item_size": 48,
+							"h_alignment": "center",
+							"rows": [
+								[
+									"magnet", "wall"
+								],
+								[
+									"fast", "wings"
+								]
+							]
+						},
+						{
+							"type": "itemgrid",
+							"item_margin": "2, 2",
+							"item_size": 48,
+							"h_alignment": "center",
+							"rows": [
+								[
+									"fun", "beam"
+								],
+								[
+									"cat", "bot"
+								]
+							]
+						},
+						{
+							"type": "itemgrid",
+							"item_margin": "2, 2",
+							"item_size": 48,
+							"h_alignment": "center",
+							"rows": [
+								[
+									"dominus1", "dominus2"
+								],
+								[
+									"dominus3"
+								]
+							]
+						},
+						{
+							"type": "itemgrid",
+							"item_margin": "2, 2",
+							"item_size": 48,
+							"h_alignment": "center",
+							"rows": [
+								[
+									"cerberus1", "cerberus2"
+								],
+								[
+									"cerberus3"
+								]
+							]
+						}
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "Villagers",
+				"dock": "top",
+				"content": {
+					"type": "itemgrid",
+					"item_margin": "2, 2",
+					"item_size": 96,
+					"h_alignment": "center",
+					"rows": [
+						[
+							"priest", "merchant", "healer", "chef"
+						],
+						[
+							"blacksmith", "clothier", "jewelist", "reporter", "musician"
+						],
+						[
+							"girl", "boy", "grandma", "mom"
+						]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "Map Locations",
+				"dock": "top",
+				"content": {
+					"type": "itemgrid",
+					"item_margin": "2, 2",
+					"item_size": 64,
+					"h_alignment": "stretch",
+					"rows": [
+						[
+							"mystery", "argila", "oblivion", "tristis", "giants"
+						],
+						[
+							"training", "draculas", "large", "monastery", "somnus", ""
+						],
+						[
+							"ecclesia", "wygol", "ruvas", "", "minera"
+						],
+						[
+							"skeleton", "misty", "tymeo", "", "kalidus", "lighthouse"
+						]
+					]
+				}
+			}
+		]
+	},
+	"shared_glyph_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "group",
+				"header": "Arm Glyphs",
+				"dock": "top",
+				"content": {
+					"type": "itemgrid",
+					"item_margin": "4, 4",
+					"item_size": 58,
+					"h_alignment": "center",
+					"rows": [
+						[
+							"rapier1", "rapier2", "rapier3", "sword1", "sword2", "sword3"
+						],
+						[
+							"lance1", "lance2", "lance3", "hammer1", "hammer2", "hammer3"
+						],
+						[
+							"bow1", "bow2", "bow3", "axe1", "axe2", "axe3"
+						],
+						[
+							"scythe1", "scythe2", "scythe3", "knife1", "knife2", "knife3"
+						],
+						[
+							"shield1", "shield2", "shield3", "fun", "steve", "crystal"
+						],
+						[
+							"smash", "wind", "fire1", "fire2", "ice1", "ice2"
+						],
+						[
+							"electric1", "electric2", "light1", "light2", "dark1", "dark2"
+						],
+						[
+							"sanguine", "beam", "albus", "barlowe", "cerberus1", "cerberus2"
+						],
+						[
+							"dominus1", "dominus2"
+						]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "Back Glyphs",
+				"dock": "top",
+				"content": {
+					"type": "itemgrid",
+					"item_margin": "4, 4",
+					"item_size": 58,
+					"h_alignment": "center",
+					"rows": [
+						[
+							"magnet", "wall", "wings", "fast", "str", "con"
+						],
+						[
+							"int", "mnd", "lck", "money", "cat", "bat"
+						],
+						[
+							"bot", "regen", "cerberus3", "zombie", "wingedskeleton", "squid"
+						],
+						[
+							"owl", "medusa", "spider", "yoshika", "dominus3", "gun"
+						]
+					]
+				}
 			}
 		]
 	}
