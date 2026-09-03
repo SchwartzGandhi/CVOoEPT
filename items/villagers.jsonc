@@ -1,0 +1,80 @@
+[
+	{
+		"name": "Nikolai",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "priest"
+	},
+	{
+		"name": "Jacob",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "merchant"
+	},
+	{
+		"name": "Abram",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "healer"
+	},
+	{
+		"name": "Eugen",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "blacksmith"
+	},
+	{
+		"name": "Laura",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "jewelist"
+	},
+	{
+		"name": "Monica",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "clothier"
+	},
+	{
+		"name": "George",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "musician"
+	},
+	{
+		"name": "Aeon",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "chef"
+	},
+	{
+		"name": "Marcel",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "reporter"
+	},
+	{
+		"name": "Anna",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "girl"
+	},
+	{
+		"name": "Serge",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "boy"
+	},
+	{
+		"name": "Daniela",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "grandma"
+	},
+	{
+		"name": "Irina",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "mom"
+	}
+]

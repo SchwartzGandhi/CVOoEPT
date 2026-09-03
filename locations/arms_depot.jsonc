@@ -6,6 +6,8 @@
 		"children": [
 			{
 				"name": "Left Room Chest",
+				"chest_unopened_img": "images/chests/red.png",
+				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -33,6 +35,8 @@
 			},
 			{
 				"name": "Upper Hall Item",
+				"chest_unopened_img": "images/chests/statue.png",
+				"chest_opened_img": "images/chests/statue_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -42,6 +46,8 @@
 			},
 			{
 				"name": "Second Hall Pickup",
+				"chest_unopened_img": "images/chests/statue.png",
+				"chest_opened_img": "images/chests/statue_bw.png",
 				"access_rules": [],
 				"sections": [
 					{
@@ -51,6 +57,8 @@
 			},
 			{
 				"name": "Before Boss",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [],
 				"sections": [
 					{

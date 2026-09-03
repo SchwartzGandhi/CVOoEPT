@@ -1,0 +1,110 @@
+[
+	{
+		"name": "Monastery",
+		"type": "toggle",
+		"img": "images/items/map_icons/monastery.png",
+		"codes": "monastery"
+	},
+	{
+		"name": "Ruvas Forest",
+		"type": "toggle",
+		"img": "images/items/map_icons/forest.png",
+		"codes": "ruvas"
+	},
+	{
+		"name": "Kalidus Channel",
+		"type": "consumable",
+		"img": "images/items/map_icons/channel.png",
+		"max_quantity": 2,
+		"increment": 1,
+		"decrement": 1,
+		"initial_quantity": 0,
+		"overlay_background": "#000000",
+		"overlay_font_size": 8,
+		"codes": "kalidus"
+	},
+	{
+		"name": "Minera Prison Island",
+		"type": "toggle",
+		"img": "images/items/map_icons/island.png",
+		"codes": "minera"
+	},
+	{
+		"name": "Lighthouse",
+		"type": "toggle",
+		"img": "images/items/map_icons/lighthouse.png",
+		"codes": "lighthouse"
+	},
+	{
+		"name": "Tymeo Mountains",
+		"type": "toggle",
+		"img": "images/items/map_icons/mountains.png",
+		"codes": "tymeo"
+	},
+	{
+		"name": "Misty Forest Road",
+		"type": "toggle",
+		"img": "images/items/map_icons/road.png",
+		"codes": "misty"
+	},
+	{
+		"name": "Skeleton Cave",
+		"type": "toggle",
+		"img": "images/items/map_icons/cave.png",
+		"codes": "skeleton"
+	},
+	{
+		"name": "Somnus Reef",
+		"type": "toggle",
+		"img": "images/items/map_icons/reef.png",
+		"codes": "somnus"
+	},
+	{
+		"name": "Giant's Dwelling",
+		"type": "toggle",
+		"img": "images/items/map_icons/dwelling.png",
+		"codes": "giants"
+	},
+	{
+		"name": "Tristis Pass",
+		"type": "toggle",
+		"img": "images/items/map_icons/pass.png",
+		"codes": "tristis"
+	},
+	{
+		"name": "Oblivion Ridge",
+		"type": "toggle",
+		"img": "images/items/map_icons/ridge.png",
+		"codes": "oblivion"
+	},
+	{
+		"name": "Argila Swamp",
+		"type": "toggle",
+		"img": "images/items/map_icons/swamp.png",
+		"codes": "argila"
+	},
+	{
+		"name": "Mystery Manor",
+		"type": "toggle",
+		"img": "images/items/map_icons/manor.png",
+		"codes": "mystery"
+	},
+	{
+		"name": "Dracula's Castle",
+		"type": "toggle",
+		"img": "images/items/map_icons/castle.png",
+		"codes": "draculas"
+	},
+	{
+		"name": "Training Hall",
+		"type": "toggle",
+		"img": "images/items/map_icons/hall.png",
+		"codes": "training"
+	},
+	{
+		"name": "Large Cavern",
+		"type": "toggle",
+		"img": "images/items/map_icons/cavern.png",
+		"codes": "large"
+	}
+]

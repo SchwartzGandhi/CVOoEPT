@@ -1,0 +1,454 @@
+[
+	// Standard Arm Glyphs
+	{
+		"name": "Confodere",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "rapier1"
+	},
+	{
+		"name": "Vol Confodere",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "rapier2"
+	},
+	{
+		"name": "Melio Confodere",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "rapier3"
+	},
+	{
+		"name": "Secare",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "sword1"
+	},
+	{
+		"name": "Vol Secare",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "sword2"
+	},
+	{
+		"name": "Melio Secare",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "sword3"
+	},
+	{
+		"name": "Hasta",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "lance1"
+	},
+	{
+		"name": "Vol Hasta",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "lance2"
+	},
+	{
+		"name": "Melio Hasta",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "lance3"
+	},
+	{
+		"name": "Macir",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "hammer1"
+	},
+	{
+		"name": "Vol Macir",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "hammer2"
+	},
+	{
+		"name": "Melio Macir",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "hammer3"
+	},
+	{
+		"name": "Arcus",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "bow1"
+	},
+	{
+		"name": "Vol Arcus",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "bow2"
+	},
+	{
+		"name": "Melio Arcus",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "bow3"
+	},
+	{
+		"name": "Ascia",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "axe1"
+	},
+	{
+		"name": "Vol Ascia",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "axe2"
+	},
+	{
+		"name": "Melio Ascia",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "axe3"
+	},
+	{
+		"name": "Falcis",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "scythe1"
+	},
+	{
+		"name": "Vol Falcis",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "scythe2"
+	},
+	{
+		"name": "Melio Falcis",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "scythe3"
+	},
+	{
+		"name": "Culter",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "knife1"
+	},
+	{
+		"name": "Vol Culter",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "knife2"
+	},
+	{
+		"name": "Melio Culter",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "knife3"
+	},
+	{
+		"name": "Scutum",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "shield1"
+	},
+	{
+		"name": "Vol Scutum",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "shield2"
+	},
+	{
+		"name": "Melio Scutum",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "shield3"
+	},
+	// Elemental Glyphs
+	{
+		"name": "Lapiste",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "water"
+	},
+	{
+		"name": "Pneuma",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "wind"
+	},
+	{
+		"name": "Ignis",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "fire1"
+	},
+	{
+		"name": "Vol Ignis",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "fire2"
+	},
+	{
+		"name": "Grando",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "rock1"
+	},
+	{
+		"name": "Vol Grando",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "rock2"
+	},
+	{
+		"name": "Fulgur",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "electric1"
+	},
+	{
+		"name": "Vol Fulgur",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "electric2"
+	},
+	{
+		"name": "Luminatio",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "light1"
+	},
+	{
+		"name": "Vol Luminatio",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "light2"
+	},
+	{
+		"name": "Umbra",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "dark1"
+	},
+	{
+		"name": "Vol Umbra",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "dark2"
+	},
+	// Misc Glpyphs
+	{
+		"name": "Cubus",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "block"
+	},
+	{
+		"name": "Torpor",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "crystal"
+	},
+	{
+		"name": "Morbus",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "morbius"
+	},
+	{
+		"name": "Nitesco",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "beam"
+	},
+	{
+		"name": "Acerbatus",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "beam"
+	},
+	{
+		"name": "Globus",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "beam"
+	},
+	// Movement Glyphs
+	{
+		"name": "Magnes",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "magnet"
+	},
+	{
+		"name": "Paries",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "wall"
+	},
+	{
+		"name": "Volaticus",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "wings"
+	},
+	{
+		"name": "Rapidus Fio",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "fast"
+	},
+	{
+		"name": "Redire",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "fun"
+	},
+	// Stat Glyphs
+	{
+		"name": "Vis Fio",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "str"
+	},
+	{
+		"name": "Fortis Fio",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "con"
+	},
+	{
+		"name": "Sapiens Fio",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "mnd"
+	},
+	{
+		"name": "Fides Fio",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "fast"
+	},
+	{
+		"name": "Felicem Fio",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "lck"
+	},
+	{
+		"name": "Inire Pecunia",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "all"
+	},
+	// Transform Glyphs
+	{
+		"name": "Arma Felix",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "cat"
+	},
+	{
+		"name": "Arma Chiroptera",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "bat"
+	},
+	{
+		"name": "Arma Machina",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "bot"
+	},
+	{
+		"name": "Refectio",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "cat"
+	},
+	// Summon Glyphs
+	{
+		"name": "Fidelis Caries",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "cat"
+	},
+	{
+		"name": "Fidelis Alate",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "cat"
+	},
+	{
+		"name": "Fidelis Polkir",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "cat"
+	},
+	{
+		"name": "Fidelis Noctua",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "cat"
+	},
+	{
+		"name": "Fidelis Medusa",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "medusa"
+	},
+	{
+		"name": "Fidelis Aranea",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "spider"
+	},
+	{
+		"name": "Fidelis Mortus",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "cat"
+	},
+	{
+		"name": "Agartha",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "cat"
+	},
+	// McGuffin Glyphs
+	{
+		"name": "Dominus Hated",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "dominus1"
+	},
+	{
+		"name": "Dominus Anger",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "dominus2"
+	},
+	{
+		"name": "Dominus Agony",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "dominus3"
+	},
+	{
+		"name": "Dextro Custos",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "cerberus1"
+	},
+	{
+		"name": "Sinestro Custos",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "cerberus2"
+	},
+	{
+		"name": "Arma Custos",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "cerberus3"
+	}
+]

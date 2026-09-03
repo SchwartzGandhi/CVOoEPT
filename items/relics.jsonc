@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Lizard Tail",
+		"type": "toggle",
+		"img": "images/items/slide.png",
+		"codes": "slide"
+	},
+	{
+		"name": "Ordinary Rock",
+		"type": "toggle",
+		"img": "images/items/djump.png",
+		"codes": "djump"
+	},
+	{
+		"name": "Serpent Scale",
+		"type": "toggle",
+		"img": "images/items/dive.png",
+		"codes": "dive"
+	},
+	{
+		"name": "Glyph Union",
+		"type": "toggle",
+		"img": "images/items/special.png",
+		"codes": "special"
+	},
+	{
+		"name": "Glyph Sleeve",
+		"type": "toggle",
+		"img": "images/items/jewelbox.png",
+		"codes": "jewelbox"
+	},
+	{
+		"name": "Book of Spirits",
+		"type": "toggle",
+		"img": "images/items/names.png",
+		"codes": "names"
+	}
+]
