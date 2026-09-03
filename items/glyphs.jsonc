@@ -164,12 +164,6 @@
 	},
 	// Elemental Glyphs
 	{
-		"name": "Lapiste",
-		"type": "toggle",
-		"img": "images/items/toggle.png",
-		"codes": "water"
-	},
-	{
 		"name": "Pneuma",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
@@ -191,13 +185,13 @@
 		"name": "Grando",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "rock1"
+		"codes": "ice1"
 	},
 	{
 		"name": "Vol Grando",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "rock2"
+		"codes": "ice2"
 	},
 	{
 		"name": "Fulgur",
@@ -237,10 +231,16 @@
 	},
 	// Misc Glpyphs
 	{
+		"name": "Lapiste",
+		"type": "toggle",
+		"img": "images/items/toggle.png",
+		"codes": "smash"
+	},
+	{
 		"name": "Cubus",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "block"
+		"codes": "steve"
 	},
 	{
 		"name": "Torpor",
@@ -252,7 +252,7 @@
 		"name": "Morbus",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "morbius"
+		"codes": "sanguine"
 	},
 	{
 		"name": "Nitesco",
@@ -264,13 +264,13 @@
 		"name": "Acerbatus",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "beam"
+		"codes": "albus"
 	},
 	{
 		"name": "Globus",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "beam"
+		"codes": "barlowe"
 	},
 	// Movement Glyphs
 	{
@@ -320,13 +320,13 @@
 		"name": "Sapiens Fio",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "mnd"
+		"codes": "int"
 	},
 	{
 		"name": "Fides Fio",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "fast"
+		"codes": "mnd"
 	},
 	{
 		"name": "Felicem Fio",
@@ -338,7 +338,7 @@
 		"name": "Inire Pecunia",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "all"
+		"codes": "money"
 	},
 	// Transform Glyphs
 	{
@@ -363,32 +363,32 @@
 		"name": "Refectio",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "cat"
+		"codes": "regen"
 	},
 	// Summon Glyphs
 	{
 		"name": "Fidelis Caries",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "cat"
+		"codes": "zombie"
 	},
 	{
 		"name": "Fidelis Alate",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "cat"
+		"codes": "wingedskeleton"
 	},
 	{
 		"name": "Fidelis Polkir",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "cat"
+		"codes": "squid"
 	},
 	{
 		"name": "Fidelis Noctua",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "cat"
+		"codes": "owl"
 	},
 	{
 		"name": "Fidelis Medusa",
@@ -406,13 +406,13 @@
 		"name": "Fidelis Mortus",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "cat"
+		"codes": "yoshika"
 	},
 	{
 		"name": "Agartha",
 		"type": "toggle",
 		"img": "images/items/toggle.png",
-		"codes": "cat"
+		"codes": "gun"
 	},
 	// McGuffin Glyphs
 	{
