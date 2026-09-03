@@ -993,14 +993,18 @@
 				]
 			},
 			{
-				"name": "Wallman No-Hit Chest",
+				"name": "Wallman",
 				"children": [
 					{
 						"name": "Library",
 						"sections": [
 							{
+								"name": "Wallman Glyph",
+								"ref": "Library Locations/Wallman/Glyph"
+							},
+							{
 								"name": "Wallman No-Hit Chest",
-								"ref": "Library Locations/Wallman No-Hit Chest/"
+								"ref": "Library Locations/Wallman/No-Hit Chest"
 							}
 						],
 						"map_locations": [
