@@ -2,79 +2,79 @@
 	{
 		"name": "Nikolai",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/villagers/nikolai.png",
 		"codes": "priest"
 	},
 	{
 		"name": "Jacob",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/villagers/jacob.png",
 		"codes": "merchant"
 	},
 	{
 		"name": "Abram",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/villagers/abram.png",
 		"codes": "healer"
 	},
 	{
 		"name": "Eugen",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/villagers/eugen.png",
 		"codes": "blacksmith"
 	},
 	{
 		"name": "Laura",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/villagers/laura.png",
 		"codes": "jewelist"
 	},
 	{
 		"name": "Monica",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/villagers/monica.png",
 		"codes": "clothier"
 	},
 	{
 		"name": "George",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/villagers/george.png",
 		"codes": "musician"
 	},
 	{
 		"name": "Aeon",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/villagers/aeon.png",
 		"codes": "chef"
 	},
 	{
 		"name": "Marcel",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/villagers/marcel.png",
 		"codes": "reporter"
 	},
 	{
 		"name": "Anna",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/villagers/anna.png",
 		"codes": "girl"
 	},
 	{
 		"name": "Serge",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/villagers/serge.png",
 		"codes": "boy"
 	},
 	{
 		"name": "Daniela",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/villagers/daniela.png",
 		"codes": "grandma"
 	},
 	{
 		"name": "Irina",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/villagers/irina.png",
 		"codes": "mom"
 	}
 ]

@@ -3,452 +3,452 @@
 	{
 		"name": "Confodere",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/rapier1.png",
 		"codes": "rapier1"
 	},
 	{
 		"name": "Vol Confodere",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/rapier2.png",
 		"codes": "rapier2"
 	},
 	{
 		"name": "Melio Confodere",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/rapier3.png",
 		"codes": "rapier3"
 	},
 	{
 		"name": "Secare",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/sword1.png",
 		"codes": "sword1"
 	},
 	{
 		"name": "Vol Secare",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/sword2.png",
 		"codes": "sword2"
 	},
 	{
 		"name": "Melio Secare",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/sword3.png",
 		"codes": "sword3"
 	},
 	{
 		"name": "Hasta",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/lance1.png",
 		"codes": "lance1"
 	},
 	{
 		"name": "Vol Hasta",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/lance2.png",
 		"codes": "lance2"
 	},
 	{
 		"name": "Melio Hasta",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/lance3.png",
 		"codes": "lance3"
 	},
 	{
 		"name": "Macir",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/hammer1.png",
 		"codes": "hammer1"
 	},
 	{
 		"name": "Vol Macir",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/hammer2.png",
 		"codes": "hammer2"
 	},
 	{
 		"name": "Melio Macir",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/hammer3.png",
 		"codes": "hammer3"
 	},
 	{
 		"name": "Arcus",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/bow1.png",
 		"codes": "bow1"
 	},
 	{
 		"name": "Vol Arcus",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/bow2.png",
 		"codes": "bow2"
 	},
 	{
 		"name": "Melio Arcus",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/bow3.png",
 		"codes": "bow3"
 	},
 	{
 		"name": "Ascia",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/axe1.png",
 		"codes": "axe1"
 	},
 	{
 		"name": "Vol Ascia",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/axe2.png",
 		"codes": "axe2"
 	},
 	{
 		"name": "Melio Ascia",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/axe3.png",
 		"codes": "axe3"
 	},
 	{
 		"name": "Falcis",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/scythe1.png",
 		"codes": "scythe1"
 	},
 	{
 		"name": "Vol Falcis",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/scythe2.png",
 		"codes": "scythe2"
 	},
 	{
 		"name": "Melio Falcis",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/scythe3.png",
 		"codes": "scythe3"
 	},
 	{
 		"name": "Culter",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/knife1.png",
 		"codes": "knife1"
 	},
 	{
 		"name": "Vol Culter",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/knife2.png",
 		"codes": "knife2"
 	},
 	{
 		"name": "Melio Culter",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/knife3.png",
 		"codes": "knife3"
 	},
 	{
 		"name": "Scutum",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/shield1.png",
 		"codes": "shield1"
 	},
 	{
 		"name": "Vol Scutum",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/shield2.png",
 		"codes": "shield2"
 	},
 	{
 		"name": "Melio Scutum",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/shield3.png",
 		"codes": "shield3"
 	},
 	// Elemental Glyphs
 	{
 		"name": "Pneuma",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/wind.png",
 		"codes": "wind"
 	},
 	{
 		"name": "Ignis",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/fire1.png",
 		"codes": "fire1"
 	},
 	{
 		"name": "Vol Ignis",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/fire2.png",
 		"codes": "fire2"
 	},
 	{
 		"name": "Grando",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/ice1.png",
 		"codes": "ice1"
 	},
 	{
 		"name": "Vol Grando",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/ice2.png",
 		"codes": "ice2"
 	},
 	{
 		"name": "Fulgur",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/electric1.png",
 		"codes": "electric1"
 	},
 	{
 		"name": "Vol Fulgur",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/electric2.png",
 		"codes": "electric2"
 	},
 	{
 		"name": "Luminatio",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/light1.png",
 		"codes": "light1"
 	},
 	{
 		"name": "Vol Luminatio",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/light2.png",
 		"codes": "light2"
 	},
 	{
 		"name": "Umbra",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/dark1.png",
 		"codes": "dark1"
 	},
 	{
 		"name": "Vol Umbra",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/dark2.png",
 		"codes": "dark2"
 	},
 	// Misc Glpyphs
 	{
 		"name": "Lapiste",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/smash.png",
 		"codes": "smash"
 	},
 	{
 		"name": "Cubus",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/steve.png",
 		"codes": "steve"
 	},
 	{
 		"name": "Torpor",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/crystal.png",
 		"codes": "crystal"
 	},
 	{
 		"name": "Morbus",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/sanguine.png",
 		"codes": "sanguine"
 	},
 	{
 		"name": "Nitesco",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/beam.png",
 		"codes": "beam"
 	},
 	{
 		"name": "Acerbatus",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/albus.png",
 		"codes": "albus"
 	},
 	{
 		"name": "Globus",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/barlowe.png",
 		"codes": "barlowe"
+	},
+	{
+		"name": "Refectio",
+		"type": "toggle",
+		"img": "images/items/glyphs/regen.png",
+		"codes": "regen"
 	},
 	// Movement Glyphs
 	{
 		"name": "Magnes",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/magnet.png",
 		"codes": "magnet"
 	},
 	{
 		"name": "Paries",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/wall.png",
 		"codes": "wall"
 	},
 	{
 		"name": "Volaticus",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/wings.png",
 		"codes": "wings"
 	},
 	{
 		"name": "Rapidus Fio",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/fast.png",
 		"codes": "fast"
 	},
 	{
 		"name": "Redire",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/fun.png",
 		"codes": "fun"
 	},
 	// Stat Glyphs
 	{
 		"name": "Vis Fio",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/strength.png",
 		"codes": "str"
 	},
 	{
 		"name": "Fortis Fio",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/constitution.png",
 		"codes": "con"
 	},
 	{
 		"name": "Sapiens Fio",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/inteligence.png",
 		"codes": "int"
 	},
 	{
 		"name": "Fides Fio",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/mind.png",
 		"codes": "mnd"
 	},
 	{
 		"name": "Felicem Fio",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/luck.png",
 		"codes": "lck"
 	},
 	{
 		"name": "Inire Pecunia",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/money.png",
 		"codes": "money"
 	},
 	// Transform Glyphs
 	{
 		"name": "Arma Felix",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/cat.png",
 		"codes": "cat"
 	},
 	{
 		"name": "Arma Chiroptera",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/bat.png",
 		"codes": "bat"
 	},
 	{
 		"name": "Arma Machina",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/bot.png",
 		"codes": "bot"
-	},
-	{
-		"name": "Refectio",
-		"type": "toggle",
-		"img": "images/items/toggle.png",
-		"codes": "regen"
 	},
 	// Summon Glyphs
 	{
 		"name": "Fidelis Caries",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/zombie.png",
 		"codes": "zombie"
 	},
 	{
 		"name": "Fidelis Alate",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/wingedskeleton.png",
 		"codes": "wingedskeleton"
 	},
 	{
 		"name": "Fidelis Polkir",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/squid.png",
 		"codes": "squid"
 	},
 	{
 		"name": "Fidelis Noctua",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/owl.png",
 		"codes": "owl"
 	},
 	{
 		"name": "Fidelis Medusa",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/medusa.png",
 		"codes": "medusa"
 	},
 	{
 		"name": "Fidelis Aranea",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/spider.png",
 		"codes": "spider"
 	},
 	{
 		"name": "Fidelis Mortus",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/yoshika.png",
 		"codes": "yoshika"
 	},
 	{
 		"name": "Agartha",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/gun.png",
 		"codes": "gun"
 	},
 	// McGuffin Glyphs
 	{
 		"name": "Dominus Hated",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/dominus1.png",
 		"codes": "dominus1"
 	},
 	{
 		"name": "Dominus Anger",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/dominus2.png",
 		"codes": "dominus2"
 	},
 	{
 		"name": "Dominus Agony",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/dominus3.png",
 		"codes": "dominus3"
 	},
 	{
 		"name": "Dextro Custos",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/cerberus1.png",
 		"codes": "cerberus1"
 	},
 	{
 		"name": "Sinestro Custos",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/cerberus2.png",
 		"codes": "cerberus2"
 	},
 	{
 		"name": "Arma Custos",
 		"type": "toggle",
-		"img": "images/items/toggle.png",
+		"img": "images/items/glyphs/cerberus3.png",
 		"codes": "cerberus3"
 	}
 ]
