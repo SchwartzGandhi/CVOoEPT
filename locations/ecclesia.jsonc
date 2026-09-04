@@ -6,7 +6,9 @@
 		"children": [
 			{
 				"name": "Center Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Ecclesia"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -22,7 +24,9 @@
 			},
 			{
 				"name": "Hidden Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Ecclesia"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -40,7 +44,9 @@
 				"name": "Training Hall Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Ecclesia"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -56,7 +62,9 @@
 			},
 			{
 				"name": "Barlowe",
-				"access_rules": [],
+				"access_rules": [
+					"@Ecclesia"
+				],
 				"sections": [
 					{
 						"name": "No-Hit Chest",

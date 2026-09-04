@@ -6,7 +6,9 @@
 		"children": [
 			{
 				"name": "Top Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Training Hall Regions/Prize Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -22,7 +24,9 @@
 			},
 			{
 				"name": "First Way Down Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Training Hall Regions/Prize Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -38,7 +42,9 @@
 			},
 			{
 				"name": "Second Way Down Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Training Hall Regions/Prize Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -56,7 +62,9 @@
 				"name": "Freestanding",
 				"chest_unopened_img": "images/chests/statue.png",
 				"chest_opened_img": "images/chests/statue_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Training Hall Regions/Prize Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -72,7 +80,9 @@
 			},
 			{
 				"name": "Third Way Down Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Training Hall Regions/Prize Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -88,7 +98,9 @@
 			},
 			{
 				"name": "Final Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Training Hall Regions/Prize Area"
+				],
 				"sections": [
 					{
 						"name": ""

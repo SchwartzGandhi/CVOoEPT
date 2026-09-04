@@ -6,7 +6,9 @@
 		"children": [
 			{
 				"name": "First Shadow Room",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -15,7 +17,9 @@
 			},
 			{
 				"name": "Fire Room",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -26,7 +30,9 @@
 				"name": "Second Shadow Room",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -37,7 +43,9 @@
 				"name": "Detour Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -48,7 +56,9 @@
 				"name": "Blackmore No-Hit Chest",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -59,7 +69,9 @@
 				"name": "Boulder Room Hidden Chest",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -68,7 +80,9 @@
 			},
 			{
 				"name": "Boulder Room Glyph",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -77,7 +91,9 @@
 			},
 			{
 				"name": "Connector Shaft Bottom Hidden",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -88,7 +104,9 @@
 				"name": "Dead End Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -99,7 +117,9 @@
 				"name": "Hidden Room Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -110,7 +130,9 @@
 				"name": "Secret Passage Pickup",
 				"chest_unopened_img": "images/chests/statue.png",
 				"chest_opened_img": "images/chests/statue_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -119,7 +141,9 @@
 			},
 			{
 				"name": "Exit",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
+				],
 				"sections": [
 					{
 						"name": "Item"

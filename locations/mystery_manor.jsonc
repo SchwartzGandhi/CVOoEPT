@@ -6,7 +6,9 @@
 		"children": [
 			{
 				"name": "Top Right Free Item",
-				"access_rules": [],
+				"access_rules": [
+					"@Mystery Manor Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -22,7 +24,9 @@
 			},
 			{
 				"name": "Top Left",
-				"access_rules": [],
+				"access_rules": [
+					"@Mystery Manor Regions/Main"
+				],
 				"sections": [
 					{
 						"name": "Free Item"
@@ -43,7 +47,9 @@
 				"name": "Dead End Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Mystery Manor Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -59,7 +65,9 @@
 			},
 			{
 				"name": "Dark Room",
-				"access_rules": [],
+				"access_rules": [
+					"@Mystery Manor Regions/Main"
+				],
 				"sections": [
 					{
 						"name": "Glyph"
@@ -80,7 +88,9 @@
 			},
 			{
 				"name": "Albus",
-				"access_rules": [],
+				"access_rules": [
+					"@Mystery Manor Regions/Main"
+				],
 				"sections": [
 					{
 						"name": "No-Hit Chest",

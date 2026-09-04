@@ -6,7 +6,9 @@
 		"children": [
 			{
 				"name": "First Shaft",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -24,7 +26,9 @@
 				"name": "Lower Dead End",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -40,7 +44,9 @@
 			},
 			{
 				"name": "Magnet Room Free",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -58,7 +64,9 @@
 				"name": "Magnet Room Top Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -76,7 +84,9 @@
 				"name": "Big Room Ledge",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -94,7 +104,9 @@
 				"name": "Big Room Under Shelf",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -110,7 +122,9 @@
 			},
 			{
 				"name": "Blocks Glyph",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -128,7 +142,9 @@
 				"name": "Blocks Reward Chest",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -146,7 +162,9 @@
 				"name": "Central Freestanding",
 				"chest_unopened_img": "images/chests/statue.png",
 				"chest_opened_img": "images/chests/statue_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -164,7 +182,9 @@
 				"name": "Second Big Room Chest",
 				"chest_unopened_img": "images/chests/gold.png",
 				"chest_opened_img": "images/chests/gold_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -180,7 +200,9 @@
 			},
 			{
 				"name": "Second Big Room Upper Ledge",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -198,7 +220,9 @@
 				"name": "Hidden Room",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -214,7 +238,9 @@
 			},
 			{
 				"name": "Final Shaft",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": "Chest"
@@ -237,7 +263,9 @@
 				"name": "Final Shaft Free Item",
 				"chest_unopened_img": "images/chests/ap.png",
 				"chest_opened_img": "images/chests/ap_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -253,7 +281,9 @@
 			},
 			{
 				"name": "Final Dead End",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -269,7 +299,9 @@
 			},
 			{
 				"name": "Long Hall Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -287,7 +319,9 @@
 				"name": "Pre-Boss Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -305,7 +339,9 @@
 				"name": "Arthroverta No-Hit Chest",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -321,7 +357,9 @@
 			},
 			{
 				"name": "Albus Event",
-				"access_rules": [],
+				"access_rules": [
+					"@Monastery Regions/Magnets Area"
+				],
 				"sections": [
 					{
 						"name": ""

@@ -6,7 +6,9 @@
 		"children": [
 			{
 				"name": "Outer Item",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Mechanical Tower/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -17,7 +19,9 @@
 				"name": "Center Room Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Mechanical Tower/Upper"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -28,7 +32,9 @@
 				"name": "Upper Magnets Wall Item",
 				"chest_unopened_img": "images/chests/ap.png",
 				"chest_opened_img": "images/chests/ap_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Mechanical Tower/Upper"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -39,7 +45,9 @@
 				"name": "Upper Magnets Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Mechanical Tower/Upper"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -50,7 +58,9 @@
 				"name": "Hidden Room",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Mechanical Tower/Upper"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -61,7 +71,9 @@
 				"name": "Death No-Hit Chest",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Mechanical Tower/Upper"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -70,7 +82,9 @@
 			},
 			{
 				"name": "Post-Boss",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Mechanical Tower/Upper"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -79,7 +93,9 @@
 			},
 			{
 				"name": "Generator Puzzle",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Mechanical Tower/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -88,7 +104,9 @@
 			},
 			{
 				"name": "Low Shaft Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Mechanical Tower/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -97,7 +115,9 @@
 			},
 			{
 				"name": "First Gears Room Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Mechanical Tower/Lower"
+				],
 				"sections": [
 					{
 						"name": ""

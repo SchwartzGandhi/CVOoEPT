@@ -6,7 +6,9 @@
 		"children": [
 			{
 				"name": "Rest Room 1",
-				"access_rules": [],
+				"access_rules": [
+					"@Large Cavern Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -22,7 +24,9 @@
 			},
 			{
 				"name": "Rest Room 2",
-				"access_rules": [],
+				"access_rules": [
+					"@Large Cavern Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -38,7 +42,9 @@
 			},
 			{
 				"name": "Rest Room 3",
-				"access_rules": [],
+				"access_rules": [
+					"@Large Cavern Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -54,7 +60,9 @@
 			},
 			{
 				"name": "Rest Room 4",
-				"access_rules": [],
+				"access_rules": [
+					"@Large Cavern Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -70,7 +78,9 @@
 			},
 			{
 				"name": "Final Reward 1",
-				"access_rules": [],
+				"access_rules": [
+					"@Large Cavern Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -86,7 +96,9 @@
 			},
 			{
 				"name": "Final Reward 2",
-				"access_rules": [],
+				"access_rules": [
+					"@Large Cavern Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""

@@ -8,7 +8,9 @@
 				"name": "First Room",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Skeleton Cave Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -24,7 +26,9 @@
 			},
 			{
 				"name": "Second Hall Ledge",
-				"access_rules": [],
+				"access_rules": [
+					"@Skeleton Cave Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -40,7 +44,9 @@
 			},
 			{
 				"name": "Dead End",
-				"access_rules": [],
+				"access_rules": [
+					"@Skeleton Cave Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": "Upper",
@@ -61,7 +67,9 @@
 			},
 			{
 				"name": "Center Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Skeleton Cave Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -77,7 +85,9 @@
 			},
 			{
 				"name": "Bottom Corner",
-				"access_rules": [],
+				"access_rules": [
+					"@Skeleton Cave Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": "In Wall",
@@ -105,7 +115,9 @@
 				"name": "Maneater No-Hit Chest",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Skeleton Cave Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -121,7 +133,9 @@
 			},
 			{
 				"name": "Final Room",
-				"access_rules": [],
+				"access_rules": [
+					"@Skeleton Cave Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": "Chest",

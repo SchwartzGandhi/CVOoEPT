@@ -6,7 +6,9 @@
 		"children": [
 			{
 				"name": "Lower Big Room Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -15,7 +17,9 @@
 			},
 			{
 				"name": "Central Room Left Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -26,7 +30,9 @@
 				"name": "Central Room Pickup",
 				"chest_unopened_img": "images/chests/statue.png",
 				"chest_opened_img": "images/chests/statue_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -37,7 +43,9 @@
 				"name": "Central Room Right Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -48,7 +56,9 @@
 				"name": "Treasure Room Left",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				],
 				"sections": [
 					{
 						"name": "Far Left"
@@ -62,7 +72,9 @@
 				"name": "Treasure Room Right",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				],
 				"sections": [
 					{
 						"name": "Far Right"
@@ -76,7 +88,9 @@
 				"name": "Final Room Hidden Item",
 				"chest_unopened_img": "images/chests/ap.png",
 				"chest_opened_img": "images/chests/ap_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -87,7 +101,9 @@
 				"name": "Upper Isolated Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -98,7 +114,9 @@
 				"name": "Final Stash Left",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				],
 				"sections": [
 					{
 						"name": "Far Left"
@@ -112,7 +130,9 @@
 				"name": "Final Stash Right",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				],
 				"sections": [
 					{
 						"name": "Far Right"
@@ -126,7 +146,9 @@
 				"name": "Throne Right Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -137,7 +159,9 @@
 				"name": "Throne Left Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -146,7 +170,9 @@
 			},
 			{
 				"name": "Defeat Dracula",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Throne"
+				],
 				"sections": [
 					{
 						"name": ""

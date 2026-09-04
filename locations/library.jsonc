@@ -8,7 +8,9 @@
 				"name": "First Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Library/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -19,7 +21,9 @@
 				"name": "Pre-Boss Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Library/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -28,7 +32,9 @@
 			},
 			{
 				"name": "Wallman",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Library/Entrance"
+				],
 				"sections": [
 					{
 						"name": "Glyph"
@@ -44,7 +50,9 @@
 				"name": "Past Wallman",
 				"chest_unopened_img": "images/chests/statue.png",
 				"chest_opened_img": "images/chests/statue_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Library/Past Wallman"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -53,7 +61,9 @@
 			},
 			{
 				"name": "Hidden Room Free",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Library/Past Wallman"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -64,7 +74,9 @@
 				"name": "Hidden Room Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Library/Past Wallman"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -75,7 +87,9 @@
 				"name": "Near End Hidden Item",
 				"chest_unopened_img": "images/chests/ap.png",
 				"chest_opened_img": "images/chests/ap_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Library/Past Wallman"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -84,7 +98,9 @@
 			},
 			{
 				"name": "Final Room Item",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Library/Past Wallman"
+				],
 				"sections": [
 					{
 						"name": ""

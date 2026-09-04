@@ -8,7 +8,9 @@
 				"name": "First Room Freestanding",
 				"chest_unopened_img": "images/chests/statue.png",
 				"chest_opened_img": "images/chests/statue_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Ruvas Forest Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -24,7 +26,9 @@
 			},
 			{
 				"name": "Left Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Ruvas Forest Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -40,7 +44,9 @@
 			},
 			{
 				"name": "Right Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Ruvas Forest Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -58,7 +64,9 @@
 				"name": "Area Exit",
 				"chest_unopened_img": "images/chests/arrow_right.png",
 				"chest_opened_img": "images/chests/arrow_right_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Ruvas Forest Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""

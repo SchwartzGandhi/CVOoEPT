@@ -6,7 +6,9 @@
 		"children": [
 			{
 				"name": "Entrance Hidden Item",
-				"access_rules": [],
+				"access_rules": [
+					"@Giant's Dwelling Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -24,7 +26,9 @@
 				"name": "First Main Room Top",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Giant's Dwelling Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -40,7 +44,9 @@
 			},
 			{
 				"name": "First Corner",
-				"access_rules": [],
+				"access_rules": [
+					"@Giant's Dwelling Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -58,7 +64,9 @@
 				"name": "Above Entrance",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Giant's Dwelling Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -76,7 +84,9 @@
 				"name": "Bottom Right Room Pickup",
 				"chest_unopened_img": "images/chests/statue.png",
 				"chest_opened_img": "images/chests/statue_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Giant's Dwelling Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -94,7 +104,9 @@
 				"name": "Goliath No-Hit Chest",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Giant's Dwelling Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -110,7 +122,9 @@
 			},
 			{
 				"name": "Albus 2",
-				"access_rules": [],
+				"access_rules": [
+					"@Giant's Dwelling Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -128,7 +142,9 @@
 				"name": "Area Exit",
 				"chest_unopened_img": "images/chests/arrow_right.png",
 				"chest_opened_img": "images/chests/arrow_right_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Giant's Dwelling Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""

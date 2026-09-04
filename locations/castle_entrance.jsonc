@@ -8,7 +8,9 @@
 				"name": "Entry Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Castle Entrance/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -19,7 +21,9 @@
 				"name": "First Shaft Hidden Item",
 				"chest_unopened_img": "images/chests/ap.png",
 				"chest_opened_img": "images/chests/ap_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Castle Entrance/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -28,7 +32,9 @@
 			},
 			{
 				"name": "Second Big Lower",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Castle Entrance/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -39,7 +45,9 @@
 				"name": "Second Big Hidden Chest",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Castle Entrance/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -50,7 +58,9 @@
 				"name": "Paries Wall",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Castle Entrance/Right Side"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -59,7 +69,9 @@
 			},
 			{
 				"name": "Past Paries Big Room Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Castle Entrance/Right Side"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -70,7 +82,9 @@
 				"name": "Near Basement Center",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Castle Entrance/Right Side"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -79,7 +93,9 @@
 			},
 			{
 				"name": "Before Switch Wall",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Castle Entrance/Right Side"
+				],
 				"sections": [
 					{
 						"name": ""

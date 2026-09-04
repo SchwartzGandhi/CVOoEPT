@@ -6,7 +6,9 @@
 				"name": "Central Shaft Hidden Item",
 				"chest_unopened_img": "images/chests/ap.png",
 				"chest_opened_img": "images/chests/ap_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Forsaken Cloister/Upper"
+				],
 				"sections": [
 					{
 						"name": ""

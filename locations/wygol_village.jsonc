@@ -6,7 +6,9 @@
 		"children": [
 			{
 				"name": "Grounded Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Wygol Village"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -22,7 +24,9 @@
 			},
 			{
 				"name": "Right Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Wygol Village"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -38,7 +42,9 @@
 			},
 			{
 				"name": "Left Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Wygol Village"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -54,7 +60,9 @@
 			},
 			{
 				"name": "Chest in Right House",
-				"access_rules": [],
+				"access_rules": [
+					"@Wygol Village"
+				],
 				"sections": [
 					{
 						"name": ""

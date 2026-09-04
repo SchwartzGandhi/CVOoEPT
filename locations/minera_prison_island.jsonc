@@ -8,7 +8,9 @@
 				"name": "Giant Skeleton No-Hit Chest",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -24,7 +26,9 @@
 			},
 			{
 				"name": "Entrance Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -40,7 +44,9 @@
 			},
 			{
 				"name": "Entrance Pickup",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -58,7 +64,9 @@
 				"name": "Lower Spear Hall First Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -74,7 +82,9 @@
 			},
 			{
 				"name": "Lower Spear Hall Later Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -92,7 +102,9 @@
 				"name": "Lower Spear Hall Ending Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -108,7 +120,9 @@
 			},
 			{
 				"name": "Upper Spear Hall",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -126,7 +140,9 @@
 				"name": "Hidden Room",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -142,7 +158,9 @@
 			},
 			{
 				"name": "Right Entry Shaft Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -160,7 +178,9 @@
 				"name": "Shaft Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -176,7 +196,9 @@
 			},
 			{
 				"name": "Top Room",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": "Chest",
@@ -199,7 +221,9 @@
 				"name": "Left Lower Hall",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -215,7 +239,9 @@
 			},
 			{
 				"name": "Albus 1",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -233,7 +259,9 @@
 				"name": "Room Past Albus",
 				"chest_unopened_img": "images/chests/ap.png",
 				"chest_opened_img": "images/chests/ap_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -249,7 +277,9 @@
 			},
 			{
 				"name": "Lowest Room",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -265,7 +295,9 @@
 			},
 			{
 				"name": "Lower Right Hall",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -281,7 +313,9 @@
 			},
 			{
 				"name": "Right Central Room",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -297,15 +331,20 @@
 			},
 			{
 				"name": "Right Vertical",
-				"access_rules": [],
 				"sections": [
 					{
 						"name": "Chest",
+						"access_rules": [
+							"@Minera Prison Island Regions/Final Segment"
+						],
 						"chest_unopened_img": "images/chests/red.png",
 						"chest_opened_img": "images/chests/red_o.png"
 					},
 					{
 						"name": "Hidden Item",
+						"access_rules": [
+							"@Minera Prison Island Regions/Main"
+						],
 						"chest_unopened_img": "images/chests/ap.png",
 						"chest_opened_img": "images/chests/ap_bw.png"
 					}
@@ -320,7 +359,9 @@
 			},
 			{
 				"name": "Right Spear Hall Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Final Segment"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -338,7 +379,9 @@
 				"name": "Shaft Near Exit",
 				"chest_unopened_img": "images/chests/statue.png",
 				"chest_opened_img": "images/chests/statue_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Final Segment"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -354,7 +397,9 @@
 			},
 			{
 				"name": "Electric Room",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Final Segment"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -372,7 +417,9 @@
 				"name": "Tin Man Chest",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Final Segment"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -388,7 +435,9 @@
 			},
 			{
 				"name": "Exit",
-				"access_rules": [],
+				"access_rules": [
+					"@Minera Prison Island Regions/Final Segment"
+				],
 				"sections": [
 					{
 						"name": "Chest",

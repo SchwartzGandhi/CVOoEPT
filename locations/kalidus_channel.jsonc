@@ -8,7 +8,9 @@
 				"name": "First Room Underwater",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -26,7 +28,9 @@
 				"name": "Second Room Underwater",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -42,7 +46,9 @@
 			},
 			{
 				"name": "Third Room Underwater",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -58,7 +64,9 @@
 			},
 			{
 				"name": "Hallway",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": "Item 1"
@@ -81,7 +89,9 @@
 				"name": "Right Side Hidden Item",
 				"chest_unopened_img": "images/chests/ap.png",
 				"chest_opened_img": "images/chests/ap_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -99,7 +109,9 @@
 				"name": "Right Side Underwater Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -117,7 +129,9 @@
 				"name": "Right Exit Underwater Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -135,7 +149,9 @@
 				"name": "Upper Exit",
 				"chest_unopened_img": "images/chests/arrow_right.png",
 				"chest_opened_img": "images/chests/arrow_right_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -153,7 +169,9 @@
 				"name": "Depths First Room Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Right"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -171,7 +189,9 @@
 				"name": "Depths Right Left Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Right"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -187,7 +207,9 @@
 			},
 			{
 				"name": "Depths Right Center Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Right"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -205,7 +227,9 @@
 				"name": "Depths Right Right Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Right"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -223,7 +247,9 @@
 				"name": "Depths Rightmost Shaft Freestanding",
 				"chest_unopened_img": "images/chests/ap.png",
 				"chest_opened_img": "images/chests/ap_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Right"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -241,7 +267,9 @@
 				"name": "Right Depths Dead End Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Right"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -259,7 +287,9 @@
 				"name": "Depths Secret Room",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Right"
+				],
 				"sections": [
 					{
 						"name": "Left Chest"
@@ -281,7 +311,9 @@
 			},
 			{
 				"name": "Depths Right Shaft Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Right"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -297,7 +329,9 @@
 			},
 			{
 				"name": "Depths Central",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Right"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -313,7 +347,9 @@
 			},
 			{
 				"name": "Depths Left Tall Room Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Left"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -329,7 +365,9 @@
 			},
 			{
 				"name": "Depths Left Tall Room Freestanding",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Left"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -345,7 +383,9 @@
 			},
 			{
 				"name": "Depths Left Small Vertical Freestanding",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Left"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -361,7 +401,9 @@
 			},
 			{
 				"name": "Depths Left Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Left"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -377,7 +419,9 @@
 			},
 			{
 				"name": "Ship Room",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Left"
+				],
 				"sections": [
 					{
 						"name": "Upper Right",
@@ -427,7 +471,9 @@
 				"name": "Ship Room Hidden Chest",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Left"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -443,7 +489,9 @@
 			},
 			{
 				"name": "Deepest Room",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Left"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -461,7 +509,9 @@
 				"name": "Depths Lower Left",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Left"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -479,7 +529,9 @@
 				"name": "Lower Exit",
 				"chest_unopened_img": "images/chests/arrow_left.png",
 				"chest_opened_img": "images/chests/arrow_left_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Left"
+				],
 				"sections": [
 					{
 						"name": ""

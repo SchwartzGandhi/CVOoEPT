@@ -8,7 +8,9 @@
 				"name": "Basement Entrance Pickup",
 				"chest_unopened_img": "images/chests/statue.png",
 				"chest_opened_img": "images/chests/statue_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -19,7 +21,9 @@
 				"name": "Lower Ramparts Hidden Chest",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -28,7 +32,9 @@
 			},
 			{
 				"name": "Lower Ramparts",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance"
+				],
 				"sections": [
 					{
 						"name": "Chest"
@@ -44,7 +50,9 @@
 				"name": "Left Corner",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -55,7 +63,9 @@
 				"name": "Upper Ramparts Left",
 				"chest_unopened_img": "images/chests/ap.png",
 				"chest_opened_img": "images/chests/ap_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -66,7 +76,9 @@
 				"name": "Upper Ramparts Right",
 				"chest_unopened_img": "images/chests/ap.png",
 				"chest_opened_img": "images/chests/ap_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -77,7 +89,9 @@
 				"name": "Left Secret Room",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -88,7 +102,9 @@
 				"name": "Top Right Square Hidden Item",
 				"chest_unopened_img": "images/chests/ap.png",
 				"chest_opened_img": "images/chests/ap_bw.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -99,7 +115,9 @@
 				"name": "Lower Right Square Chest",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -108,7 +126,9 @@
 			},
 			{
 				"name": "Connector Chest",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -119,7 +139,9 @@
 				"name": "Connector Hidden Chest",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -130,7 +152,9 @@
 				"name": "Lowest Room",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
@@ -141,7 +165,9 @@
 				"name": "Right Secret Room",
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
-				"access_rules": [],
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance"
+				],
 				"sections": [
 					{
 						"name": ""
