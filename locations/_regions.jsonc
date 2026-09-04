@@ -1,20 +1,513 @@
 [
 	{
-		"name": "Forsaken Cloister Locations", // Gazing toward Heaven
+		"name": "Ecclesia",
+		"access_rules": [
+			"", // Starting Region
+			"@World Map"
+		]
+	},
+	{
+		"name": "World Map",
+		"access_rules": [
+			"@Ecclesia",
+			"@Monastery Regions/Entrance",
+			"@Wygol Village",
+			"@Ruvas Forest Regions/Entrance",
+			"@Kalidus Channel Regions/Entrance",
+			"@Minera Prison Island Regions/Entrance",
+			"@Lighthouse Regions/Entrance",
+			"@Kalidus Channel Regions/Depths Right",
+			"@Tymeo Mountains Regions/Entrance",
+			"@Misty Forest Road Regions/Entrance",
+			"@Skeleton Cave Regions/Entrance",
+			"@Somnus Reef Regions/Entrance",
+			"@Giant's Dwelling Regions/Entrance",
+			"@Tristis Pass Regions/Entrance",
+			"@Oblivion Ridge Regions/Entrance",
+			"@Argila Swamp Regions/Entrance",
+			"@Mystery Manor Regions/Entrance",
+			"@Dracula's Castle Regions/Outside",
+			"@Training Hall Regions/Entrance",
+			"@Large Cavern Regions/Entrance"
+		]
+	},
+	{
+		"name": "Wygol Village",
+		"access_rules": [
+			"@World Map"
+		]
+	},
+	{
+		"name": "Monastery Regions",
 		"children": [
 			{
-				"name": "Central Shaft Hidden Item",
-				"access_rules": [],
-				"sections": [
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, monastery"
+				]
+			},
+			{
+				"name": "Magnets Area",
+				"access_rules": [
+					"@Monastery Regions/Entrance, magnet",
+					"@Monastery Regions/Entrance, wings"
+				]
+			}
+		]
+	},
+	{
+		"name": "Ruvas Forest Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, ruvas"
+				]
+			}
+		]
+	},
+	{
+		"name": "Kalidus Channel Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, kalidus:1"
+				]
+			},
+			{
+				"name": "Depths Right",
+				"access_rules": [
+					"@World Map, kalidus:2, dive"
+				]
+			},
+			{
+				"name": "Depths Left",
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Right, $slidies"
+				]
+			}
+		]
+	},
+	{
+		"name": "Minera Prison Island Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, minera"
+				]
+			},
+			{
+				"name": "Main",
+				"access_rules": [
+					"@Minera Prison Island Regions/Entrance, djump",
+					"@Minera Prison Island Regions/Entrance, magnet",
+					"@Minera Prison Island Regions/Entrance, wings"
+					// logic
+				]
+			},
+			{
+				"name": "Final Segment",
+				"access_rules": [
+					"@Minera Prison Island Regions/Main, djump", // logic
+					"@Minera Prison Island Regions/Main, magnet",
+					"@Minera Prison Island Regions/Main, wings"
+				]
+			}
+		]
+	},
+	{
+		"name": "Lighthouse Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, lighthouse"
+				]
+			},
+			{
+				"name": "Past Spikes",
+				"access_rules": [
+					"@Lighthouse Regions/Entrance, magnet",
+					"@Lighthouse Regions/Entrance, wings",
+					"@Lighthouse Regions/Entrance, fast",
+					"@Lighthouse Regions/Entrance, bot"
+				]
+			},
+			{
+				"name": "Post-Boss",
+				"access_rules": [
+					"@Lighthouse Regions/Past Spikes, magnet",
+					"@Lighthouse Regions/Past Spikes, wings",
+					"@Lighthouse Regions/Past Spikes, djump"
+				]
+			}
+		]
+	},
+	{
+		"name": "Tymeo Mountains Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, tymeo"
+				]
+			},
+			{
+				"name": "Past Spikes Room",
+				"access_rules": [
+					"@Tymeo Mountains Regions/Entrance, magnet",
+					"@Tymeo Mountains Regions/Entrance, wings",
+					"@Tymeo Mountains Regions/Entrance, bot",
+					"@Tymeo Mountains Regions/Entrance, cat" // logic
+				]
+			},
+			{
+				"name": "East",
+				"access_rules": [
+					"@Tymeo Mountains Regions/Past Spikes Room, $mediumuppies",
+					"@Tymeo Mountains Regions/Past Spikes Room, fast"
+				]
+			}
+		]
+	},
+	{
+		"name": "Misty Forest Road Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, misty"
+				]
+			}
+		]
+	},
+	{
+		"name": "Skeleton Cave Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, skeleton"
+				]
+			}
+		]
+	},
+	{
+		"name": "Somnus Reef Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, somnus"
+				]
+			},
+			{
+				"name": "Main",
+				"access_rules": [
+					"@Somnus Reef Regions/Entrance, dive"
+				]
+			}
+		]
+	},
+	{
+		"name": "Giant's Dwelling Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, giants"
+				]
+			},
+			{
+				"name": "Main",
+				"access_rules": [
+					"@Giant's Dwelling Regions/Entrance, $mediumuppies"
+				]
+			}
+		]
+	},
+	{
+		"name": "Tristis Pass Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, tristis"
+				]
+			},
+			{
+				"name": "Frozen Area",
+				"access_rules": [
+					"@Tristis Pass Regions/Entrance, $mediumuppies"
+				]
+			},
+			{
+				"name": "Waterfall",
+				"access_rules": [
+					"@Tristis Pass Regions/Frozen Area, @Tristis Pass Locations/Frozen Waterfall Glyph"
+				]
+			}
+		]
+	},
+	{
+		"name": "Oblivion Ridge Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, oblivion"
+				]
+			},
+			{
+				"name": "Beyond Boss",
+				"access_rules": [
+					"@Oblivion Ridge Regions/Entrance, $slidies" // logic
+				]
+			}
+		]
+	},
+	{
+		"name": "Argila Swamp Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, argila"
+				]
+			}
+		]
+	},
+	{
+		"name": "Mystery Manor Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, mystery"
+				]
+			},
+			{
+				"name": "Main",
+				"access_rules": [
+					"@Mystery Manor Regions/Entrance, $mediumuppies",
+					"@Mystery Manor Regions/Entrance, fast",
+					"@Mystery Manor Regions/Entrance, cat"
+				]
+			}
+		]
+	},
+	{
+		"name": "Training Hall Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, training"
+				]
+			},
+			{
+				"name": "Prize Area",
+				"access_rules": [
+					"@Training Hall Regions/Entrance, djump, magnet, fast, $slidies" // logic
+				]
+			}
+		]
+	},
+	{
+		"name": "Large Cavern Regions",
+		"children": [
+			{
+				"name": "Entrance",
+				"access_rules": [
+					"@World Map, large"
+				]
+			}
+		]
+	},
+	{
+		"name": "Dracula's Castle Regions",
+		"children": [
+			{
+				"name": "Outside",
+				"access_rules": [
+					"@World Map" // open castle
+				]
+			},
+			{
+				"name": "Castle Entrance",
+				"children": [
 					{
-						"name": ""
+						"name": "Entrance",
+						"access_rules": [
+							"@Dracula's Castle Regions/Outside",
+							"@Dracula's Castle Regions/Castle Entrance/Right Side, wall"
+							// Door to Library
+						]
+					},
+					{
+						"name": "Right Side",
+						"access_rules": [
+							"@Dracula's Castle Regions/Castle Entrance/Entrance, wall",
+							"@Dracula's Castle Regions/Castle Entrance/Barracks Shortcut"
+							// Door to Underground Labyrinth
+						]
+					},
+					{
+						"name": "Barracks Shortcut",
+						"access_rules": [
+							// Door to Barracks
+						]
 					}
-				],
-				"map_locations": [
+				]
+			},
+			{
+				"name": "Library",
+				"children": [
 					{
-						"map": "Dracula's Castle",
-						"x": 792,
-						"y": 312
+						"name": "Entrance",
+						"access_rules": [
+							// Door to Castle Entrance
+							"@Dracula's Castle Regions/Library/Entrance, wall"
+						]
+					},
+					{
+						"name": "Past Wallman",
+						"access_rules": [
+							"@Dracula's Castle Regions/Library/Entrance, wall",
+							"@Dracula's Castle Regions/Library/Upper Exit"
+							// Door to Forsaken Cloister
+						]
+					},
+					{
+						"name": "Upper Exit",
+						"access_rules": [
+							"@Dracula's Castle Regions/Library/Past Wallman, $biguppies",
+							// Door to Final Approach
+						]
+					}
+				]
+			},
+			{
+				"name": "Underground Labyrinth",
+				"children": [
+					{
+						"name": "Entrance",
+						"access_rules": [
+							// Door to Castle Entrance
+							// Door to Barracks
+						]
+					}
+				]
+			},
+			{
+				"name": "Barracks",
+				"children": [
+					{
+						"name": "Entrance",
+						"access_rules": [
+							// Door to Underground Labyrinth
+							// Door to Mechanical Tower
+							// Door to Castle Entrance
+						]
+					}
+				]
+			},
+			{
+				"name": "Mechanical Tower",
+				"children": [
+					{
+						"name": "Entrance",
+						"access_rules": [
+							// Door to Barracks
+							"@Dracula's Castle Regions/Mechanical Tower/Lower, magnet",
+							"@Dracula's Castle Regions/Mechanical Tower/Lower, wings",
+						]
+					},
+					{
+						"name": "Upper",
+						"access_rules": [
+							"@Dracula's Castle Regions/Mechanical Tower/Entrance, magnet",
+							"@Dracula's Castle Regions/Mechanical Tower/Entrance, wings",
+							"@Dracula's Castle Regions/Mechanical Tower/Upper Exit, magnet",
+							"@Dracula's Castle Regions/Mechanical Tower/Upper Exit, wings"
+						]
+					},
+					{
+						"name": "Lower",
+						"access_rules": [
+							"@Dracula's Castle Regions/Mechanical Tower/Entrance, magnet",
+							"@Dracula's Castle Regions/Mechanical Tower/Entrance, wings"
+							// Door to Arms Depot
+						]
+					},
+					{
+						"name": "Upper Exit",
+						"access_rules": [
+							"@Dracula's Castle Regions/Mechanical Tower/Upper",
+							// Door to Forsaken Cloister
+						]
+					}
+				]
+			},
+			{
+				"name": "Arms Depot",
+				"children": [
+					{
+						"name": "Entrance",
+						"access_rules": [
+							// Door to Mechanical Tower
+						]
+					}
+				]
+			},
+			{
+				"name": "Forsaken Cloister",
+				"children": [
+					{
+						"name": "Left",
+						"access_rules": [
+							// Door to Library
+							"@Dracula's Castle Regions/Forsaken Cloister/Right"
+						]
+					},
+					{
+						"name": "Right",
+						"access_rules": [
+							// Door to Mechanical Tower
+						]
+					},
+					{
+						"name": "Upper",
+						"access_rules": [
+							"@Dracula's Castle Regions/Forsaken Cloister/Left, cerberus1, cerberus2, cerberus3"
+							// Door to Final Approach
+						]
+					}
+				]
+			},
+			{
+				"name": "Final Approach",
+				"children": [
+					{
+						"name": "Entrance",
+						"access_rules": [
+							// Door to Forsaken Cloister
+						]
+					},
+					{
+						"name": "Throne",
+						"access_rules": [
+							"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies"
+						]
+					},
+					{
+						"name": "Shortcut",
+						"access_rules": [
+							"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies"
+							// Door to Library
+						]
 					}
 				]
 			}

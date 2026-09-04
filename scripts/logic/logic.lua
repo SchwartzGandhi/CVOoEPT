@@ -13,3 +13,35 @@ function has_more_then_n_consumable(n)
     end
     return 0 -- 0 => no access
 end
+
+function has(item, amount)
+    local count = Tracker:ProviderCountForCode(item)
+    amount = tonumber(amount)
+    if not amount then
+        return count > 0
+    else
+        return count >= amount
+    end
+end
+
+-- Movement Macros
+function for_fun_mode()
+    return has("magnet") and has("fun")
+end
+function funfly()
+    for_fun_mode() -- and has("fun_mode_enabled")
+end
+function funslide()
+    for_fun_mode() -- and has("fun_mode_enabled")
+end
+
+function biguppies()
+    return for_fun_mode() or has("wings")
+end
+function mediumuppies()
+    return biguppies() or has("djump")
+end
+
+function slidies()
+    return funslide() or has("slide")
+end
