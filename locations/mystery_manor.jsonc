@@ -74,6 +74,9 @@
 					},
 					{
 						"name": "Chest",
+						"access_rules": [
+							"bot"
+						],
 						"chest_unopened_img": "images/chests/blue.png",
 						"chest_opened_img": "images/chests/blue_o.png"
 					}

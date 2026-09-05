@@ -81,7 +81,7 @@
 			{
 				"name": "Boulder Room Glyph",
 				"access_rules": [
-					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance, wall"
 				],
 				"sections": [
 					{

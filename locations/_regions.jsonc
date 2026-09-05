@@ -84,7 +84,7 @@
 			{
 				"name": "Depths Left",
 				"access_rules": [
-					"@Kalidus Channel Regions/Depths Right, $slidies"
+					"@Kalidus Channel Regions/Depths Right, $bigslidies"
 				]
 			}
 		]
@@ -166,8 +166,7 @@
 			{
 				"name": "East",
 				"access_rules": [
-					"@Tymeo Mountains Regions/Past Spikes Room, $mediumuppies",
-					"@Tymeo Mountains Regions/Past Spikes Room, fast"
+					"@Tymeo Mountains Regions/Past Spikes Room, $widies"
 				]
 			}
 		]
@@ -263,7 +262,7 @@
 			{
 				"name": "Beyond Boss",
 				"access_rules": [
-					"@Oblivion Ridge Regions/Entrance, $slidies" // logic
+					"@Oblivion Ridge Regions/Entrance, $bigslidies" // logic
 				]
 			}
 		]
@@ -310,7 +309,7 @@
 			{
 				"name": "Prize Area",
 				"access_rules": [
-					"@Training Hall Regions/Entrance, djump, magnet, fast, $slidies" // logic
+					"@Training Hall Regions/Entrance, djump, magnet, fast, $bigslidies" // logic
 				]
 			}
 		]
@@ -342,22 +341,22 @@
 						"name": "Entrance",
 						"access_rules": [
 							"@Dracula's Castle Regions/Outside",
-							"@Dracula's Castle Regions/Castle Entrance/Right Side, wall"
-							// Door to Library
+							"@Dracula's Castle Regions/Castle Entrance/Right Side, wall",
+							"@Dracula's Castle Regions/Library/Entrance" // Door to Library
 						]
 					},
 					{
 						"name": "Right Side",
 						"access_rules": [
 							"@Dracula's Castle Regions/Castle Entrance/Entrance, wall",
-							"@Dracula's Castle Regions/Castle Entrance/Barracks Shortcut"
-							// Door to Underground Labyrinth
+							"@Dracula's Castle Regions/Castle Entrance/Barracks Shortcut",
+							"@Dracula's Castle Regions/Underground Labyrinth/Entrance" // Door to Underground Labyrinth
 						]
 					},
 					{
 						"name": "Barracks Shortcut",
 						"access_rules": [
-							// Door to Barracks
+							"@Dracula's Castle Regions/Barracks/Entrance" // Door to Barracks
 						]
 					}
 				]
@@ -368,7 +367,7 @@
 					{
 						"name": "Entrance",
 						"access_rules": [
-							// Door to Castle Entrance
+							"@Dracula's Castle Regions/Castle Entrance/Entrance", // Door to Castle Entrance
 							"@Dracula's Castle Regions/Library/Entrance, wall"
 						]
 					},
@@ -376,15 +375,15 @@
 						"name": "Past Wallman",
 						"access_rules": [
 							"@Dracula's Castle Regions/Library/Entrance, wall",
-							"@Dracula's Castle Regions/Library/Upper Exit"
-							// Door to Forsaken Cloister
+							"@Dracula's Castle Regions/Library/Upper Exit",
+							"@Dracula's Castle Regions/Forsaken Cloister/Left" // Door to Forsaken Cloister
 						]
 					},
 					{
 						"name": "Upper Exit",
 						"access_rules": [
 							"@Dracula's Castle Regions/Library/Past Wallman, $biguppies",
-							// Door to Final Approach
+							"@Dracula's Castle Regions/Final Approach/Shortcut" // Door to Final Approach
 						]
 					}
 				]
@@ -395,8 +394,8 @@
 					{
 						"name": "Entrance",
 						"access_rules": [
-							// Door to Castle Entrance
-							// Door to Barracks
+							"@Dracula's Castle Regions/Castle Entrance/Right Side", // Door to Castle Entrance
+							"@Dracula's Castle Regions/Barracks/Entrance" // Door to Barracks
 						]
 					}
 				]
@@ -407,9 +406,9 @@
 					{
 						"name": "Entrance",
 						"access_rules": [
-							// Door to Underground Labyrinth
-							// Door to Mechanical Tower
-							// Door to Castle Entrance
+							"@Dracula's Castle Regions/Underground Labyrinth/Entrance", // Door to Underground Labyrinth
+							"@Dracula's Castle Regions/Mechanical Tower/Entrance", // Door to Mechanical Tower
+							"@Dracula's Castle Regions/Castle Entrance/Barracks Shortcut" // Door to Castle Entrance
 						]
 					}
 				]
@@ -420,9 +419,9 @@
 					{
 						"name": "Entrance",
 						"access_rules": [
-							// Door to Barracks
+							"@Dracula's Castle Regions/Barracks/Entrance", // Door to Barracks
 							"@Dracula's Castle Regions/Mechanical Tower/Lower, magnet",
-							"@Dracula's Castle Regions/Mechanical Tower/Lower, wings",
+							"@Dracula's Castle Regions/Mechanical Tower/Lower, wings"
 						]
 					},
 					{
@@ -438,15 +437,15 @@
 						"name": "Lower",
 						"access_rules": [
 							"@Dracula's Castle Regions/Mechanical Tower/Entrance, magnet",
-							"@Dracula's Castle Regions/Mechanical Tower/Entrance, wings"
-							// Door to Arms Depot
+							"@Dracula's Castle Regions/Mechanical Tower/Entrance, wings",
+							"@Dracula's Castle Regions/Arms Depot/Entrance" // Door to Arms Depot
 						]
 					},
 					{
 						"name": "Upper Exit",
 						"access_rules": [
 							"@Dracula's Castle Regions/Mechanical Tower/Upper",
-							// Door to Forsaken Cloister
+							"@Dracula's Castle Regions/Forsaken Cloister/Right" // Door to Forsaken Cloister
 						]
 					}
 				]
@@ -457,7 +456,7 @@
 					{
 						"name": "Entrance",
 						"access_rules": [
-							// Door to Mechanical Tower
+							"@Dracula's Castle Regions/Mechanical Tower/Lower" // Door to Mechanical Tower
 						]
 					}
 				]
@@ -468,21 +467,21 @@
 					{
 						"name": "Left",
 						"access_rules": [
-							// Door to Library
+							"@Dracula's Castle Regions/Library/Past Wallman", // Door to Library
 							"@Dracula's Castle Regions/Forsaken Cloister/Right"
 						]
 					},
 					{
 						"name": "Right",
 						"access_rules": [
-							// Door to Mechanical Tower
+							"@Dracula's Castle Regions/Mechanical Tower/Upper Exit" // Door to Mechanical Tower
 						]
 					},
 					{
 						"name": "Upper",
 						"access_rules": [
-							"@Dracula's Castle Regions/Forsaken Cloister/Left, cerberus1, cerberus2, cerberus3"
-							// Door to Final Approach
+							"@Dracula's Castle Regions/Forsaken Cloister/Left, cerberus1, cerberus2, cerberus3",
+							"@Dracula's Castle Regions/Final Approach/Entrance" // Door to Final Approach
 						]
 					}
 				]
@@ -493,7 +492,7 @@
 					{
 						"name": "Entrance",
 						"access_rules": [
-							// Door to Forsaken Cloister
+							"@Dracula's Castle Regions/Forsaken Cloister/Upper" // Door to Forsaken Cloister
 						]
 					},
 					{
@@ -505,8 +504,8 @@
 					{
 						"name": "Shortcut",
 						"access_rules": [
-							"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies"
-							// Door to Library
+							"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies",
+							"@Dracula's Castle Regions/Library/Past Wallman" // Door to Library
 						]
 					}
 				]

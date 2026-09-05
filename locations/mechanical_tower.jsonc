@@ -72,7 +72,7 @@
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [
-					"@Dracula's Castle Regions/Mechanical Tower/Upper"
+					"@Dracula's Castle Regions/Mechanical Tower/Upper, slide"
 				],
 				"sections": [
 					{
@@ -94,7 +94,7 @@
 			{
 				"name": "Generator Puzzle",
 				"access_rules": [
-					"@Dracula's Castle Regions/Mechanical Tower/Entrance"
+					"@Dracula's Castle Regions/Mechanical Tower/Entrance, $generator"
 				],
 				"sections": [
 					{
@@ -116,7 +116,8 @@
 			{
 				"name": "First Gears Room Chest",
 				"access_rules": [
-					"@Dracula's Castle Regions/Mechanical Tower/Lower"
+					"@Dracula's Castle Regions/Mechanical Tower/Lower, wings",
+					"@Dracula's Castle Regions/Mechanical Tower/Lower, magnet"
 				],
 				"sections": [
 					{

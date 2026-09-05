@@ -7,7 +7,8 @@
 			{
 				"name": "Rest Room 1",
 				"access_rules": [
-					"@Large Cavern Regions/Entrance"
+					"@Large Cavern Regions/Entrance, djump, fast, slide",
+					"@Large Cavern Regions/Entrance, wings"
 				],
 				"sections": [
 					{
@@ -25,7 +26,8 @@
 			{
 				"name": "Rest Room 2",
 				"access_rules": [
-					"@Large Cavern Regions/Entrance"
+					"@Large Cavern Regions/Entrance, djump, fast, slide",
+					"@Large Cavern Regions/Entrance, wings"
 				],
 				"sections": [
 					{
@@ -43,7 +45,8 @@
 			{
 				"name": "Rest Room 3",
 				"access_rules": [
-					"@Large Cavern Regions/Entrance"
+					"@Large Cavern Regions/Entrance, djump, fast, slide",
+					"@Large Cavern Regions/Entrance, wings"
 				],
 				"sections": [
 					{
@@ -61,7 +64,8 @@
 			{
 				"name": "Rest Room 4",
 				"access_rules": [
-					"@Large Cavern Regions/Entrance"
+					"@Large Cavern Regions/Entrance, djump, fast, slide",
+					"@Large Cavern Regions/Entrance, wings"
 				],
 				"sections": [
 					{
@@ -79,7 +83,8 @@
 			{
 				"name": "Final Reward 1",
 				"access_rules": [
-					"@Large Cavern Regions/Entrance"
+					"@Large Cavern Regions/Entrance, djump, fast, slide",
+					"@Large Cavern Regions/Entrance, wings"
 				],
 				"sections": [
 					{
@@ -97,7 +102,8 @@
 			{
 				"name": "Final Reward 2",
 				"access_rules": [
-					"@Large Cavern Regions/Entrance"
+					"@Large Cavern Regions/Entrance, djump, fast, slide",
+					"@Large Cavern Regions/Entrance, wings"
 				],
 				"sections": [
 					{

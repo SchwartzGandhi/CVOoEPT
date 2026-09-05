@@ -7,7 +7,7 @@
 			{
 				"name": "Pre-Boss Ledge",
 				"access_rules": [
-					"@Oblivion Ridge Regions/Entrance"
+					"@Oblivion Ridge Regions/Entrance, $widies"
 				],
 				"sections": [
 					{
@@ -63,7 +63,7 @@
 			{
 				"name": "Post-Boss Ledge Item",
 				"access_rules": [
-					"@Oblivion Ridge Regions/Beyond Boss"
+					"@Oblivion Ridge Regions/Beyond Boss, $widies"
 				],
 				"sections": [
 					{

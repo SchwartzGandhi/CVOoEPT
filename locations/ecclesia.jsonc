@@ -63,7 +63,7 @@
 			{
 				"name": "Barlowe",
 				"access_rules": [
-					"@Ecclesia"
+					"@Ecclesia, dominus1, dominus2, dominus3" /// villagers
 				],
 				"sections": [
 					{

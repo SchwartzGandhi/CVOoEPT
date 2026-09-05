@@ -7,7 +7,7 @@
 			{
 				"name": "First Alcove",
 				"access_rules": [
-					"@Tristis Pass Regions/Entrance"
+					"@Tristis Pass Regions/Entrance, $mediumslidies"
 				],
 				"sections": [
 					{
@@ -23,9 +23,9 @@
 				]
 			},
 			{
-				"name": "Waterfall Glyph",
+				"name": "Frozen Waterfall Glyph",
 				"access_rules": [
-					"@Tristis Pass Regions/Frozen Area"
+					"@Tristis Pass Regions/Frozen Area, magnet"
 				],
 				"sections": [
 					{
@@ -197,7 +197,7 @@
 			{
 				"name": "Lower Hill",
 				"access_rules": [
-					"@Tristis Pass Regions/Waterfall"
+					"@Tristis Pass Regions/Waterfall, $mediumslidies"
 				],
 				"sections": [
 					{
@@ -276,7 +276,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Tristis Pass Regions/Waterfall"
+					"@Tristis Pass Regions/Waterfall, $mediumslidies"
 				],
 				"sections": [
 					{
@@ -294,7 +294,7 @@
 			{
 				"name": "Third Hill",
 				"access_rules": [
-					"@Tristis Pass Regions/Waterfall"
+					"@Tristis Pass Regions/Waterfall, $mediumslidies"
 				],
 				"sections": [
 					{

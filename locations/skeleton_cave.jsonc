@@ -9,7 +9,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Skeleton Cave Regions/Entrance"
+					"@Skeleton Cave Regions/Entrance, $widies"
 				],
 				"sections": [
 					{
@@ -50,6 +50,9 @@
 				"sections": [
 					{
 						"name": "Upper",
+						"access_rules": [
+							"$widies"
+						],
 						"chest_unopened_img": "images/chests/red.png",
 						"chest_opened_img": "images/chests/red_o.png"
 					},

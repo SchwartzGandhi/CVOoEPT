@@ -85,7 +85,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Monastery Regions/Magnets Area"
+					"@Monastery Regions/Magnets Area, $widies"
 				],
 				"sections": [
 					{
@@ -105,7 +105,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Monastery Regions/Magnets Area"
+					"@Monastery Regions/Magnets Area, $bigslidies"
 				],
 				"sections": [
 					{
@@ -123,7 +123,7 @@
 			{
 				"name": "Blocks Glyph",
 				"access_rules": [
-					"@Monastery Regions/Magnets Area"
+					"@Monastery Regions/Magnets Area, ^$blocks"
 				],
 				"sections": [
 					{
@@ -143,7 +143,7 @@
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [
-					"@Monastery Regions/Magnets Area"
+					"@Monastery Locations/Blocks Glyph/, ^$blocks2"
 				],
 				"sections": [
 					{

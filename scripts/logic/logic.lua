@@ -41,7 +41,38 @@ end
 function mediumuppies()
     return biguppies() or has("djump")
 end
-
-function slidies()
+function widies()
+    return mediumuppies() or has("fast")
+end
+function bigslidies()
     return funslide() or has("slide")
+end
+function mediumslidies()
+    return bigslidies() or has("cat")
+end
+
+function blocks()
+    if has("fun") or has("barlowe") or has("axe3") or has("dark1") or has("beam") then
+        return AccessibilityLevel.Normal
+    end
+    if has("special") then
+        if has("light1") or has("light2") then
+            if has("dark1") or has("dark2") then
+                return AccessibilityLevel.Normal
+            end
+        end
+        if has("sword1") or has("sword2") or has("sword3") then
+            -- TODO logic
+            return false
+        end
+    end
+end
+function blocks2()
+    return has("fun") or has("axe3") or has("beam") or has("light1") or has("barlowe") or has("albus") or has("dark1")
+end
+
+function generator()
+    if has("wings") or has("magnet") or has("fast") or has("bot") then
+        return true -- logic
+    end
 end

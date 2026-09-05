@@ -121,7 +121,7 @@
 			{
 				"name": "Left Hill Alcove",
 				"access_rules": [
-					"@Tymeo Mountains Regions/Past Spikes Room"
+					"@Tymeo Mountains Regions/Past Spikes Room, $mediumslidies"
 				],
 				"sections": [
 					{
@@ -166,7 +166,7 @@
 			{
 				"name": "Right Hill Alcove Chest",
 				"access_rules": [
-					"@Tymeo Mountains Regions/East"
+					"@Tymeo Mountains Regions/East, $mediumslidies"
 				],
 				"sections": [
 					{
@@ -206,7 +206,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Tymeo Mountains Regions/East"
+					"@Tymeo Mountains Regions/East, wall"
 				],
 				"sections": [
 					{
@@ -226,7 +226,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Tymeo Mountains Regions/East"
+					"@Tymeo Mountains Regions/East, wall"
 				],
 				"sections": [
 					{
@@ -246,7 +246,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Tymeo Mountains Regions/East"
+					"@Tymeo Mountains Regions/East, $mediumslidies"
 				],
 				"sections": [
 					{
@@ -320,7 +320,7 @@
 			{
 				"name": "Wind Glyph",
 				"access_rules": [
-					"@Tymeo Mountains Regions/East"
+					"@Tymeo Mountains Regions/East, magnet"
 				],
 				"sections": [
 					{

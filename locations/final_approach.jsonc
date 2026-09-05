@@ -57,7 +57,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Dracula's Castle Regions/Final Approach/Entrance"
+					"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies"
 				],
 				"sections": [
 					{
@@ -73,7 +73,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Dracula's Castle Regions/Final Approach/Entrance"
+					"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies"
 				],
 				"sections": [
 					{
@@ -115,7 +115,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Dracula's Castle Regions/Final Approach/Entrance"
+					"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies"
 				],
 				"sections": [
 					{
@@ -131,7 +131,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Dracula's Castle Regions/Final Approach/Entrance"
+					"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies"
 				],
 				"sections": [
 					{
@@ -147,7 +147,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Dracula's Castle Regions/Final Approach/Entrance"
+					"@Dracula's Castle Regions/Final Approach/Entrance, wall"
 				],
 				"sections": [
 					{
@@ -160,7 +160,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Dracula's Castle Regions/Final Approach/Entrance"
+					"@Dracula's Castle Regions/Final Approach/Entrance, wall"
 				],
 				"sections": [
 					{
@@ -171,7 +171,7 @@
 			{
 				"name": "Defeat Dracula",
 				"access_rules": [
-					"@Dracula's Castle Regions/Final Approach/Throne"
+					"@Dracula's Castle Regions/Final Approach/Throne, dominus1, dominus2, dominus3, special" // barlowe
 				],
 				"sections": [
 					{

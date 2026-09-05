@@ -177,7 +177,7 @@
 			{
 				"name": "Hidden Room",
 				"access_rules": [
-					"@Somnus Reef Regions/Main"
+					"@Somnus Reef Regions/Main, $bigslidies"
 				],
 				"sections": [
 					{

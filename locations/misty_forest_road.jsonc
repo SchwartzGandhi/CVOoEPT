@@ -47,7 +47,9 @@
 				"chest_unopened_img": "images/chests/ap.png",
 				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [
-					"@Misty Forest Road Regions/Entrance"
+					"@Misty Forest Road Regions/Entrance, wings",
+					"@Misty Forest Road Regions/Entrance, fast",
+					"@Misty Forest Road Regions/Entrance, magnet"
 				],
 				"sections": [
 					{
@@ -67,7 +69,8 @@
 				"chest_unopened_img": "images/chests/ap.png",
 				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [
-					"@Misty Forest Road Regions/Entrance"
+					"@Misty Forest Road Regions/Entrance, fast",
+					"@Misty Forest Road Regions/Entrance, $biguppies"
 				],
 				"sections": [
 					{
@@ -103,7 +106,7 @@
 			{
 				"name": "Paries Room Pickup",
 				"access_rules": [
-					"@Misty Forest Road Regions/Entrance"
+					"@Misty Forest Road Regions/Entrance, wall"
 				],
 				"sections": [
 					{
@@ -121,7 +124,7 @@
 			{
 				"name": "Paries Room",
 				"access_rules": [
-					"@Misty Forest Road Regions/Entrance"
+					"@Misty Forest Road Regions/Entrance, wall"
 				],
 				"sections": [
 					{

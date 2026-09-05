@@ -9,7 +9,10 @@
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [
-					"@Minera Prison Island Regions/Main"
+					"@Minera Prison Island Regions/Main, djump",
+					"@Minera Prison Island Regions/Main, magnet",
+					"@Minera Prison Island Regions/Main, wings",
+					// logic
 				],
 				"sections": [
 					{
@@ -197,7 +200,7 @@
 			{
 				"name": "Top Room",
 				"access_rules": [
-					"@Minera Prison Island Regions/Main"
+					"@Minera Prison Island Regions/Main, $mediumuppies"
 				],
 				"sections": [
 					{
@@ -343,7 +346,10 @@
 					{
 						"name": "Hidden Item",
 						"access_rules": [
-							"@Minera Prison Island Regions/Main"
+							"@Minera Prison Island Regions/Main, djump",
+							"@Minera Prison Island Regions/Main, wings",
+							"@Minera Prison Island Regions/Main, magnet",
+							"@Minera Prison Island Regions/Main, fun"
 						],
 						"chest_unopened_img": "images/chests/ap.png",
 						"chest_opened_img": "images/chests/ap_bw.png"
@@ -418,7 +424,7 @@
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
 				"access_rules": [
-					"@Minera Prison Island Regions/Final Segment"
+					"@Minera Prison Island Regions/Final Segment, beam" // tin man
 				],
 				"sections": [
 					{
