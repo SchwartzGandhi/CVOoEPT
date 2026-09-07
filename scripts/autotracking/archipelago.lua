@@ -102,6 +102,63 @@ end
 -- apply everything needed from slot_data, called from onClear
 function apply_slot_data(slot_data)
 	-- put any code here that slot_data should affect (toggling setting items for example)
+	-- Give Starting Items
+	local staring_glyph = slot_data["starting_glyph"]
+	local lizard_tail = slot_data["start_with_lizard_tail"]
+	local glyph_union = slot_data["start_with_glyph_union"]
+	local starting_villagers = slot_data["starting_villagers"]
+	local starting_area = slot_data["starting_area"]
+
+	-- Location Pool
+	local shuffle_dominus = slot_data["shuffle_dominus"]
+	if shuffle_dominus then
+		Tracker:FindObjectForCode("shuffledominus").Active = true
+	end
+	local brown_chests = slot_data["add_brown_chests"]
+	if brown_chests then
+		Tracker:FindObjectForCode("brownchests").Active = true
+	end
+	local no_hit = slot_data["add_medal_chests"]
+	if no_hit then
+		Tracker:FindObjectForCode("medalchests").Active = true
+	end
+	local villagers_in_pool = slot_data["randomize_villagers"]
+	if villagers_in_pool then
+		Tracker:FindObjectForCode("villagerlocations").Active = true
+	end
+	local no_parkour = slot_data["remove_training_hall"]
+	if no_parkour then
+		Tracker:FindObjectForCode("notraining").Active = true
+	end
+	local no_enemy_rush = slot_data["remove_large_cavern"]
+	if no_enemy_rush then
+		Tracker:FindObjectForCode("nolarge").Active = true
+	end
+	local stolen = slot_data["stolen_glyphs"]
+	Tracker:FindObjectForCode("stolenglyphs").CurrentStage = stolen
+	local dropped = slot_data["dropped_glyphs"]
+	Tracker:FindObjectForCode("droppedglyphs").CurrentStage = dropped
+
+	-- Logic
+	local open_castle = slot_data["open_castle"]
+	if open_castle then
+		Tracker:FindObjectForCode("opencastle").Active = true
+	end
+	local villager_amount = slot_data["villagers_required"]
+	Tracker:FindObjectForCode("reqvillagers").AcquiredCount = villager_amount
+	local barlowe = slot_data["barlowe_required"]
+	if barlowe then
+		Tracker:FindObjectForCode("reqbarlowe").Active = true
+	end
+	-- generator puzzle
+	local generator_logic = slot_data["generator_logic"]
+	-- what type of damage a glyph does
+	local glyph_attr = slot_data["glyph_attributes"]
+	-- Dict[Str: List[Str]]
+	local tinman = slot_data["tin_man_glyph_logic"]
+	local door_map = slot_data["door_map"]
+	-- List[Tuple(str, str), ...]
+	local tricks = slot_data["logic_tricks"]
 end
 
 -- called right after an AP slot is connected

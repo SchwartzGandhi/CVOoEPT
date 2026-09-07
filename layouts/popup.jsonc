@@ -1,0 +1,23 @@
+{
+    "settings_popup": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "H",
+                "content": {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "dock": "left",
+                    "content": [
+                        {
+                            "type": "itemgrid",
+                            "rows":[
+                                ["shuffledominus", "brownchests", "medalchests", "reqbarlowe", "opencastle", "reqvillagers", "villagerlocations", "stolenglyphs", "droppedglyphs"]
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

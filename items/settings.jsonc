@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Shuffle Dominus",
+        "type": "toggle",
+        "img": "images/chests/ap.png",
+        "codes": "shuffledominus"
+    },
+    {
+        "name": "Add Brown Chests",
+        "type": "toggle",
+        "img": "images/chests/ap.png",
+        "codes": "brownchests"
+    },
+    {
+        "name": "Add Medal Chests",
+        "type": "toggle",
+        "img": "images/chests/ap.png",
+        "codes": "medalchests"
+    },
+    {
+        "name": "Randomize Stolen Glyphs",
+        "type": "progressive",
+        "img": "images/chests/ap.png",
+        "codes": "stolenglyphs"
+    },
+    {
+        "name": "Randomize Dropped Glyphs",
+        "type": "progressive",
+        "img": "images/chests/ap.png",
+        "codes": "droppedglyphs"
+    },
+    {
+        "name": "Randomize Villagers",
+        "type": "progressive",
+        "img": "images/chests/ap.png",
+        "codes": "villagerlocations"
+    },
+    {
+        "name": "Remove Training Hall",
+        "type": "toggle",
+        "img": "images/chests/ap.png",
+        "codes": "notraining"
+    },
+    {
+        "name": "Remove Large Cavern",
+        "type": "toggle",
+        "img": "images/chests/ap.png",
+        "codes": "nolarge"
+    },
+    {
+        "name": "Open Castle",
+        "type": "toggle",
+        "img": "images/chests/ap.png",
+        "codes": "opencastle"
+    },
+    {
+        "name": "Barlowe Required",
+        "type": "toggle",
+        "img": "images/chests/ap.png",
+        "codes": "reqbarlowe"
+    },
+    {
+        "name": "Villagers Required",
+        "type": "consumable",
+        "img": "images/chests/ap.png",
+        "codes": "reqvillagers"
+    }
+]

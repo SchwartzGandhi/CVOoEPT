@@ -28,6 +28,7 @@ Tracker:AddItems("items/relics.jsonc")
 Tracker:AddItems("items/glyphs.jsonc")
 Tracker:AddItems("items/villagers.jsonc")
 Tracker:AddItems("items/map.jsonc")
+Tracker:AddItems("items/settings.jsonc")
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Maps
@@ -66,6 +67,7 @@ if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
 end
 
 -- Layout
+Tracker:AddLayouts("layouts/popup.jsonc")
 Tracker:AddLayouts("layouts/items.jsonc")
 Tracker:AddLayouts("layouts/tracker.jsonc")
 Tracker:AddLayouts("layouts/broadcast.jsonc")
