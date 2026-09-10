@@ -76,3 +76,11 @@ function generator()
         return true -- logic
     end
 end
+
+function GetDoorConnection(door_in_question)
+    for entrance, exit in pairs(DOOR_MAP) do
+        if door_in_question == entrance then
+            return Tracker:FindObjectForCode(string.format("@Door Map/%s", exit)).AccessibilityLevel
+        end
+    end
+end

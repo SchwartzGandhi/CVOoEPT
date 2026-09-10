@@ -21,6 +21,17 @@ end
 CUR_INDEX = -1
 LOCAL_ITEMS = {}
 GLOBAL_ITEMS = {}
+DOOR_MAP = {
+	["Sec00Rm07"] = "Sec03Rm00", ["Sec03Rm00"] = "Sec00Rm07",
+	["Sec01Rm03"] = "Sec02Rm00", ["Sec02Rm00"] = "Sec01Rm03",
+	["Sec01Rm07"] = "Sec05Rm03", ["Sec05Rm03"] = "Sec01Rm07",
+	["Sec02Rm0E"] = "Sec05Rm04", ["Sec05Rm04"] = "Sec02Rm0E",
+	["Sec05Rm11"] = "Sec07Rm01", ["Sec07Rm01"] = "Sec05Rm11",
+	["Sec06Rm01"] = "Sec08Rm02", ["Sec08Rm02"] = "Sec06Rm01",
+	["Sec06Rm0B"] = "Sec09Rm07", ["Sec09Rm07"] = "Sec06Rm0B",
+	["Sec03Rm0B"] = "Sec0ARm01", ["Sec0ARm01"] = "Sec03Rm0B",
+	["Sec03Rm10"] = "Sec09Rm03", ["Sec09Rm03"] = "Sec03Rm10",
+}
 
 -- gets the data storage key for hints for the current player
 -- returns nil when not connected to AP
@@ -156,9 +167,12 @@ function apply_slot_data(slot_data)
 	local glyph_attr = slot_data["glyph_attributes"]
 	-- Dict[Str: List[Str]]
 	local tinman = slot_data["tin_man_glyph_logic"]
-	local door_map = slot_data["door_map"]
 	-- List[Tuple(str, str), ...]
 	local tricks = slot_data["logic_tricks"]
+
+	for _, connection in ipairs(slot_data["door_map"]) do
+		DOOR_MAP[connection[1]] = connection[2]
+	end
 end
 
 -- called right after an AP slot is connected

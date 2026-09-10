@@ -342,7 +342,7 @@
 						"access_rules": [
 							"@Dracula's Castle Regions/Outside",
 							"@Dracula's Castle Regions/Castle Entrance/Right Side, wall",
-							"@Dracula's Castle Regions/Library/Entrance" // Door to Library
+							"@Door Map/Sec00Rm07"
 						]
 					},
 					{
@@ -350,13 +350,13 @@
 						"access_rules": [
 							"@Dracula's Castle Regions/Castle Entrance/Entrance, wall",
 							"@Dracula's Castle Regions/Castle Entrance/Barracks Shortcut",
-							"@Dracula's Castle Regions/Underground Labyrinth/Entrance" // Door to Underground Labyrinth
+							"@Door Map/Sec01Rm03"
 						]
 					},
 					{
 						"name": "Barracks Shortcut",
 						"access_rules": [
-							"@Dracula's Castle Regions/Barracks/Entrance" // Door to Barracks
+							"@Door Map/Sec01Rm07"
 						]
 					}
 				]
@@ -367,7 +367,7 @@
 					{
 						"name": "Entrance",
 						"access_rules": [
-							"@Dracula's Castle Regions/Castle Entrance/Entrance", // Door to Castle Entrance
+							"@Door Map/Sec03Rm00",
 							"@Dracula's Castle Regions/Library/Entrance, wall"
 						]
 					},
@@ -376,14 +376,14 @@
 						"access_rules": [
 							"@Dracula's Castle Regions/Library/Entrance, wall",
 							"@Dracula's Castle Regions/Library/Upper Exit",
-							"@Dracula's Castle Regions/Forsaken Cloister/Left" // Door to Forsaken Cloister
+							"@Door Map/Sec03Rm10"
 						]
 					},
 					{
 						"name": "Upper Exit",
 						"access_rules": [
 							"@Dracula's Castle Regions/Library/Past Wallman, $biguppies",
-							"@Dracula's Castle Regions/Final Approach/Shortcut" // Door to Final Approach
+							"@Door Map/Sec03Rm0B"
 						]
 					}
 				]
@@ -394,8 +394,8 @@
 					{
 						"name": "Entrance",
 						"access_rules": [
-							"@Dracula's Castle Regions/Castle Entrance/Right Side", // Door to Castle Entrance
-							"@Dracula's Castle Regions/Barracks/Entrance" // Door to Barracks
+							"@Door Map/Sec02Rm00",
+							"@Door Map/Sec02Rm0E"
 						]
 					}
 				]
@@ -406,9 +406,9 @@
 					{
 						"name": "Entrance",
 						"access_rules": [
-							"@Dracula's Castle Regions/Underground Labyrinth/Entrance", // Door to Underground Labyrinth
-							"@Dracula's Castle Regions/Mechanical Tower/Entrance", // Door to Mechanical Tower
-							"@Dracula's Castle Regions/Castle Entrance/Barracks Shortcut" // Door to Castle Entrance
+							"@Door Map/Sec05Rm04",
+							"@Door Map/Sec05Rm11",
+							"@Door Map/Sec05Rm03"
 						]
 					}
 				]
@@ -419,7 +419,7 @@
 					{
 						"name": "Entrance",
 						"access_rules": [
-							"@Dracula's Castle Regions/Barracks/Entrance", // Door to Barracks
+							"@Door Map/Sec07Rm01",
 							"@Dracula's Castle Regions/Mechanical Tower/Lower, magnet",
 							"@Dracula's Castle Regions/Mechanical Tower/Lower, wings"
 						]
@@ -438,14 +438,14 @@
 						"access_rules": [
 							"@Dracula's Castle Regions/Mechanical Tower/Entrance, magnet",
 							"@Dracula's Castle Regions/Mechanical Tower/Entrance, wings",
-							"@Dracula's Castle Regions/Arms Depot/Entrance" // Door to Arms Depot
+							"@Door Map/Sec06Rm01"
 						]
 					},
 					{
 						"name": "Upper Exit",
 						"access_rules": [
 							"@Dracula's Castle Regions/Mechanical Tower/Upper",
-							"@Dracula's Castle Regions/Forsaken Cloister/Right" // Door to Forsaken Cloister
+							"@Door Map/Sec06Rm0B"
 						]
 					}
 				]
@@ -456,7 +456,7 @@
 					{
 						"name": "Entrance",
 						"access_rules": [
-							"@Dracula's Castle Regions/Mechanical Tower/Lower" // Door to Mechanical Tower
+							"@Door Map/Sec08Rm02"
 						]
 					}
 				]
@@ -467,14 +467,14 @@
 					{
 						"name": "Left",
 						"access_rules": [
-							"@Dracula's Castle Regions/Library/Past Wallman", // Door to Library
+							"@Door Map/Sec09Rm03",
 							"@Dracula's Castle Regions/Forsaken Cloister/Right"
 						]
 					},
 					{
 						"name": "Right",
 						"access_rules": [
-							"@Dracula's Castle Regions/Mechanical Tower/Upper Exit" // Door to Mechanical Tower
+							"@Door Map/Sec09Rm07"
 						]
 					},
 					{
@@ -505,9 +505,140 @@
 						"name": "Shortcut",
 						"access_rules": [
 							"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies",
-							"@Dracula's Castle Regions/Library/Past Wallman" // Door to Library
+							"@Door Map/Sec0ARm01"
 						]
 					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Door Map",
+		"children": [
+			{
+				"name": "Sec00Rm07", // CE -> L
+				"access_rules": [
+					"@Dracula's Castle Regions/Castle Entrance/Entrance",
+					"^$GetDoorConnection|Sec00Rm07"
+				]
+			},
+			{
+				"name": "Sec01Rm03", // CE -> UL
+				"access_rules": [
+					"@Dracula's Castle Regions/Castle Entrance/Right Side",
+					"^$GetDoorConnection|Sec01Rm03"
+				]
+			},
+			{
+				"name": "Sec01Rm07", // CE -> B
+				"access_rules": [
+					"@Dracula's Castle Regions/Castle Entrance/Barracks Shortcut",
+					"^$GetDoorConnection|Sec01Rm07"
+				]
+			},
+			{
+				"name": "Sec03Rm00", // L -> CE
+				"access_rules": [
+					"@Dracula's Castle Regions/Library/Entrance",
+					"^$GetDoorConnection|Sec03Rm00"
+				]
+			},
+			{
+				"name": "Sec03Rm10", // L -> FC
+				"access_rules": [
+					"@Dracula's Castle Regions/Library/Past Wallman",
+					"^$GetDoorConnection|Sec03Rm10"
+				]
+			},
+			{
+				"name": "Sec03Rm0B", // L -> FA
+				"access_rules": [
+					"@Dracula's Castle Regions/Library/Upper Exit",
+					"^$GetDoorConnection|Sec03Rm0B"
+				]
+			},
+			{
+				"name": "Sec02Rm00", // UL -> L
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance",
+					"^$GetDoorConnection|Sec02Rm00"
+				]
+			},
+			{
+				"name": "Sec02Rm0E", // UL -> B
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance",
+					"^$GetDoorConnection|Sec02Rm0E"
+				]
+			},
+			{
+				"name": "Sec05Rm04", // B -> UL
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance",
+					"^$GetDoorConnection|Sec05Rm04"
+				]
+			},
+			{
+				"name": "Sec05Rm11", // B -> MT
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance",
+					"^$GetDoorConnection|Sec05Rm11"
+				]
+			},
+			{
+				"name": "Sec05Rm03", // B -> CE
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance",
+					"^$GetDoorConnection|Sec05Rm03"
+				]
+			},
+			{
+				"name": "Sec07Rm01", // MT -> B
+				"access_rules": [
+					"@Dracula's Castle Regions/Mechanical Tower/Entrance",
+					"^$GetDoorConnection|Sec07Rm01"
+				]
+			},
+			{
+				"name": "Sec06Rm0B", // MT -> FC
+				"access_rules": [
+					"@Dracula's Castle Regions/Mechanical Tower/Upper Exit",
+					"^$GetDoorConnection|Sec06Rm0B"
+				]
+			},
+			{
+				"name": "Sec06Rm01", // MT -> AD
+				"access_rules": [
+					"@Dracula's Castle Regions/Mechanical Tower/Lower",
+					"^$GetDoorConnection|Sec06Rm01"
+				]
+			},
+			{
+				"name": "Sec08Rm02", // AD -> MT
+				"access_rules": [
+					"@Dracula's Castle Regions/Arms Depot/Entrance",
+					"^$GetDoorConnection|Sec08Rm02"
+				]
+			},
+			{
+				"name": "Sec09Rm07", // FC -> MT
+				"access_rules": [
+					"@Dracula's Castle Regions/Forsaken Cloister/Right",
+					"^$GetDoorConnection|Sec09Rm07"
+				]
+			},
+			{
+				"name": "Sec09Rm03", // FC -> L
+				"access_rules": [
+					"@Dracula's Castle Regions/Forsaken Cloister/Left",
+					"^$GetDoorConnection|Sec09Rm03"
+				]
+			},
+			{
+				"name": "Sec0ARm01", // FA -> L
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Shortcut",
+					"^$GetDoorConnection|Sec0ARm01"
 				]
 			}
 		]
