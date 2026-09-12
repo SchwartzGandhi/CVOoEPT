@@ -1,11 +1,15 @@
 {
     "versions": [
         {
-            "package_version": "0.2",
-            "download_url": "https://github.com/SchwartzGandhi/CVOoEPT/releases/download/0.2/CVOoEPT.zip",
-            "sha256": "7654fd1b25d3ed0786d25cd9a549b49f589a807d7da303d3c2432104555318a4",
+            "package_version": "0.3",
+            "download_url": "https://github.com/SchwartzGandhi/CVOoEPT/releases/download/0.3/CVOoEPT.zip",
+            "sha256": "058f717db7ce280b845ed25e637def95508c7ac03e44ae79fe3ae221aff13afb",
             "changelog": [
-                "Locations now have logic"
+                "The pack can now take and interpret slot data, not all slot data is working atm",
+                "Access to Dracula's Castle now accounts for settings",
+                "The regions of Dracula's Castle will be shuffled according to slot data upon connection",
+                "Glyphsanity locations now has logic",
+                "Agartha now has a custom sprite, made by me!"
             ]
         }
     ]
