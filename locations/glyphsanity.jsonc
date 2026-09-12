@@ -7,47 +7,69 @@
 				"sections": [
 					{
 						"name": "Necromancer Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Necromancer"
+						]
 					},
 					{
 						"name": "Sea Demon Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Sea Demon"
+						]
 					},
 					{
 						"name": "Fire Demon Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Fire Demon"
+						]
 					},
 					{
 						"name": "Black Fomor Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Black Fomor"
+						]
 					},
 					{
 						"name": "Thunder Demon Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Thunder Demon"
+						]
 					},
 					{
 						"name": "White Fomor Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/White Fomor"
+						]
 					},
 					{
 						"name": "Nova Skeleton Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Nova Skeleton"
+						]
 					},
 					{
 						"name": "Albus Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Albus"
+						]
 					},
 					{
 						"name": "Barlowe Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Barlowe"
+						]
 					},
 					{
 						"name": "Demon Lord Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Demon Lord"
+						]
 					},
 					{
 						"name": "Jiang Shi Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Jiang Shi"
+						]
 					}
 				]
 			},
@@ -56,79 +78,117 @@
 				"sections": [
 					{
 						"name": "Bone Scimitar Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Bone Scimitar"
+						]
 					},
 					{
 						"name": "Axe Knight Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Axe Knight"
+						]
 					},
 					{
 						"name": "Bone Archer Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Bone Archer"
+						]
 					},
 					{
 						"name": "Spear Guard Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Spear Guard"
+						]
 					},
 					{
 						"name": "Werebat Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Werebat"
+						]
 					},
 					{
 						"name": "Skull Spider Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Skull Spider"
+						]
 					},
 					{
 						"name": "Owl Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Owl"
+						]
 					},
 					{
 						"name": "Spectral Sword Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Spectral Sword"
+						]
 					},
 					{
 						"name": "Automaton ZX27 Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Automaton ZX27"
+						]
 					},
 					{
 						"name": "Gorgon Head Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Gorgon Head"
+						]
 					},
 					{
 						"name": "Black Panther Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Black Panther"
+						]
 					},
 					{
 						"name": "Polkir Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Polkir"
+						]
 					},
 					{
 						"name": "Red Smasher Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Red Smasher"
+						]
 					},
 					{
 						"name": "Hammer Shaker Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Hammer Shaker"
+						]
 					},
 					{
 						"name": "Great Knight Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Great Knight"
+						]
 					},
 					{
 						"name": "Winged Skeleton Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Winged Skeleton"
+						]
 					},
 					{
 						"name": "Dullahan Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Dullahan"
+						]
 					},
 					{
 						"name": "Miss Murder Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Miss Murder"
+						]
 					},
 					{
 						"name": "Lizardman Glyph",
-						"access_rules": []
+						"access_rules": [
+							"@Glyphsanity Farming Regions/Lizardman"
+						]
 					}
 				]
 			}

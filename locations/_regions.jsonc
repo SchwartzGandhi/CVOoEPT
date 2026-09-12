@@ -642,5 +642,221 @@
 				]
 			}
 		]
+	},
+	{
+		"name": "Glyphsanity Farming Regions",
+		"children": [
+			{
+				"name": "Necromancer",
+				"access_rules": [
+					"@Ruvas Forest Regions/Entrance"
+				]
+			},
+			{
+				"name": "Sea Demon",
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Right",
+					"@Somnus Reef Regions/Main"
+				]
+			},
+			{
+				"name": "Fire Demon",
+				"access_rules": [
+					"@Tymeo Mountains Regions/East"
+				]
+			},
+			{
+				"name": "Black Fomor",
+				"access_rules": [
+					"@Misty Forest Road Regions/Entrance"
+				]
+			},
+			{
+				"name": "Thunder Demon",
+				"access_rules": [
+					"@Tristis Pass Regions/Waterfall"
+				]
+			},
+			{
+				"name": "White Fomor",
+				"access_rules": [
+					"@Mystery Manor Regions/Entrance",
+					"@Dracula's Castle Regions/Library/Entrance",
+					"@Dracula's Castle Regions/Library/Past Wallman"
+				]
+			},
+			{
+				"name": "Nova Skeleton",
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance",
+					"@Dracula's Castle Regions/Barracks/Entrance",
+					"@Dracula's Castle Regions/Forsaken Cloister/Left",
+					"@Dracula's Castle Regions/Forsaken Cloister/Right",
+					"@Training Hall Regions/Entrance, slide, djump, magnet"
+				]
+			},
+			{
+				"name": "Albus",
+				"access_rules": [
+					"@Mystery Manor Regions/Main"
+				]
+			},
+			{
+				"name": "Barlowe",
+				"access_rules": [
+					"@Ecclesia, @Ecclesia Locations/Barlowe"
+				]
+			},
+			{
+				"name": "Jiang Shi",
+				"access_rules": [
+					"@Large Cavern Regions/Entrance, djump, fast, slide",
+					"@Large Cavern Regions/Entrance, wings"
+				]
+			},
+			{
+				"name": "Demon Lord",
+				"access_rules": [
+					"@Large Cavern Regions/Entrance, djump, fast, slide",
+					"@Large Cavern Regions/Entrance, wings"
+				]
+			},
+			{
+				"name": "Bone Scimitar",
+				"access_rules": [
+					"@Monastery Regions/Magnets Area",
+					"@Ruvas Forest Regions/Entrance",
+					"@Minera Prison Island Regions/Main"
+				]
+			},
+			{
+				"name": "Axe Knight",
+				"access_rules": [
+					"@Ruvas Forest Regions/Entrance",
+					"@Minera Prison Island Regions/Main"
+				]
+			},
+			{
+				"name": "Bone Archer",
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				]
+			},
+			{
+				"name": "Spear Guard",
+				"access_rules": [
+					"@Minera Prison Island Regions/Main"
+				]
+			},
+			{
+				"name": "Werebat",
+				"access_rules": [
+					"@Misty Forest Road Regions/Entrance"
+				]
+			},
+			{
+				"name": "Skull Spider",
+				"access_rules": [
+					"@Kalidus Channel Regions/Depths Left",
+					"@Tymeo Mountains Regions/Entrance"
+				]
+			},
+			{
+				"name": "Owl",
+				"access_rules": [
+					"@Tristis Pass Regions/Waterfall"
+				]
+			},
+			{
+				"name": "Spectral Sword",
+				"access_rules": [
+					"@Dracula's Castle Regions/Arms Depot/Entrance",
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				]
+			},
+			{
+				"name": "Automaton ZX27",
+				"access_rules": [
+					"@Dracula's Castle Regions/Mechanical Tower/Entrance, wings",
+					"@Dracula's Castle Regions/Mechanical Tower/Entrance, magnet",
+					"@Dracula's Castle Regions/Mechanical Tower/Entrance, fast",
+					"@Dracula's Castle Regions/Mechanical Tower/Entrance, bot",
+					"@Dracula's Castle Regions/Mechanical Tower/Upper",
+					"@Dracula's Castle Regions/Mechanical Tower/Upper Exit",
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				]
+			},
+			{
+				"name": "Gorgon Head",
+				"access_rules": [
+					"@Dracula's Castle Regions/Forsaken Cloister/Upper",
+					"@Dracula's Castle Regions/Mechanical Tower/Upper"
+				]
+			},
+			{
+				"name": "Black Panther",
+				"access_rules": [
+					"@Dracula's Castle Regions/Castle Entrance/Entrance",
+					"@Dracula's Castle Regions/Library/Entrance"
+				]
+			},
+			{
+				"name": "Polkir",
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
+				]
+			},
+			{
+				"name": "Red Smasher",
+				"access_rules": [
+					"@Dracula's Castle Regions/Barracks/Entrance",
+					"@Dracula's Castle Regions/Mechanical Tower/Entrance",
+					"@Dracula's Castle Regions/Arms Depot/Entrance"
+				]
+			},
+			{
+				"name": "Hammer Shaker",
+				"access_rules": [
+					"@Dracula's Castle Regions/Underground Labyrinth/Entrance",
+					"@Dracula's Castle Regions/Barracks/Entrance",
+					"@Dracula's Castle Regions/Arms Depot/Entrance",
+					"@Dracula's Castle Regions/Mechanical Tower/Entrance",
+					"@Dracula's Castle Regions/Mechanical Tower/Lower"
+				]
+			},
+			{
+				"name": "Great Knight",
+				"access_rules": [
+					"@Dracula's Castle Regions/Arms Depot/Entrance",
+					"@Dracula's Castle Regions/Library/Upper Exit"
+				]
+			},
+			{
+				"name": "Winged Skeleton",
+				"access_rules": [
+					"@Dracula's Castle Regions/Final Approach/Entrance"
+				]
+			},
+			{
+				"name": "Dullahan",
+				"access_rules": [
+					"@Skeleton Cave Regions/Entrance",
+					"@Tymeo Mountains Regions/East"
+				]
+			},
+			{
+				"name": "Miss Murder",
+				"access_rules": [
+					"@Giant's Dwelling Regions/Main"
+				]
+			},
+			{
+				"name": "Lizardman",
+				"access_rules": [
+					"@Oblivion Ridge Regions/Entrance",
+					"@Tristis Pass Regions/Entrance"
+				]
+			}
+		]
 	}
 ]
