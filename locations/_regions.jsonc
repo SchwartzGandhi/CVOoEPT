@@ -331,7 +331,8 @@
 			{
 				"name": "Outside",
 				"access_rules": [
-					"@World Map" // open castle
+					"@World Map, opencastle",
+					"@World Map, @Ecclesia Locations/Barlowe"
 				]
 			},
 			{

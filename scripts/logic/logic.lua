@@ -84,3 +84,20 @@ function GetDoorConnection(door_in_question)
         end
     end
 end
+
+function RequiredVillagers()
+    local villagers = {
+        "priest", "merchant", "healer", "jewelist", 
+        "boy", "girl", "mom", "grandma", "musician", 
+        "clothier", "blacksmith", "chef", "reporter"
+    }
+    local h = 0
+    for _, v in ipairs(villagers) do
+        if has(v) then
+            h = h + 1
+        end
+    end
+    if h >= Tracker:FindObjectForCode("reqvillagers").AcquiredCount then
+        return true
+    end
+end
