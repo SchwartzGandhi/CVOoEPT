@@ -12,7 +12,7 @@
                         {
                             "type": "itemgrid",
                             "rows":[
-                                ["shuffledominus", "brownchests", "medalchests", "reqbarlowe", "opencastle", "reqvillagers", "villagerlocations", "stolenglyphs", "droppedglyphs"]
+                                ["shuffledominus", "brownchests", "medalchests", "reqbarlowe", "opencastle", "reqvillagers", "villagers", "stolenglyphs", "droppedglyphs"]
                             ]
                         }
                     ]

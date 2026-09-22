@@ -171,7 +171,7 @@
 				],
 				"sections": [
 					{
-						"name": "Poor Preperation is Costly",
+						"name": "Poor Preparation is Costly",
 						"access_rules": [
 							"iron:3"
 						]
@@ -300,7 +300,7 @@
 						]
 					},
 					{
-						"name": "Artists can be Selfish",
+						"name": "Artists Can Be Selfish",
 						"access_rules": [
 							"ink, feather"
 						]
@@ -399,7 +399,7 @@
 						]
 					},
 					{
-						"name": "Is That Chasmere?",
+						"name": "Is That Cashmere?",
 						"access_rules": [
 							"cashmere:5"
 						]

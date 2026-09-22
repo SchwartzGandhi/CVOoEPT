@@ -134,9 +134,8 @@ function apply_slot_data(slot_data)
 		Tracker:FindObjectForCode("medalchests").Active = true
 	end
 	local villagers_in_pool = slot_data["randomize_villagers"]
-	if villagers_in_pool then
-		Tracker:FindObjectForCode("villagerlocations").Active = true
-	end
+	Tracker:FindObjectForCode("villagerlocations").CurrentStage = villagers_in_pool
+
 	local no_parkour = slot_data["remove_training_hall"]
 	if no_parkour then
 		Tracker:FindObjectForCode("notraining").Active = true

@@ -68,150 +68,250 @@
     {
         "name": "Sage",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/sage.png",
         "codes": "sage"
     },
     {
         "name": "Chamomile",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/tea.png",
         "codes": "tea"
     },
     {
         "name": "Rue",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/rue.png",
         "codes": "rue"
     },
     {
         "name": "Mandrake Root",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/mandrake.png",
         "codes": "root"
     },
     {
         "name": "Merman Meat",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/hair.png",
         "codes": "mermeat"
     },
     {
         "name": "Lapis Lazuli",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/lapis.png",
         "codes": "lapis"
     },
     {
         "name": "Ruby",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/ruby.png",
         "codes": "ruby"
     },
     {
         "name": "Sapphire",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/sapphire.png",
         "codes": "sapphire"
     },
     {
         "name": "Emerald",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/emerald.png",
         "codes": "emerald"
     },
     {
         "name": "Diamond",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/diamond.png",
         "codes": "diamond"
     },
     {
         "name": "Onyx",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/onyx.png",
         "codes": "onyx"
     },
     {
         "name": "Alexandrite",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/alexandrite.png",
         "codes": "alexandrite"
     },
     {
         "name": "Iron Ore",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/iron.png",
         "codes": "iron"
     },
     {
         "name": "Silver Ore",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/silver.png",
         "codes": "silver"
     },
     {
         "name": "Gold Ore",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/gold.png",
         "codes": "gold"
     },
     {
         "name": "Salt",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/salt.png",
         "codes": "salt"
     },
     {
         "name": "Raw Killer Fish",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/fish.png",
         "codes": "sandiego"
     },
     {
         "name": "Tasty Meat",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/yummy.png",
         "codes": "yummy"
     },
     {
         "name": "Horse Hair",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/merman.png",
         "codes": "hair"
     },
     {
         "name": "Black Ink",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/ink.png",
         "codes": "ink"
     },
     {
         "name": "Eagle Feather",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/feather.png",
         "codes": "feather"
     },
     {
         "name": "Cotton Thread",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/cotton.png",
         "codes": "cotton"
     },
     {
         "name": "Silk Thread",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/silk.png",
         "codes": "silk"
     },
     {
         "name": "Cashmere Thread",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/cashmere.png",
         "codes": "cashmere"
     },
     {
         "name": "Chrysoberyl",
         "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
         "img": "images/items/quests/chrys.png",
         "codes": "chrysoberyl"
     }

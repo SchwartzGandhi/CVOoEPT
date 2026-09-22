@@ -20,20 +20,53 @@
     {
         "name": "Randomize Stolen Glyphs",
         "type": "progressive",
-        "img": "images/chests/ap.png",
-        "codes": "stolenglyphs"
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/chests/ap.png",
+                "codes": "stolenglyphs, stolenshuffled",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/chests/ap.png",
+                "codes": "stolenglyphs, stolensanity",
+                "inherit_codes": false
+            }
+        ]
     },
     {
         "name": "Randomize Dropped Glyphs",
         "type": "progressive",
-        "img": "images/chests/ap.png",
-        "codes": "droppedglyphs"
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/chests/ap.png",
+                "codes": "droppedglyphs, droppedshuffled",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/chests/ap.png",
+                "codes": "droppedglyphs, droppedsanity",
+                "inherit_codes": false
+            }
+        ]
     },
     {
         "name": "Randomize Villagers",
         "type": "progressive",
-        "img": "images/chests/ap.png",
-        "codes": "villagerlocations"
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/chests/ap.png",
+                "codes": "villagers, villagershuffled",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/chests/ap.png",
+                "codes": "villagers, villagersanity",
+                "inherit_codes": false
+            }
+        ]
     },
     {
         "name": "Remove Training Hall",
