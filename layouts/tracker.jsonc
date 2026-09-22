@@ -27,6 +27,13 @@
 										"type": "layout",
 										"key": "shared_glyph_grid"
 									}
+								},
+								{
+									"title": "Quests",
+									"content": {
+										"type": "layout",
+										"key": "shared_quest_grid"
+									}
 								}
 							]
 						}

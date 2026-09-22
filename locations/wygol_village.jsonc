@@ -75,6 +75,419 @@
 						"y": 482
 					}
 				]
+			},
+			{
+				"name": "Abram",
+				"chest_unopened_img": "images/chests/green.png",
+				"chest_opened_img": "images/chests/green_o.png",
+				"access_rules": [
+					"@Wygol Village, healer"
+				],
+				
+				"sections": [
+					{
+						"name": "Running Out of Sage",
+						"access_rules": [
+							"sage"
+						]
+					},
+					{
+						"name": "Medicinal Ingredients Needed",
+						"access_rules": [
+							"tea, rue"
+						]
+					},
+					{
+						"name": "Mandrake is the Best Medicine",
+						"access_rules": [
+							"sage, root"
+						]
+					},
+					{
+						"name": "Unusual Medicine Components",
+						"access_rules": [
+							"sage, mermeat"
+						]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 684,
+						"y": 542
+					}
+				]
+			},
+			{
+				"name": "Laura",
+				"chest_unopened_img": "images/chests/green.png",
+				"chest_opened_img": "images/chests/green_o.png",
+				"access_rules": [
+					"@Wygol Village, jewelist"
+				],
+				"sections": [
+					{
+						"name": "A Lucky Stone",
+						"access_rules": [
+							"lapis"
+						]
+					},
+					{
+						"name": "A Pleasant Accessory",
+						"access_rules": [
+							"ruby, sapphire, emerald"
+						]
+					},
+					{
+						"name": "A Heartwarming Accessory",
+						"access_rules": [
+							"diamond, onyx"
+						]
+					},
+					{
+						"name": "The Job of a Lifetime",
+						"access_rules": [
+							"alexandrite"
+						]
+					},
+					{
+						"name": "Item"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 562,
+						"y": 542
+					}
+				]
+			},
+			{
+				"name": "Eugen",
+				"chest_unopened_img": "images/chests/green.png",
+				"chest_opened_img": "images/chests/green_o.png",
+				"access_rules": [
+					"@Wygol Village, blacksmith"
+				],
+				"sections": [
+					{
+						"name": "Poor Preperation is Costly",
+						"access_rules": [
+							"iron:3"
+						]
+					},
+					{
+						"name": "What the Blacksmith Does Best",
+						"access_rules": [
+							"silver:3"
+						]
+					},
+					{
+						"name": "Work of the Finest Quality",
+						"access_rules": [
+							"gold:3"
+						]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 402,
+						"y": 422
+					}
+				]
+			},
+			{
+				"name": "Aeon",
+				"chest_unopened_img": "images/chests/green.png",
+				"chest_opened_img": "images/chests/green_o.png",
+				"access_rules": [
+					"@Wygol Village, chef"
+				],
+				"sections": [
+					{
+						"name": "Needs More Salt",
+						"access_rules": [
+							"salt"
+						]
+					},
+					{
+						"name": "I've Never Eaten That",
+						"access_rules": [
+							"sandiego"
+						]
+					},
+					{
+						"name": "Can't Cook Without Ingredients",
+						"access_rules": [
+							"yummy"
+						]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 402,
+						"y": 542
+					}
+				]
+			},
+			{
+				"name": "Marcel",
+				"chest_unopened_img": "images/chests/green.png",
+				"chest_opened_img": "images/chests/green_o.png",
+				"access_rules": [
+					"@Wygol Village, reporter"
+				],
+				"sections": [
+					{
+						"name": "Item"
+					},
+					{
+						"name": "Case of the Vicious Blight",
+						"access_rules": [
+							"camera, @Tymeo Mountains Regions/East",
+							"camera, @Dracula's Castle Regions/Forsaken Cloister/Left",
+							"camera, @Dracula's Castle Regions/Forsaken Cloister/Right",
+							"camera, @Large Cavern Locations/Rest Room 3",
+							"photo1"
+						]
+					},
+					{
+						"name": "Case of the Demon Horse",
+						"access_rules": [
+							"camera, @Argila Swamp Regions/Entrance",
+							"photo2"
+						]
+					},
+					{
+						"name": "Case of the Hideous Snowman",
+						"access_rules": [
+							"camera, @Tymeo Mountains Regions/East",
+							"photo3"
+						]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 372,
+						"y": 532
+					}
+				]
+			},
+			{
+				"name": "George",
+				"chest_unopened_img": "images/chests/green.png",
+				"chest_opened_img": "images/chests/green_o.png",
+				"access_rules": [
+					"@Wygol Village, musician"
+				],
+				"sections": [
+					{
+						"name": "The Silent Violin",
+						"access_rules": [
+							"hair"
+						]
+					},
+					{
+						"name": "Item"
+					},
+					{
+						"name": "The Killing Scream",
+						"access_rules": [
+							"record, @Monastery Regions/Entrance"
+						]
+					},
+					{
+						"name": "Artists can be Selfish",
+						"access_rules": [
+							"ink, feather"
+						]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 832,
+						"y": 422
+					}
+				]
+			},
+			{
+				"name": "Serge",
+				"chest_unopened_img": "images/chests/green.png",
+				"chest_opened_img": "images/chests/green_o.png",
+				"access_rules": [
+					"@Wygol Village, boy, girl, mom"
+				],
+				"sections": [
+					{
+						"name": "Hide and Seek!"
+					},
+					{
+						"name": "Show Me the Owl!",
+						"access_rules": [
+							"owl"
+						]
+					},
+					{
+						"name": "Can't Catch Me!"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 445,
+						"y": 532
+					}
+				]
+			},
+			{
+				"name": "Anna",
+				"chest_unopened_img": "images/chests/green.png",
+				"chest_opened_img": "images/chests/green_o.png",
+				"access_rules": [
+					"@Wygol Village, girl, boy, mom"
+				],
+				"sections": [
+					{
+						"name": "Finding Tom",
+						"access_rules": [
+							"@Tristis Pass Regions/Waterfall"
+						]
+					},
+					{
+						"name": "Mice Make for Good Eats",
+						"access_rules": [
+							"mouse"
+						]
+					},
+					{
+						"name": "Tom and Jewelry",
+						"access_rules": [
+							"collar, chrysoberyl"
+						]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 866,
+						"y": 422
+					}
+				]
+			},
+			{
+				"name": "Monica",
+				"chest_unopened_img": "images/chests/green.png",
+				"chest_opened_img": "images/chests/green_o.png",
+				"access_rules": [
+					"@Wygol Village, clothier"
+				],
+				"sections": [
+					{
+						"name": "Making a Dress!",
+						"access_rules": [
+							"cotton:5"
+						]
+					},
+					{
+						"name": "Silkworm's Tragedy",
+						"access_rules": [
+							"silk:5"
+						]
+					},
+					{
+						"name": "Is That Chasmere?",
+						"access_rules": [
+							"cashmere:5"
+						]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 456,
+						"y": 422
+					}
+				]
+			},
+			{
+				"name": "Irina",
+				"chest_unopened_img": "images/chests/green.png",
+				"chest_opened_img": "images/chests/green_o.png",
+				"access_rules": [
+					"@Wygol Village, mom, boy, girl"
+				],
+				"sections": [
+					{
+						"name": "Vicious Crows",
+						"access_rules": [
+							"@Tymeo Mountains Regions/Entrance"
+						]
+					},
+					{
+						"name": "Do You Hear Howling?",
+						"access_rules": [
+							"@Oblivion Ridge Regions/Entrance"
+						]
+					},
+					{
+						"name": "An Unwelcome Guest",
+						"access_rules": [
+							"@Large Cavern Locations/Final Reward 1"
+						]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 872,
+						"y": 542
+					}
+				]
+			},
+			{
+				"name": "Daniela",
+				"chest_unopened_img": "images/chests/green.png",
+				"chest_opened_img": "images/chests/green_o.png",
+				"access_rules": [
+					"@Wygol Village, grandma"
+				],
+				"sections": [
+					{
+						"name": "Item"
+					},
+					{
+						"name": "A Beacon of Hope",
+						"access_rules": [
+							"skeb, @Lighthouse Regions/Post-Boss",
+							"art1"
+						]
+					},
+					{
+						"name": "Important Resting Place",
+						"access_rules": [
+							"skeb, @Tristis Pass Regions/Waterfall",
+							"art2"
+						]
+					},
+					{
+						"name": "Tragic Memories",
+						"access_rules": [
+							"skeb, @Oblivion Ridge/Beyond Boss",
+							"art3"
+						]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Wygol Village",
+						"x": 572,
+						"y": 422
+					}
+				]
 			}
 		]
 	}

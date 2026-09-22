@@ -28,6 +28,7 @@ Tracker:AddItems("items/relics.jsonc")
 Tracker:AddItems("items/glyphs.jsonc")
 Tracker:AddItems("items/villagers.jsonc")
 Tracker:AddItems("items/map.jsonc")
+Tracker:AddItems("items/quests.jsonc")
 Tracker:AddItems("items/settings.jsonc")
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading

@@ -26,6 +26,18 @@ ITEM_MAPPING = {
 	[BASE_ITEM_ID + 371] = { { "mom" } },
 	[BASE_ITEM_ID + 372] = { { "grandma" } },
 
+	-- Quest Items
+	[BASE_ITEM_ID + 173] = { { "mouse" } },
+	[BASE_ITEM_ID + 174] = { { "collar" } },
+	[BASE_ITEM_ID + 175] = { { "camera" } },
+	[BASE_ITEM_ID + 176] = { { "photo1" } },
+	[BASE_ITEM_ID + 177] = { { "photo2" } },
+	[BASE_ITEM_ID + 178] = { { "photo3" } },
+	[BASE_ITEM_ID + 183] = { { "skeb" } },
+	[BASE_ITEM_ID + 184] = { { "art1" } },
+	[BASE_ITEM_ID + 185] = { { "art2" } },
+	[BASE_ITEM_ID + 186] = { { "art3" } },
+
 	-- Map
 	[BASE_ITEM_ID + 377] = { { "training" } },
 	[BASE_ITEM_ID + 378] = { { "ruvas" } },

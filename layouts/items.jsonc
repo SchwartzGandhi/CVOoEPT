@@ -210,5 +210,156 @@
 				}
 			}
 		]
+	},
+	"shared_quest_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "group",
+				"header": "Abram",
+				"dock": "top",
+				"content": {
+					"type": "itemgrid",
+					"item_margin": "3, 3",
+					"item_size": 58,
+					"h_alignment": "center",
+					"rows": [
+						[
+							"sage", "tea", "rue", "root", "mermeat"
+						]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "Laura",
+				"dock": "top",
+				"content": {
+					"type": "itemgrid",
+					"item_margin": "3, 3",
+					"item_size": 58,
+					"h_alignment": "center",
+					"rows": [
+						[
+							"lapis", "ruby", "sapphire", "emerald", "diamond", "onyx", "alexandrite"
+						]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "Eugen",
+				"dock": "top",
+				"content": {
+					"type": "itemgrid",
+					"item_margin": "3, 3",
+					"item_size": 58,
+					"h_alignment": "center",
+					"rows": [
+						[
+							"iron", "silver", "gold"
+						]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "Aeon",
+				"dock": "top",
+				"content": {
+					"type": "itemgrid",
+					"item_margin": "3, 3",
+					"item_size": 58,
+					"h_alignment": "center",
+					"rows": [
+						[
+							"salt", "sandiego", "yummy"
+						]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "Marcel",
+				"dock": "top",
+				"content": {
+					"type": "itemgrid",
+					"item_margin": "3, 3",
+					"item_size": 58,
+					"h_alignment": "center",
+					"rows": [
+						[
+							"camera", "photo1", "photo2", "photo3"
+						]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "George",
+				"dock": "top",
+				"content": {
+					"type": "itemgrid",
+					"item_margin": "3, 3",
+					"item_size": 58,
+					"h_alignment": "center",
+					"rows": [
+						[
+							"hair", "record", "ink", "feather"
+						]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "Anna",
+				"dock": "top",
+				"content": {
+					"type": "itemgrid",
+					"item_margin": "3, 3",
+					"item_size": 58,
+					"h_alignment": "center",
+					"rows": [
+						[
+							"mouse", "collar", "chrysoberyl"
+						]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "Monica",
+				"dock": "top",
+				"content": {
+					"type": "itemgrid",
+					"item_margin": "3, 3",
+					"item_size": 58,
+					"h_alignment": "center",
+					"rows": [
+						[
+							"cotton", "silk", "cashmere"
+						]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "Daniela",
+				"dock": "top",
+				"content": {
+					"type": "itemgrid",
+					"item_margin": "3, 3",
+					"item_size": 58,
+					"h_alignment": "center",
+					"rows": [
+						[
+							"skeb", "art1", "art2", "art3"
+						]
+					]
+				}
+			},
+		]
 	}
 }

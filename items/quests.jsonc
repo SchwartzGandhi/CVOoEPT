@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Mouse",
+        "type": "toggle",
+        "img": "images/items/quests/mouse.png",
+        "codes": "mouse"
+    },
+    {
+        "name": "Cat Collar",
+        "type": "toggle",
+        "img": "images/items/quests/catcollar.png",
+        "codes": "collar"
+    },
+    {
+        "name": "Phonograph",
+        "type": "toggle",
+        "img": "images/items/quests/phonograph.png",
+        "codes": "record"
+    },
+    {
+        "name": "Camera",
+        "type": "toggle",
+        "img": "images/items/quests/camera.png",
+        "codes": "camera"
+    },
+    {
+        "name": "Photo 1",
+        "type": "toggle",
+        "img": "images/items/quests/photo1.png",
+        "codes": "photo1"
+    },
+    {
+        "name": "Photo 2",
+        "type": "toggle",
+        "img": "images/items/quests/photo2.png",
+        "codes": "photo2"
+    },
+    {
+        "name": "Photo 3",
+        "type": "toggle",
+        "img": "images/items/quests/photo3.png",
+        "codes": "photo3"
+    },
+    {
+        "name": "Sketch Book",
+        "type": "toggle",
+        "img": "images/items/quests/sketchbook.png",
+        "codes": "skeb"
+    },
+    {
+        "name": "Lighthouse Art",
+        "type": "toggle",
+        "img": "images/items/quests/lighthouse.png",
+        "codes": "art1"
+    },
+    {
+        "name": "Waterfall Art",
+        "type": "toggle",
+        "img": "images/items/quests/waterfall.png",
+        "codes": "art2"
+    },
+    {
+        "name": "Church Art",
+        "type": "toggle",
+        "img": "images/items/quests/church.png",
+        "codes": "art3"
+    },
+    {
+        "name": "Sage",
+        "type": "consumable",
+        "img": "images/items/quests/sage.png",
+        "codes": "sage"
+    },
+    {
+        "name": "Chamomile",
+        "type": "consumable",
+        "img": "images/items/quests/tea.png",
+        "codes": "tea"
+    },
+    {
+        "name": "Rue",
+        "type": "consumable",
+        "img": "images/items/quests/rue.png",
+        "codes": "rue"
+    },
+    {
+        "name": "Mandrake Root",
+        "type": "consumable",
+        "img": "images/items/quests/mandrake.png",
+        "codes": "root"
+    },
+    {
+        "name": "Merman Meat",
+        "type": "consumable",
+        "img": "images/items/quests/hair.png",
+        "codes": "mermeat"
+    },
+    {
+        "name": "Lapis Lazuli",
+        "type": "consumable",
+        "img": "images/items/quests/lapis.png",
+        "codes": "lapis"
+    },
+    {
+        "name": "Ruby",
+        "type": "consumable",
+        "img": "images/items/quests/ruby.png",
+        "codes": "ruby"
+    },
+    {
+        "name": "Sapphire",
+        "type": "consumable",
+        "img": "images/items/quests/sapphire.png",
+        "codes": "sapphire"
+    },
+    {
+        "name": "Emerald",
+        "type": "consumable",
+        "img": "images/items/quests/emerald.png",
+        "codes": "emerald"
+    },
+    {
+        "name": "Diamond",
+        "type": "consumable",
+        "img": "images/items/quests/diamond.png",
+        "codes": "diamond"
+    },
+    {
+        "name": "Onyx",
+        "type": "consumable",
+        "img": "images/items/quests/onyx.png",
+        "codes": "onyx"
+    },
+    {
+        "name": "Alexandrite",
+        "type": "consumable",
+        "img": "images/items/quests/alexandrite.png",
+        "codes": "alexandrite"
+    },
+    {
+        "name": "Iron Ore",
+        "type": "consumable",
+        "img": "images/items/quests/iron.png",
+        "codes": "iron"
+    },
+    {
+        "name": "Silver Ore",
+        "type": "consumable",
+        "img": "images/items/quests/silver.png",
+        "codes": "silver"
+    },
+    {
+        "name": "Gold Ore",
+        "type": "consumable",
+        "img": "images/items/quests/gold.png",
+        "codes": "gold"
+    },
+    {
+        "name": "Salt",
+        "type": "consumable",
+        "img": "images/items/quests/salt.png",
+        "codes": "salt"
+    },
+    {
+        "name": "Raw Killer Fish",
+        "type": "consumable",
+        "img": "images/items/quests/fish.png",
+        "codes": "sandiego"
+    },
+    {
+        "name": "Tasty Meat",
+        "type": "consumable",
+        "img": "images/items/quests/yummy.png",
+        "codes": "yummy"
+    },
+    {
+        "name": "Horse Hair",
+        "type": "consumable",
+        "img": "images/items/quests/merman.png",
+        "codes": "hair"
+    },
+    {
+        "name": "Black Ink",
+        "type": "consumable",
+        "img": "images/items/quests/ink.png",
+        "codes": "ink"
+    },
+    {
+        "name": "Eagle Feather",
+        "type": "consumable",
+        "img": "images/items/quests/feather.png",
+        "codes": "feather"
+    },
+    {
+        "name": "Cotton Thread",
+        "type": "consumable",
+        "img": "images/items/quests/cotton.png",
+        "codes": "cotton"
+    },
+    {
+        "name": "Silk Thread",
+        "type": "consumable",
+        "img": "images/items/quests/silk.png",
+        "codes": "silk"
+    },
+    {
+        "name": "Cashmere Thread",
+        "type": "consumable",
+        "img": "images/items/quests/cashmere.png",
+        "codes": "cashmere"
+    },
+    {
+        "name": "Chrysoberyl",
+        "type": "consumable",
+        "img": "images/items/quests/chrys.png",
+        "codes": "chrysoberyl"
+    }
+]

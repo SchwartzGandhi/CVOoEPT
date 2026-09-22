@@ -424,6 +424,11 @@
 				],
 				"sections": [
 					{
+						"name": "Mouse Pickup",
+						"chest_unopened_img": "images/chests/ap.png",
+						"chest_opened_img": "images/chests/ap_bw.png"
+					},
+					{
 						"name": "Upper Right",
 						"chest_unopened_img": "images/chests/ap.png",
 						"chest_opened_img": "images/chests/ap_bw.png"
