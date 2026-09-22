@@ -82,7 +82,7 @@
         "max_quantity": 99,
         "increment": 1,
         "decrement": 1,
-        "img": "images/items/quests/tea.png",
+        "img": "images/items/quests/eggs.png",
         "codes": "tea"
     },
     {
