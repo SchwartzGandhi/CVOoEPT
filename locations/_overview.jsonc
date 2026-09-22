@@ -446,6 +446,10 @@
 						"ref": "Kalidus Channel Locations/Depths Left Chest/"
 					},
 					{
+						"name": "Ship Room Mouse Pickup",
+						"ref": "Kalidus Channel Locations/Ship Room/Mouse Pickup"
+					},
+					{
 						"name": "Ship Room Upper Right",
 						"ref": "Kalidus Channel Locations/Ship Room/Upper Right"
 					},
@@ -1517,7 +1521,175 @@
 				"map_locations": [
 					{
 						"map": "Map",
-						"x": 542,
+						"x": 522,
+						"y": 532
+					}
+				]
+			},
+			{
+				"name": "Quests",
+				"sections": [
+					{
+						"name": "Abram Quest 1",
+						"ref": "Wygol Village Locations/Abram/Running Out of Sage"
+					},
+					{
+						"name": "Abram Quest 2",
+						"ref": "Wygol Village Locations/Abram/Medicinal Ingredients Needed"
+					},
+					{
+						"name": "Abram Quest 3",
+						"ref": "Wygol Village Locations/Abram/Mandrake is the Best Medicine"
+					},
+					{
+						"name": "Abram Quest 4",
+						"ref": "Wygol Village Locations/Abram/Unusual Medicine Components"
+					},
+					{
+						"name": "Item from Laura",
+						"ref": "Wygol Village Locations/Laura/Item"
+					},
+					{
+						"name": "Laura Quest 1",
+						"ref": "Wygol Village Locations/Laura/A Lucky Stone"
+					},
+					{
+						"name": "Laura Quest 2",
+						"ref": "Wygol Village Locations/Laura/A Pleasant Accessory"
+					},
+					{
+						"name": "Laura Quest 3",
+						"ref": "Wygol Village Locations/Laura/A Heartwarming Accessory"
+					},
+					{
+						"name": "Laura Quest 4",
+						"ref": "Wygol Village Locations/Laura/The Job of a Lifetime"
+					},
+					{
+						"name": "Eugen Quest 1",
+						"ref": "Wygol Village Locations/Eugen/Poor Preparation is Costly"
+					},
+					{
+						"name": "Eugen Quest 2",
+						"ref": "Wygol Village Locations/Eugen/What the Blacksmith Does Best"
+					},
+					{
+						"name": "Eugen Quest 3",
+						"ref": "Wygol Village Locations/Eugen/Work of the Finest Quality"
+					},
+					{
+						"name": "Aeon Quest 1",
+						"ref": "Wygol Village Locations/Aeon/Needs More Salt"
+					},
+					{
+						"name": "Aeon Quest 2",
+						"ref": "Wygol Village Locations/Aeon/I've Never Eaten That"
+					},
+					{
+						"name": "Aeon Quest 3",
+						"ref": "Wygol Village Locations/Aeon/Can't Cook Without Ingredients"
+					},
+					{
+						"name": "Item from Marcel",
+						"ref": "Wygol Village Locations/Marcel/Item"
+					},
+					{
+						"name": "Marcel Quest 1",
+						"ref": "Wygol Village Locations/Marcel/Case of the Vicious Blight"
+					},
+					{
+						"name": "Marcel Quest 2",
+						"ref": "Wygol Village Locations/Marcel/Case of the Demon Horse"
+					},
+					{
+						"name": "Marcel Quest 3",
+						"ref": "Wygol Village Locations/Marcel/Case of the Hideous Snowman"
+					},
+					{
+						"name": "George Quest 1",
+						"ref": "Wygol Village Locations/George/The Silent Violin"
+					},
+					{
+						"name": "Item from George",
+						"ref": "Wygol Village Locations/George/Item"
+					},
+					{
+						"name": "George Quest 2",
+						"ref": "Wygol Village Locations/George/The Killing Scream"
+					},
+					{
+						"name": "George Quest 3",
+						"ref": "Wygol Village Locations/George/Artists Can Be Selfish"
+					},
+					{
+						"name": "Serge Quest 1",
+						"ref": "Wygol Village Locations/Serge/Hide and Seek!"
+					},
+					{
+						"name": "Serge Quest 2",
+						"ref": "Wygol Village Locations/Serge/Show Me the Owl!"
+					},
+					{
+						"name": "Serge Quest 3",
+						"ref": "Wygol Village Locations/Serge/Can't Catch Me!"
+					},
+					{
+						"name": "Anna Quest 1",
+						"ref": "Wygol Village Locations/Anna/Finding Tom"
+					},
+					{
+						"name": "Anna Quest 2",
+						"ref": "Wygol Village Locations/Anna/Mice Make for Good Eats"
+					},
+					{
+						"name": "Anna Quest 3",
+						"ref": "Wygol Village Locations/Anna/Tom and Jewelry"
+					},
+					{
+						"name": "Monica Quest 1",
+						"ref": "Wygol Village Locations/Monica/Making a Dress!"
+					},
+					{
+						"name": "Monica Quest 2",
+						"ref": "Wygol Village Locations/Monica/Silkworm's Tragedy"
+					},
+					{
+						"name": "Monica Quest 3",
+						"ref": "Wygol Village Locations/Monica/Is That Cashmere?"
+					},
+					{
+						"name": "Irina Quest 1",
+						"ref": "Wygol Village Locations/Irina/Vicious Crows"
+					},
+					{
+						"name": "Irina Quest 2",
+						"ref": "Wygol Village Locations/Irina/Do You Hear Howling?"
+					},
+					{
+						"name": "Irina Quest 3",
+						"ref": "Wygol Village Locations/Irina/An Unwelcome Guest"
+					},
+					{
+						"name": "Item from Daniela",
+						"ref": "Wygol Village Locations/Daniela/Item"
+					},
+					{
+						"name": "Daniela Quest 1",
+						"ref": "Wygol Village Locations/Daniela/A Beacon of Hope"
+					},
+					{
+						"name": "Daniela Quest 2",
+						"ref": "Wygol Village Locations/Daniela/Important Resting Place"
+					},
+					{
+						"name": "Daniela Quest 3",
+						"ref": "Wygol Village Locations/Daniela/Tragic Memories"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Map",
+						"x": 572,
 						"y": 532
 					}
 				]
