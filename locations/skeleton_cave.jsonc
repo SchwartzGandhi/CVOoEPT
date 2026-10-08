@@ -26,6 +26,9 @@
 			},
 			{
 				"name": "Second Hall Ledge",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Skeleton Cave Regions/Entrance"
 				],
@@ -57,7 +60,10 @@
 						"chest_opened_img": "images/chests/red_o.png"
 					},
 					{
-						"name": "Lower"
+						"name": "Lower",
+						"visibility_rules": [
+							"brownchests"
+						]
 					}
 				],
 				"map_locations": [
@@ -70,6 +76,9 @@
 			},
 			{
 				"name": "Center Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Skeleton Cave Regions/Entrance"
 				],
@@ -98,7 +107,10 @@
 						"chest_opened_img": "images/chests/ap_bw.png"
 					},
 					{
-						"name": "Near Chest"
+						"name": "Near Chest",
+						"visibility_rules": [
+							"brownchests"
+						]
 					},
 					{
 						"name": "Far Chest",

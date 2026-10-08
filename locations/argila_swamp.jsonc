@@ -6,6 +6,9 @@
 		"children": [
 			{
 				"name": "Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Argila Swamp Regions/Entrance"
 				],

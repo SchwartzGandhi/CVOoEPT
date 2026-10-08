@@ -30,6 +30,9 @@
 			},
 			{
 				"name": "Right Room Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Dracula's Castle Regions/Arms Depot/Entrance"
 				],

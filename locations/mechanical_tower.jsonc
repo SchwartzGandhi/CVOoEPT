@@ -104,6 +104,9 @@
 			},
 			{
 				"name": "Low Shaft Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Dracula's Castle Regions/Mechanical Tower/Entrance"
 				],
@@ -115,6 +118,9 @@
 			},
 			{
 				"name": "First Gears Room Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Dracula's Castle Regions/Mechanical Tower/Lower, wings",
 					"@Dracula's Castle Regions/Mechanical Tower/Lower, magnet"

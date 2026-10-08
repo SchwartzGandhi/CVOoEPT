@@ -6,6 +6,9 @@
 		"children": [
 			{
 				"name": "Top Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Training Hall Regions/Prize Area"
 				],
@@ -24,6 +27,9 @@
 			},
 			{
 				"name": "First Way Down Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Training Hall Regions/Prize Area"
 				],
@@ -42,6 +48,9 @@
 			},
 			{
 				"name": "Second Way Down Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Training Hall Regions/Prize Area"
 				],
@@ -80,6 +89,9 @@
 			},
 			{
 				"name": "Third Way Down Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Training Hall Regions/Prize Area"
 				],

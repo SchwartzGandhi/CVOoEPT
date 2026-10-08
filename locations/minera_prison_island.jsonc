@@ -29,6 +29,9 @@
 			},
 			{
 				"name": "Entrance Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Minera Prison Island Regions/Main"
 				],
@@ -85,6 +88,9 @@
 			},
 			{
 				"name": "Lower Spear Hall Later Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Minera Prison Island Regions/Main"
 				],
@@ -123,6 +129,9 @@
 			},
 			{
 				"name": "Upper Spear Hall",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Minera Prison Island Regions/Main"
 				],
@@ -161,6 +170,9 @@
 			},
 			{
 				"name": "Right Entry Shaft Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Minera Prison Island Regions/Main"
 				],
@@ -298,6 +310,9 @@
 			},
 			{
 				"name": "Lower Right Hall",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Minera Prison Island Regions/Main"
 				],
@@ -316,6 +331,9 @@
 			},
 			{
 				"name": "Right Central Room",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Minera Prison Island Regions/Main"
 				],
@@ -365,6 +383,9 @@
 			},
 			{
 				"name": "Right Spear Hall Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Minera Prison Island Regions/Final Segment"
 				],

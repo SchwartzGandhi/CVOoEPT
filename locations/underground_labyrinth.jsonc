@@ -6,6 +6,9 @@
 		"children": [
 			{
 				"name": "First Shadow Room",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Dracula's Castle Regions/Underground Labyrinth/Entrance"
 				],

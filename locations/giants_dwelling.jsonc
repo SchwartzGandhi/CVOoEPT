@@ -6,6 +6,8 @@
 		"children": [
 			{
 				"name": "Entrance Hidden Item",
+				"chest_unopened_img": "images/chests/ap.png",
+				"chest_opened_img": "images/chests/ap_bw.png",
 				"access_rules": [
 					"@Giant's Dwelling Regions/Entrance"
 				],
@@ -44,6 +46,9 @@
 			},
 			{
 				"name": "First Corner",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Giant's Dwelling Regions/Main"
 				],

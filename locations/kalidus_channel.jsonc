@@ -46,6 +46,9 @@
 			},
 			{
 				"name": "Third Room Underwater",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Kalidus Channel Regions/Entrance, dive"
 				],
@@ -207,6 +210,9 @@
 			},
 			{
 				"name": "Depths Right Center Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Kalidus Channel Regions/Depths Right"
 				],
@@ -311,6 +317,9 @@
 			},
 			{
 				"name": "Depths Right Shaft Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Kalidus Channel Regions/Depths Right"
 				],
@@ -329,6 +338,9 @@
 			},
 			{
 				"name": "Depths Central",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Kalidus Channel Regions/Depths Right"
 				],
@@ -347,6 +359,9 @@
 			},
 			{
 				"name": "Depths Left Tall Room Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Kalidus Channel Regions/Depths Left"
 				],
@@ -401,6 +416,9 @@
 			},
 			{
 				"name": "Depths Left Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Kalidus Channel Regions/Depths Left"
 				],
@@ -454,13 +472,22 @@
 						"chest_opened_img": "images/chests/red_o.png"
 					},
 					{
-						"name": "Lower Center Chest"
+						"name": "Lower Center Chest",
+						"visibility_rules": [
+							"brownchests"
+						]
 					},
 					{
-						"name": "Lower Left Chest"
+						"name": "Lower Left Chest",
+						"visibility_rules": [
+							"brownchests"
+						]
 					},
 					{
-						"name": "Lower Right Chest"
+						"name": "Lower Right Chest",
+						"visibility_rules": [
+							"brownchests"
+						]
 					}
 				],
 				"map_locations": [

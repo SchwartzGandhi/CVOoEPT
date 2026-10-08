@@ -6,6 +6,9 @@
 		"children": [
 			{
 				"name": "Rest Room 1",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Large Cavern Regions/Entrance, djump, fast, slide",
 					"@Large Cavern Regions/Entrance, wings"
@@ -25,6 +28,9 @@
 			},
 			{
 				"name": "Rest Room 2",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Large Cavern Regions/Entrance, djump, fast, slide",
 					"@Large Cavern Regions/Entrance, wings"
@@ -44,6 +50,9 @@
 			},
 			{
 				"name": "Rest Room 3",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Large Cavern Regions/Entrance, djump, fast, slide",
 					"@Large Cavern Regions/Entrance, wings"
@@ -63,6 +72,9 @@
 			},
 			{
 				"name": "Rest Room 4",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Large Cavern Regions/Entrance, djump, fast, slide",
 					"@Large Cavern Regions/Entrance, wings"
@@ -82,6 +94,9 @@
 			},
 			{
 				"name": "Final Reward 1",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Large Cavern Regions/Entrance, djump, fast, slide",
 					"@Large Cavern Regions/Entrance, wings"
@@ -101,6 +116,9 @@
 			},
 			{
 				"name": "Final Reward 2",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Large Cavern Regions/Entrance, djump, fast, slide",
 					"@Large Cavern Regions/Entrance, wings"

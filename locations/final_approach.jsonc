@@ -6,6 +6,9 @@
 		"children": [
 			{
 				"name": "Lower Big Room Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Dracula's Castle Regions/Final Approach/Entrance"
 				],
@@ -17,6 +20,9 @@
 			},
 			{
 				"name": "Central Room Left Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Dracula's Castle Regions/Final Approach/Entrance"
 				],

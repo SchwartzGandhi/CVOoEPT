@@ -26,6 +26,9 @@
 			},
 			{
 				"name": "Cavern Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Tymeo Mountains Regions/Entrance"
 				],
@@ -84,6 +87,9 @@
 			},
 			{
 				"name": "Bridge Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Tymeo Mountains Regions/Past Spikes Room"
 				],
@@ -165,6 +171,9 @@
 			},
 			{
 				"name": "Right Hill Alcove Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Tymeo Mountains Regions/East, $mediumslidies"
 				],
@@ -263,6 +272,9 @@
 			},
 			{
 				"name": "Upper Mountain Left Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Tymeo Mountains Regions/East"
 				],
@@ -281,6 +293,9 @@
 			},
 			{
 				"name": "Upper Mountain Right Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Tymeo Mountains Regions/East"
 				],
@@ -337,6 +352,9 @@
 			},
 			{
 				"name": "Right Shaft Lower",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Tymeo Mountains Regions/East"
 				],

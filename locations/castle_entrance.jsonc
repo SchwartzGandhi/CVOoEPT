@@ -32,6 +32,9 @@
 			},
 			{
 				"name": "Second Big Lower",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Dracula's Castle Regions/Castle Entrance/Entrance"
 				],
@@ -69,6 +72,9 @@
 			},
 			{
 				"name": "Past Paries Big Room Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Dracula's Castle Regions/Castle Entrance/Right Side"
 				],
@@ -93,6 +99,9 @@
 			},
 			{
 				"name": "Before Switch Wall",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Dracula's Castle Regions/Castle Entrance/Right Side"
 				],

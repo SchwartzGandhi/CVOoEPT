@@ -26,6 +26,9 @@
 			},
 			{
 				"name": "Left Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Ruvas Forest Regions/Entrance"
 				],
@@ -44,6 +47,9 @@
 			},
 			{
 				"name": "Right Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Ruvas Forest Regions/Entrance"
 				],

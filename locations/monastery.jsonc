@@ -6,6 +6,9 @@
 		"children": [
 			{
 				"name": "First Shaft",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Monastery Regions/Entrance"
 				],
@@ -200,6 +203,9 @@
 			},
 			{
 				"name": "Second Big Room Upper Ledge",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Monastery Regions/Magnets Area"
 				],
@@ -243,7 +249,10 @@
 				],
 				"sections": [
 					{
-						"name": "Chest"
+						"name": "Chest",
+						"visibility_rules": [
+							"brownchests"
+						]
 					},
 					{
 						"name": "Hidden Item",
@@ -281,6 +290,9 @@
 			},
 			{
 				"name": "Final Dead End",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Monastery Regions/Magnets Area"
 				],
@@ -299,6 +311,9 @@
 			},
 			{
 				"name": "Long Hall Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Monastery Regions/Magnets Area"
 				],

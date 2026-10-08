@@ -26,6 +26,9 @@
 			},
 			{
 				"name": "Right Big Room Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Misty Forest Road Regions/Entrance"
 				],
@@ -87,6 +90,9 @@
 			},
 			{
 				"name": "Left Big Room Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Misty Forest Road Regions/Entrance"
 				],

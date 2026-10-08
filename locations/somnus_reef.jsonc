@@ -6,6 +6,9 @@
 		"children": [
 			{
 				"name": "First Shaft Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Somnus Reef Regions/Main"
 				],
@@ -44,6 +47,9 @@
 			},
 			{
 				"name": "First Big Room Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Somnus Reef Regions/Main"
 				],
@@ -62,6 +68,9 @@
 			},
 			{
 				"name": "Left Big Room Upper Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Somnus Reef Regions/Main"
 				],
@@ -140,6 +149,9 @@
 			},
 			{
 				"name": "Left Big Room Center Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Somnus Reef Regions/Main"
 				],
@@ -158,6 +170,9 @@
 			},
 			{
 				"name": "Left Big Room Left Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Somnus Reef Regions/Main"
 				],
@@ -194,6 +209,9 @@
 			},
 			{
 				"name": "Lower Left Left Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Somnus Reef Regions/Main"
 				],
@@ -252,6 +270,9 @@
 			},
 			{
 				"name": "Lower Right Left Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Somnus Reef Regions/Main"
 				],
@@ -270,6 +291,9 @@
 			},
 			{
 				"name": "Lower Right Right Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Somnus Reef Regions/Main"
 				],
@@ -308,6 +332,9 @@
 			},
 			{
 				"name": "Right Shaft",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Somnus Reef Regions/Main"
 				],
@@ -326,6 +353,9 @@
 			},
 			{
 				"name": "Exit Shaft Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Somnus Reef Regions/Main"
 				],

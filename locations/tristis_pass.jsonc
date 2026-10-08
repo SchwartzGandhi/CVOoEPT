@@ -6,6 +6,9 @@
 		"children": [
 			{
 				"name": "First Alcove",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Tristis Pass Regions/Entrance, $mediumslidies"
 				],
@@ -82,6 +85,9 @@
 			},
 			{
 				"name": "Waterfall Lower",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Tristis Pass Regions/Waterfall"
 				],
@@ -178,6 +184,9 @@
 			},
 			{
 				"name": "Bridge Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Tristis Pass Regions/Waterfall"
 				],
@@ -196,6 +205,9 @@
 			},
 			{
 				"name": "Lower Hill",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Tristis Pass Regions/Waterfall, $mediumslidies"
 				],
@@ -237,6 +249,9 @@
 			},
 			{
 				"name": "Second Hill Upper Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Tristis Pass Regions/Waterfall"
 				],
@@ -255,6 +270,9 @@
 			},
 			{
 				"name": "Second Hill Lower Left",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Tristis Pass Regions/Waterfall"
 				],
@@ -293,6 +311,9 @@
 			},
 			{
 				"name": "Third Hill",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Tristis Pass Regions/Waterfall, $mediumslidies"
 				],
@@ -332,6 +353,9 @@
 			},
 			{
 				"name": "Final Hill Underground Chest",
+				"visibility_rules": [
+					"brownchests"
+				],
 				"access_rules": [
 					"@Tristis Pass Regions/Waterfall"
 				],
