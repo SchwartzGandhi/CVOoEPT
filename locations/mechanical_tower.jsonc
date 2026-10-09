@@ -71,6 +71,9 @@
 				"name": "Death No-Hit Chest",
 				"chest_unopened_img": "images/chests/blue.png",
 				"chest_opened_img": "images/chests/blue_o.png",
+				"visibility_rules": [
+					"medalchests"
+				],
 				"access_rules": [
 					"@Dracula's Castle Regions/Mechanical Tower/Upper, slide"
 				],
