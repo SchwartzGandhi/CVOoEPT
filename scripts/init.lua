@@ -30,6 +30,7 @@ Tracker:AddItems("items/villagers.jsonc")
 Tracker:AddItems("items/map.jsonc")
 Tracker:AddItems("items/quests.jsonc")
 Tracker:AddItems("items/settings.jsonc")
+Tracker:AddItems("items/logic.jsonc")
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Maps

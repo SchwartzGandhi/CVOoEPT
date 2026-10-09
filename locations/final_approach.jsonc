@@ -63,7 +63,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies"
+					"@Dracula's Castle Regions/Final Approach/Entrance, ^$biguppies"
 				],
 				"sections": [
 					{
@@ -79,7 +79,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies"
+					"@Dracula's Castle Regions/Final Approach/Entrance, ^$biguppies"
 				],
 				"sections": [
 					{
@@ -121,7 +121,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies"
+					"@Dracula's Castle Regions/Final Approach/Entrance, ^$biguppies"
 				],
 				"sections": [
 					{
@@ -137,7 +137,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies"
+					"@Dracula's Castle Regions/Final Approach/Entrance, ^$biguppies"
 				],
 				"sections": [
 					{

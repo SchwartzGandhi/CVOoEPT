@@ -24,19 +24,26 @@ function has(item, amount)
     end
 end
 
+function checktrick(trick)
+    if has(trick) then
+        return AccessibilityLevel.Normal
+    end
+    return AccessibilityLevel.SequenceBreak
+end
+
 -- Movement Macros
 function for_fun_mode()
     return has("magnet") and has("fun")
 end
 function funfly()
-    for_fun_mode() -- and has("fun_mode_enabled")
+    return for_fun_mode() and checktrick("Redire Flight")
 end
 function funslide()
-    for_fun_mode() -- and has("fun_mode_enabled")
+    return for_fun_mode() and checktrick("Redire Slides")
 end
 
 function biguppies()
-    return for_fun_mode() or has("wings")
+    return funfly() or has("wings")
 end
 function mediumuppies()
     return biguppies() or has("djump")
@@ -62,8 +69,7 @@ function blocks()
             end
         end
         if has("sword1") or has("sword2") or has("sword3") then
-            -- TODO logic
-            return false
+            checktrick("Monastery Cubes Glyph With Secare Union")
         end
     end
 end
@@ -75,6 +81,19 @@ function generator()
     if has("wings") or has("magnet") or has("fast") or has("bot") then
         return true -- logic
     end
+end
+
+function SimpleOOL(code)
+    local trick_dict = {
+        ["skeleblue"] = "Giant Skeleton No-Hit Without Movement",
+        ["gearjump"] = "Mechanical Tower Lowest Gear Room with Double Jump",
+        ["catspike"] = "Tymeo Mountains Spike Room With Arma Felix",
+        ["noslidefish"] = "Gravedorcus Without Slide",
+        ["skeledude"] = "Giant Skeleton Without Movement",
+        ["jailjump"] = "Minera Prison Island Final Area With Double Jump",
+        ["parkour"] = "Training Hall Without Rapidus",
+    }
+    return checktrick(trick_dict[code])
 end
 
 function GetDoorConnection(door_in_question)

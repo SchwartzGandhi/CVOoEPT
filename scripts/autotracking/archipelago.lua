@@ -134,7 +134,7 @@ function apply_slot_data(slot_data)
 		Tracker:FindObjectForCode("medalchests").Active = true
 	end
 	local villagers_in_pool = slot_data["randomize_villagers"]
-	Tracker:FindObjectForCode("villagerlocations").CurrentStage = villagers_in_pool
+	Tracker:FindObjectForCode("villagers").CurrentStage = villagers_in_pool
 
 	local no_parkour = slot_data["remove_training_hall"]
 	if no_parkour then
@@ -166,8 +166,11 @@ function apply_slot_data(slot_data)
 	local glyph_attr = slot_data["glyph_attributes"]
 	-- Dict[Str: List[Str]]
 	local tinman = slot_data["tin_man_glyph_logic"]
+
 	-- List[Tuple(str, str), ...]
-	local tricks = slot_data["logic_tricks"]
+	for _, tuple in ipairs(slot_data["logic_tricks"]) do
+		Tracker:FindObjectForCode(tuple).Active = true
+	end
 
 	for _, connection in ipairs(slot_data["door_map"]) do
 		DOOR_MAP[connection[1]] = connection[2]

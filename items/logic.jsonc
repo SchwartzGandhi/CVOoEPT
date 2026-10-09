@@ -1,0 +1,42 @@
+[
+    {
+        "type": "toggle",
+        "codes": "Redire Slides"
+    },
+    {
+        "type": "toggle",
+        "codes": "Redire Flight"
+    },
+    {
+        "type": "toggle",
+        "codes": "Gravedorcus Without Slide"
+    },
+    {
+        "type": "toggle",
+        "codes": "Monastery Cubes Glyph With Secare Union"
+    },
+    {
+        "type": "toggle",
+        "codes": "Giant Skeleton Without Movement"
+    },
+    {
+        "type": "toggle",
+        "codes": "Giant Skeleton No-Hit Without Movement"
+    },
+    {
+        "type": "toggle",
+        "codes": "Minera Prison Island Final Area With Double Jump"
+    },
+    {
+        "type": "toggle",
+        "codes": "Training Hall Without Rapidus"
+    },
+    {
+        "type": "toggle",
+        "codes": "Tymeo Mountains Spike Room With Arma Felix"
+    },
+    {
+        "type": "toggle",
+        "codes": "Mechanical Tower Lowest Gear Room with Double Jump"
+    }
+]

@@ -108,7 +108,7 @@
 				"chest_unopened_img": "images/chests/red.png",
 				"chest_opened_img": "images/chests/red_o.png",
 				"access_rules": [
-					"@Monastery Regions/Magnets Area, $bigslidies"
+					"@Monastery Regions/Magnets Area, ^$bigslidies"
 				],
 				"sections": [
 					{

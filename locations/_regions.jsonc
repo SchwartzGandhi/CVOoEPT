@@ -84,7 +84,7 @@
 			{
 				"name": "Depths Left",
 				"access_rules": [
-					"@Kalidus Channel Regions/Depths Right, $bigslidies"
+					"@Kalidus Channel Regions/Depths Right, ^$bigslidies"
 				]
 			}
 		]
@@ -103,14 +103,15 @@
 				"access_rules": [
 					"@Minera Prison Island Regions/Entrance, djump",
 					"@Minera Prison Island Regions/Entrance, magnet",
-					"@Minera Prison Island Regions/Entrance, wings"
-					// logic
+					"@Minera Prison Island Regions/Entrance, wings",
+					"@Minera Prison Island Regions/Entrance, ^$SimpleOOL|skeledude",
+					"@Minera Prison Island Regions/Entrance, ^$SimpleOOL|skeleblue"
 				]
 			},
 			{
 				"name": "Final Segment",
 				"access_rules": [
-					"@Minera Prison Island Regions/Main, djump", // logic
+					"@Minera Prison Island Regions/Main, djump, ^$SimpleOOL|jailjump",
 					"@Minera Prison Island Regions/Main, magnet",
 					"@Minera Prison Island Regions/Main, wings"
 				]
@@ -160,7 +161,7 @@
 					"@Tymeo Mountains Regions/Entrance, magnet",
 					"@Tymeo Mountains Regions/Entrance, wings",
 					"@Tymeo Mountains Regions/Entrance, bot",
-					"@Tymeo Mountains Regions/Entrance, cat" // logic
+					"@Tymeo Mountains Regions/Entrance, cat, ^$SimpleOOL|catspike"
 				]
 			},
 			{
@@ -262,7 +263,8 @@
 			{
 				"name": "Beyond Boss",
 				"access_rules": [
-					"@Oblivion Ridge Regions/Entrance, $bigslidies" // logic
+					"@Oblivion Ridge Regions/Entrance, ^$bigslidies",
+					"@Oblivion Ridge Regions/Entrance, ^$SimpleOOL|noslidefish"
 				]
 			}
 		]
@@ -309,7 +311,8 @@
 			{
 				"name": "Prize Area",
 				"access_rules": [
-					"@Training Hall Regions/Entrance, djump, magnet, fast, $bigslidies" // logic
+					"@Training Hall Regions/Entrance, djump, magnet, fast, ^$bigslidies",
+					"@Training Hall Regions/Entrance, djump, magnet, ^$bigslidies, ^$SimpleOOL|parkour"
 				]
 			}
 		]
@@ -383,7 +386,7 @@
 					{
 						"name": "Upper Exit",
 						"access_rules": [
-							"@Dracula's Castle Regions/Library/Past Wallman, $biguppies",
+							"@Dracula's Castle Regions/Library/Past Wallman, ^$biguppies",
 							"@Door Map/Sec03Rm0B"
 						]
 					}
@@ -421,8 +424,8 @@
 						"name": "Entrance",
 						"access_rules": [
 							"@Door Map/Sec07Rm01",
-							"@Dracula's Castle Regions/Mechanical Tower/Lower, magnet",
-							"@Dracula's Castle Regions/Mechanical Tower/Lower, wings"
+							"@Dracula's Castle Regions/Mechanical Tower/Middle Area, magnet",
+							"@Dracula's Castle Regions/Mechanical Tower/Middle Area, wings"
 						]
 					},
 					{
@@ -435,10 +438,22 @@
 						]
 					},
 					{
+						"name": "Middle Area",
+						"access_rules": [
+							"@Dracula's Castle Regions/Mechanical Tower/Entrance",
+							"@Dracula's Castle Regions/Mechanical Tower/Lower, magnet",
+							"@Dracula's Castle Regions/Mechanical Tower/Lower, wings",
+							"@Dracula's Castle Regions/Mechanical Tower/Lower, djump, ^$SimpleOOL|gearjump"
+						]
+					},
+					{
 						"name": "Lower",
 						"access_rules": [
-							"@Dracula's Castle Regions/Mechanical Tower/Entrance, magnet",
-							"@Dracula's Castle Regions/Mechanical Tower/Entrance, wings",
+							"@Dracula's Castle Regions/Mechanical Tower/Entrance",
+							"@Dracula's Castle Regions/Mechanical Tower/Entrance",
+							"@Dracula's Castle Regions/Mechanical Tower/Middle Area, magnet",
+							"@Dracula's Castle Regions/Mechanical Tower/Middle Area, wings",
+							"@Dracula's Castle Regions/Mechanical Tower/Middle Area, djump, ^$SimpleOOL|gearjump",
 							"@Door Map/Sec06Rm01"
 						]
 					},
@@ -499,13 +514,13 @@
 					{
 						"name": "Throne",
 						"access_rules": [
-							"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies"
+							"@Dracula's Castle Regions/Final Approach/Entrance, ^$biguppies"
 						]
 					},
 					{
 						"name": "Shortcut",
 						"access_rules": [
-							"@Dracula's Castle Regions/Final Approach/Entrance, $biguppies",
+							"@Dracula's Castle Regions/Final Approach/Entrance, ^$biguppies",
 							"@Door Map/Sec0ARm01"
 						]
 					}
