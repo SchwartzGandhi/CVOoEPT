@@ -111,7 +111,7 @@
         "type": "toggle",
         "img": "images/settings/barlowe.png",
         "disabled_img": "images/settings/barhighe.png",
-        "disabled_img_mod": "grey",
+        "disabled_img_mods": "grey",
         "codes": "reqbarlowe"
     },
     {
