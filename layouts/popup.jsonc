@@ -1,23 +1,25 @@
 {
     "settings_popup": {
-        "type": "tabbed",
-        "tabs": [
+        // "type": "tabbed",
+        // "tabs": [
+        //     {
+        //         "title": "H",
+        //         "content": {
+        "type": "array",
+        "orientation": "horizontal",
+        "dock": "left",
+        "content": [
             {
-                "title": "H",
-                "content": {
-                    "type": "array",
-                    "orientation": "horizontal",
-                    "dock": "left",
-                    "content": [
-                        {
-                            "type": "itemgrid",
-                            "rows":[
-                                ["shuffledominus", "brownchests", "medalchests", "reqbarlowe", "opencastle", "reqvillagers", "villagers", "stolenglyphs", "droppedglyphs"]
-                            ]
-                        }
-                    ]
-                }
+                "type": "itemgrid",
+                "item_size": 96,
+                "rows":[
+                    ["brownchests", "medalchests", "nolarge", "notraining", "stolenglyphs", "droppedglyphs"],
+                    ["shuffledominus", "reqbarlowe", "opencastle", "reqvillagers", "villagers"]
+                ]
             }
         ]
+                // }
+            // }
+        // ]
     }
 }
