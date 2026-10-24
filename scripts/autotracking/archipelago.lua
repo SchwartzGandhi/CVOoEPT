@@ -112,12 +112,19 @@ end
 
 -- apply everything needed from slot_data, called from onClear
 function apply_slot_data(slot_data)
-	-- put any code here that slot_data should affect (toggling setting items for example)
 	-- Give Starting Items
-	local staring_glyph = slot_data["starting_glyph"]
+	Tracker:FindObjectForCode(slot_data["starting_glyph"]).Active = true
 	local lizard_tail = slot_data["start_with_lizard_tail"]
+	if lizard_tail then
+		Tracker:FindObjectForCode("slide").Active = true
+	end
 	local glyph_union = slot_data["start_with_glyph_union"]
-	local starting_villagers = slot_data["starting_villagers"]
+	if glyph_union then
+		Tracker:FindObjectForCode("special").Active = true
+	end
+	for _, v in ipairs(slot_data["starting_villagers"]) do
+		Tracker:FindObjectForCode(v).Active = true
+	end
 	local starting_area = slot_data["starting_area"]
 
 	-- Location Pool
@@ -133,21 +140,19 @@ function apply_slot_data(slot_data)
 	if no_hit then
 		Tracker:FindObjectForCode("medalchests").Active = true
 	end
-	local villagers_in_pool = slot_data["randomize_villagers"]
-	Tracker:FindObjectForCode("villagers").CurrentStage = villagers_in_pool
-
+	-- These should be named better
 	local no_parkour = slot_data["remove_training_hall"]
 	if no_parkour then
-		Tracker:FindObjectForCode("notraining").Active = true
+		Tracker:FindObjectForCode("notraining").Active = false
 	end
 	local no_enemy_rush = slot_data["remove_large_cavern"]
 	if no_enemy_rush then
-		Tracker:FindObjectForCode("nolarge").Active = true
+		Tracker:FindObjectForCode("nolarge").Active = false
 	end
-	local stolen = slot_data["stolen_glyphs"]
-	Tracker:FindObjectForCode("stolenglyphs").CurrentStage = stolen
-	local dropped = slot_data["dropped_glyphs"]
-	Tracker:FindObjectForCode("droppedglyphs").CurrentStage = dropped
+
+	Tracker:FindObjectForCode("villagers").Active = slot_data["randomize_villagers"] == 2
+	Tracker:FindObjectForCode("stolenglyphs").Active = slot_data["stolen_glyphs"] == 2
+	Tracker:FindObjectForCode("droppedglyphs").Active = slot_data["dropped_glyphs"] == 2
 
 	-- Logic
 	local open_castle = slot_data["open_castle"]
@@ -160,14 +165,14 @@ function apply_slot_data(slot_data)
 	if barlowe then
 		Tracker:FindObjectForCode("reqbarlowe").Active = true
 	end
-	-- generator puzzle
-	local generator_logic = slot_data["generator_logic"]
-	-- what type of damage a glyph does
-	local glyph_attr = slot_data["glyph_attributes"]
-	-- Dict[Str: List[Str]]
-	local tinman = slot_data["tin_man_glyph_logic"]
 
-	-- List[Tuple(str, str), ...]
+	-- We don't need these since PT can check for things not in the pool
+	-- -- generator puzzle
+	-- local generator_logic = slot_data["generator_logic"]
+	-- -- what type of damage a glyph does
+	-- local glyph_attr = slot_data["glyph_attributes"]
+	-- local tinman = slot_data["tin_man_glyph_logic"]
+
 	for _, tuple in ipairs(slot_data["logic_tricks"]) do
 		Tracker:FindObjectForCode(tuple).Active = true
 	end

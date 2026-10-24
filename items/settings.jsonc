@@ -2,100 +2,126 @@
     {
         "name": "Shuffle Dominus",
         "type": "toggle",
-        "img": "images/chests/ap.png",
+        "img": "images/items/glyphs/dominus1.png",
         "codes": "shuffledominus"
     },
     {
         "name": "Add Brown Chests",
         "type": "toggle",
-        "img": "images/chests/ap.png",
+        "img": "images/settings/addbrownchests.png",
         "codes": "brownchests"
     },
     {
         "name": "Add Medal Chests",
         "type": "toggle",
-        "img": "images/chests/ap.png",
+        "img": "images/settings/addbluechests.png",
         "codes": "medalchests"
     },
     {
         "name": "Randomize Stolen Glyphs",
-        "type": "progressive",
-        "allow_disabled": true,
-        "stages": [
-            {
-                "img": "images/chests/ap.png",
-                "codes": "stolenglyphs, stolenshuffled",
-                "inherit_codes": false
-            },
-            {
-                "img": "images/chests/ap.png",
-                "codes": "stolenglyphs, stolensanity",
-                "inherit_codes": false
-            }
-        ]
+        "type": "toggle",
+        "img": "images/settings/stolenglyphs.png",
+        "codes": "stolenglyphs, stolensanity"
     },
+    // {
+    //     "name": "Randomize Stolen Glyphs",
+    //     "type": "progressive",
+    //     "allow_disabled": true,
+    //     "stages": [
+    //         {
+    //             "img": "images/chests/ap.png",
+    //             "codes": "stolenglyphs, stolenshuffled",
+    //             "inherit_codes": false
+    //         },
+    //         {
+    //             "img": "images/settings/stolenglyphs.png",
+    //             "codes": "stolenglyphs, stolensanity",
+    //             "inherit_codes": false
+    //         }
+    //     ]
+    // },
     {
         "name": "Randomize Dropped Glyphs",
-        "type": "progressive",
-        "allow_disabled": true,
-        "stages": [
-            {
-                "img": "images/chests/ap.png",
-                "codes": "droppedglyphs, droppedshuffled",
-                "inherit_codes": false
-            },
-            {
-                "img": "images/chests/ap.png",
-                "codes": "droppedglyphs, droppedsanity",
-                "inherit_codes": false
-            }
-        ]
+        "type": "toggle",
+        "img": "images/settings/droppedglyphs.png",
+        "codes": "droppedglyphs, droppedsanity"
     },
+    // {
+    //     "name": "Randomize Dropped Glyphs",
+    //     "type": "progressive",
+    //     "allow_disabled": true,
+    //     "stages": [
+    //         {
+    //             "img": "images/chests/ap.png",
+    //             "codes": "droppedglyphs, droppedshuffled",
+    //             "inherit_codes": false
+    //         },
+    //         {
+    //             "img": "images/settings/droppedglyphs.png",
+    //             "codes": "droppedglyphs, droppedsanity",
+    //             "inherit_codes": false
+    //         }
+    //     ]
+    // },
     {
         "name": "Randomize Villagers",
-        "type": "progressive",
-        "allow_disabled": true,
-        "stages": [
-            {
-                "img": "images/chests/ap.png",
-                "codes": "villagers, villagershuffled",
-                "inherit_codes": false
-            },
-            {
-                "img": "images/chests/ap.png",
-                "codes": "villagers, villagersanity",
-                "inherit_codes": false
-            }
-        ]
-    },
-    {
-        "name": "Remove Training Hall",
         "type": "toggle",
-        "img": "images/chests/ap.png",
+        "img": "images/settings/villagersanity.png",
+        "codes": "villagers, villagersanity"
+    },
+    // {
+    //     "name": "Randomize Villagers",
+    //     "type": "progressive",
+    //     "allow_disabled": true,
+    //     "stages": [
+    //         {
+    //             "img": "images/chests/ap.png",
+    //             "codes": "villagers, villagershuffled",
+    //             "inherit_codes": false
+    //         },
+    //         {
+    //             "img": "images/chests/ap.png",
+    //             "codes": "villagers, villagersanity",
+    //             "inherit_codes": false
+    //         }
+    //     ]
+    // },
+    {
+        "name": "Training Hall Enabled",
+        "type": "toggle",
+        "initial_active_state": true,
+        "img": "images/items/map_icons/hall.png",
         "codes": "notraining"
     },
     {
-        "name": "Remove Large Cavern",
+        "name": "Large Cavern Enabled",
         "type": "toggle",
-        "img": "images/chests/ap.png",
+        "initial_active_state": true,
+        "img": "images/items/map_icons/cavern.png",
         "codes": "nolarge"
     },
     {
         "name": "Open Castle",
         "type": "toggle",
-        "img": "images/chests/ap.png",
+        "img": "images/items/map_icons/castle.png",
         "codes": "opencastle"
     },
     {
         "name": "Barlowe Required",
         "type": "toggle",
-        "img": "images/chests/ap.png",
+        "img": "images/settings/barlowe.png",
+        "disabled_img": "images/settings/barhighe.png",
+        "disabled_img_mod": "grey",
         "codes": "reqbarlowe"
     },
     {
         "name": "Villagers Required",
         "type": "consumable",
-        "img": "images/chests/ap.png",
+        "min_quantity": 0,
+        "max_quantity": 13,
+        "increment": 1,
+        "decrement": 1,
+        "img": "images/settings/villageramount.png",
         "codes": "reqvillagers"
     }
 ]

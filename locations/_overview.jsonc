@@ -538,7 +538,10 @@
 					{
 						"map": "Map",
 						"x": 562,
-						"y": 242
+						"y": 242,
+						"restrict_visibility_rules": [
+							"nolarge"
+						]
 					}
 				]
 			},
@@ -1222,7 +1225,10 @@
 					{
 						"map": "Map",
 						"x": 132,
-						"y": 402
+						"y": 402,
+						"restrict_visibility_rules": [
+							"notraining"
+						]
 					}
 				]
 			},
