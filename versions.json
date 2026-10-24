@@ -1,11 +1,13 @@
 {
     "versions": [
         {
-            "package_version": "0.4",
-            "download_url": "https://github.com/SchwartzGandhi/CVOoEPT/releases/download/0.4/CVOoEPT.zip",
-            "sha256": "bf80f87d541a83a250ae51f5c8b37efd59b24a56cabb10c891851ca05afb27be",
+            "package_version": "1.0",
+            "download_url": "https://github.com/SchwartzGandhi/CVOoEPT/releases/download/1.0/CVOoEPT.zip",
+            "sha256": "bbe20dc577608449dc9fd80e836f516af740c97c0a2e7538c284376d26cca5f9",
             "changelog": [
-                "Added quests locations and items"
+                "Settings now have images",
+                "Tricks specified in your yaml will now be shown as green",
+                "Locations will now be hidden in accordance to settings"
             ]
         }
     ]
